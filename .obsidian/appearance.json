@@ -1,0 +1,13 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "interfaceFontFamily": "Liberation Mono,Roboto,DejaVu Sans Mono",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "Image left align"
+  ],
+  "accentColor": "#839496",
+  "textFontFamily": "DejaVu Sans Mono,Roboto",
+  "nativeMenus": false
+}

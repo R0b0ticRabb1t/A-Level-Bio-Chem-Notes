@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldIndent": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "vimMode": true,
+  "showFrontmatter": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Images",
+  "foldHeading": true,
+  "showInlineTitle": false,
+  "defaultViewMode": "source",
+  "readableLineLength": true
+}

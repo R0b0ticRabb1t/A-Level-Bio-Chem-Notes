@@ -1,0 +1,38 @@
+root {
+
+  /*----------------------------------------------------------------
+  Colors
+  Most colors in this theme are driven from the following values,
+  meaning that the backgrounds, borders, and various shades are
+  automatically generated for you.
+  - Base color is used for the backgrounds, text and borders.
+  - Accent color is used for links and some interactive elements.
+  The colors use HSL (hue, saturation, lightness)
+  - Hue (0-360 degrees):0 is red, 120 is green, and 240 is blue
+  - Saturation (0-100%):0% is desaturated, 100% is full saturation
+  - Lightness (0-100%):0% is black, 100% is white
+  */
+
+  --base-h:220;       /* Base hue */
+  --base-s:16%;      /* Base saturation */
+  --base-d:22%;   /* Base lightness Dark Mode  - 0 is black */
+  /* As of 4.4.8 you also need to define --base-l in .theme-dark below otherwise a 15% overwrites it */
+  --base-l:22%;     /* Base lightness Light Mode  - 100 is white */
+  --accent-h:210;   /* Accent hue */
+  --accent-s:34%;   /* Accent saturation */
+  --accent-d:63%;   /* Accent lightness Dark Mode */
+  --accent-l:63%;   /* Accent lightness Light Mode */
+
+  --h1:2.00em;
+  --h2:1.75em;
+  --h3:1.50em;
+  --h4:1.25em;
+  --h5:1.00em;
+  --h6:1.00em;
+
+  --h1-weight:600;
+  --h2-weight:600;
+  --h3-weight:500;
+  --h4-weight:500;
+  --h5-weight:500;
+  --h6-weight:400;}

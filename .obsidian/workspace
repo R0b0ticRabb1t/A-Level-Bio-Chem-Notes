@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "f63e6f249fba70a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ccf8833d74e11b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b59e58892abcff0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca9436167eeec21d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27f4bc236879c08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3102e20a95e6edb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#unfillable",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "665c1fcc85871db7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.51499938964844
+  },
+  "right": {
+    "id": "004e0222d9d02910",
+    "type": "split",
+    "children": [
+      {
+        "id": "372cc1018c639060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd376c1b8838834",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f87e372e25a4bccc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ebb004b09754110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e49e39afc094cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5180e4c5a7cb8450",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9f8f19fc51383858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88d1e4680146bc5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#biology",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6069206
+                      }
+                    },
+                    {
+                      "query": "tag:#chemistry",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15765841
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1.25014729639837,
+                  "lineSizeMultiplier": 1.01173619690202,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5543991191002484,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "944921395b686e9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a2ccf8833d74e11b",
+  "lastOpenFiles": [
+    "Biology/2 Biological Molecules/2 Biological Molecules.md",
+    "Chemistry/Atomic Radius.md",
+    "General Things/Glycosidic Bond.md",
+    "General Things/Condensation Reaction.md",
+    "Biology/2 Biological Molecules/Disaccharides.md",
+    "Biology/2 Biological Molecules/Glucose.md",
+    "Biology/2 Biological Molecules/Amylose.md",
+    "Biology/2 Biological Molecules/Starch.md",
+    "To do list.md",
+    "Biology/2 Biological Molecules/Polysaccharides.md"
+  ]
+}

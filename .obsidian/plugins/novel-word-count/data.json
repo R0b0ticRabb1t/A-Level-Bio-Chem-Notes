@@ -1,0 +1,1239 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": true,
+    "alignment": "right",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "README.md": {
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 23,
+      "createdDate": 1673452341340,
+      "modifiedDate": 1673452341340
+    },
+    "To Do.md": {
+      "noteCount": 1,
+      "wordCount": 116,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 536,
+      "nonWhitespaceCharacterCount": 392,
+      "createdDate": 1673357459581,
+      "modifiedDate": 1673357459581
+    },
+    "Style Settings Test.md": {
+      "noteCount": 1,
+      "wordCount": 59,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 322,
+      "nonWhitespaceCharacterCount": 258,
+      "createdDate": 1673357459581,
+      "modifiedDate": 1673357459581
+    },
+    "NEET Only Things/Rana Tigrina.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 446,
+      "nonWhitespaceCharacterCount": 370,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1667542249020
+    },
+    "NEET Only Things/Plants/Xylem.md": {
+      "noteCount": 1,
+      "wordCount": 100,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 620,
+      "nonWhitespaceCharacterCount": 511,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1673095805019
+    },
+    "NEET Only Things/Plants/Vascular Tissue System.md": {
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 162,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1671375948119
+    },
+    "NEET Only Things/Plants/True Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 357,
+      "nonWhitespaceCharacterCount": 291,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670923482230
+    },
+    "NEET Only Things/Plants/Simple Tissue.md": {
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 208,
+      "nonWhitespaceCharacterCount": 175,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1669119312061
+    },
+    "NEET Only Things/Plants/Plants.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 291,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1668410008969
+    },
+    "NEET Only Things/Plants/Plant Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 447,
+      "nonWhitespaceCharacterCount": 377,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1673354393732
+    },
+    "NEET Only Things/Plants/Plant Tissue Systems.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 301,
+      "nonWhitespaceCharacterCount": 256,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670923582426
+    },
+    "NEET Only Things/Plants/Permanent Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 13,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 70,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1666019275077
+    },
+    "NEET Only Things/Plants/Pericarp.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 503,
+      "nonWhitespaceCharacterCount": 405,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670833614960
+    },
+    "NEET Only Things/Plants/Parthenocarpic Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 506,
+      "nonWhitespaceCharacterCount": 422,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670923171859
+    },
+    "NEET Only Things/Plants/Parenchyma.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 399,
+      "nonWhitespaceCharacterCount": 334,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1673095779591
+    },
+    "NEET Only Things/Plants/Meristematic Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 102,
+      "pageCount": 0.34,
+      "characterCount": 728,
+      "nonWhitespaceCharacterCount": 603,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1671092773651
+    },
+    "NEET Only Things/Plants/Fundamental Tissue System.md": {
+      "noteCount": 1,
+      "wordCount": 38,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 281,
+      "nonWhitespaceCharacterCount": 240,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1671092299213
+    },
+    "NEET Only Things/Plants/Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 482,
+      "nonWhitespaceCharacterCount": 398,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1668066266677
+    },
+    "NEET Only Things/Plants/False Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 226,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670835239834
+    },
+    "NEET Only Things/Plants/Fleshy Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 274,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670833621536
+    },
+    "NEET Only Things/Plants/Epidermal Tissue System.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 458,
+      "nonWhitespaceCharacterCount": 383,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1672669871261
+    },
+    "NEET Only Things/Plants/Dry Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 146,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1669119318685
+    },
+    "NEET Only Things/Plants/Compound Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 369,
+      "nonWhitespaceCharacterCount": 309,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670923276180
+    },
+    "NEET Only Things/Plants/Anatomy of Plants.md": {
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 204,
+      "nonWhitespaceCharacterCount": 170,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1667917593724
+    },
+    "NEET Only Things/Morphology of a Frog.md": {
+      "noteCount": 1,
+      "wordCount": 75,
+      "pageCount": 0.25,
+      "characterCount": 416,
+      "nonWhitespaceCharacterCount": 335,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1667536652499
+    },
+    "NEET Only Things/Epithelial Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 382,
+      "nonWhitespaceCharacterCount": 321,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1666297615124
+    },
+    "NEET Only Things/Connective Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 144,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1666462487322
+    },
+    "NEET Only Things/Animal Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 310,
+      "nonWhitespaceCharacterCount": 262,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1666297506029
+    },
+    "NEET Only Things/Anatomy Of a Frog.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 56,
+      "nonWhitespaceCharacterCount": 45,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1667542276192
+    },
+    "MISTAKES.md": {
+      "noteCount": 1,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 137,
+      "nonWhitespaceCharacterCount": 116,
+      "createdDate": 1673357459581,
+      "modifiedDate": 1673357459581
+    },
+    "Inbox/Osmosis.md": {
+      "noteCount": 1,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 162,
+      "nonWhitespaceCharacterCount": 138,
+      "createdDate": 1673451896313,
+      "modifiedDate": 1673452007533
+    },
+    "Inbox/Inhibitors.md": {
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 54,
+      "nonWhitespaceCharacterCount": 46,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1668443964000
+    },
+    "Inbox/CarboCation.md": {
+      "noteCount": 1,
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 366,
+      "nonWhitespaceCharacterCount": 311,
+      "createdDate": 1673247419017,
+      "modifiedDate": 1673247801195
+    },
+    "Guide.md": {
+      "noteCount": 1,
+      "wordCount": 147,
+      "pageCount": 0.49,
+      "characterCount": 680,
+      "nonWhitespaceCharacterCount": 501,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "General Things/Microscopes.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 310,
+      "nonWhitespaceCharacterCount": 265,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "General Things/Glycosidic Bond.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 180,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "General Things/Condensation Reaction.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 528,
+      "nonWhitespaceCharacterCount": 440,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "General Things/Colorimeter.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 207,
+      "nonWhitespaceCharacterCount": 179,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "Excalidraw/Simple Tissues.md": {
+      "noteCount": 1,
+      "wordCount": 13643,
+      "pageCount": 45.47666666666667,
+      "characterCount": 178056,
+      "nonWhitespaceCharacterCount": 114002,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "Excalidraw/Peptide Bonds.excalidraw.md": {
+      "noteCount": 1,
+      "wordCount": 21466,
+      "pageCount": 71.55333333333333,
+      "characterCount": 291082,
+      "nonWhitespaceCharacterCount": 196192,
+      "createdDate": 1673357459389,
+      "modifiedDate": 1673357459389
+    },
+    "Excalidraw/Amino Acid Structure.excalidraw.md": {
+      "noteCount": 1,
+      "wordCount": 6383,
+      "pageCount": 21.276666666666667,
+      "characterCount": 82129,
+      "nonWhitespaceCharacterCount": 53972,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459389
+    },
+    "English AS levels/Schools in dreams.md": {
+      "noteCount": 1,
+      "wordCount": 529,
+      "pageCount": 1.7633333333333334,
+      "characterCount": 2806,
+      "nonWhitespaceCharacterCount": 2271,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1668052379122
+    },
+    "English AS levels/Old Friends.md": {
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 479,
+      "nonWhitespaceCharacterCount": 386,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1668010245490
+    },
+    "English AS levels/My English Essay Idea scratchpad.md": {
+      "noteCount": 1,
+      "wordCount": 116,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 642,
+      "nonWhitespaceCharacterCount": 522,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1668010333782
+    },
+    "English AS levels/English AS levels.md": {
+      "noteCount": 1,
+      "wordCount": 38,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 181,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1673362153760
+    },
+    "English AS levels/English AS Level Youtube Notes.md": {
+      "noteCount": 1,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 285,
+      "nonWhitespaceCharacterCount": 227,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1668443936520
+    },
+    "English AS levels/Dynamic Description.md": {
+      "noteCount": 1,
+      "wordCount": 671,
+      "pageCount": 2.236666666666667,
+      "characterCount": 3490,
+      "nonWhitespaceCharacterCount": 2808,
+      "createdDate": 1673176735688,
+      "modifiedDate": 1667883887792
+    },
+    "Dataview Test Sheets.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 317,
+      "nonWhitespaceCharacterCount": 274,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Consciousness/school.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 58,
+      "createdDate": 1673176735672,
+      "modifiedDate": 1664476839588
+    },
+    "Consciousness/Math Duels.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1143,
+      "nonWhitespaceCharacterCount": 950,
+      "createdDate": 1673176735672,
+      "modifiedDate": 1665947826360
+    },
+    "Consciousness/Ideas that schools will never implement.md": {
+      "noteCount": 1,
+      "wordCount": 13,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 88,
+      "createdDate": 1673176735672,
+      "modifiedDate": 1668065772002
+    },
+    "Consciousness/Hatred.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 211,
+      "nonWhitespaceCharacterCount": 172,
+      "createdDate": 1673176735672,
+      "modifiedDate": 1668065771942
+    },
+    "Consciousness/Consciousness.md": {
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 121,
+      "createdDate": 1673176735672,
+      "modifiedDate": 1673362153760
+    },
+    "Chemistry/Ionisation Energy.md": {
+      "noteCount": 1,
+      "wordCount": 169,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 1043,
+      "nonWhitespaceCharacterCount": 863,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Hydrogen Bonds.md": {
+      "noteCount": 1,
+      "wordCount": 29,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 219,
+      "nonWhitespaceCharacterCount": 187,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electrons.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 262,
+      "nonWhitespaceCharacterCount": 217,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electron Configuration/Simple Electron Structure.md": {
+      "noteCount": 1,
+      "wordCount": 135,
+      "pageCount": 0.45,
+      "characterCount": 832,
+      "nonWhitespaceCharacterCount": 634,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electron Configuration/Filling Electron subshells.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 248,
+      "nonWhitespaceCharacterCount": 204,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electron Configuration/Electron Sub Shells.md": {
+      "noteCount": 1,
+      "wordCount": 105,
+      "pageCount": 0.35,
+      "characterCount": 665,
+      "nonWhitespaceCharacterCount": 549,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electron Configuration/Electron Orbitals.md": {
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 439,
+      "nonWhitespaceCharacterCount": 366,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Electron Configuration/Electron Configuration.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 531,
+      "nonWhitespaceCharacterCount": 443,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Chemistry.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 264,
+      "nonWhitespaceCharacterCount": 220,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Atoms.md": {
+      "noteCount": 1,
+      "wordCount": 141,
+      "pageCount": 0.47,
+      "characterCount": 801,
+      "nonWhitespaceCharacterCount": 588,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Chemistry/Atomic Radius.md": {
+      "noteCount": 1,
+      "wordCount": 58,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 358,
+      "nonWhitespaceCharacterCount": 297,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/photosynthesis.md": {
+      "noteCount": 1,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 416,
+      "nonWhitespaceCharacterCount": 353,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/Sickle Cell Anaemia.md": {
+      "noteCount": 1,
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 374,
+      "nonWhitespaceCharacterCount": 319,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/Biology.md": {
+      "noteCount": 1,
+      "wordCount": 56,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 529,
+      "nonWhitespaceCharacterCount": 468,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/Biology Textbook.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 43,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Surface area to volume ratio.md": {
+      "noteCount": 1,
+      "wordCount": 66,
+      "pageCount": 0.22,
+      "characterCount": 390,
+      "nonWhitespaceCharacterCount": 323,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Factors that affect rate of diffusion.md": {
+      "noteCount": 1,
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 813,
+      "nonWhitespaceCharacterCount": 683,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md": {
+      "noteCount": 1,
+      "wordCount": 85,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 514,
+      "nonWhitespaceCharacterCount": 429,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md": {
+      "noteCount": 1,
+      "wordCount": 105,
+      "pageCount": 0.35,
+      "characterCount": 770,
+      "nonWhitespaceCharacterCount": 662,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Diffusion.md": {
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 658,
+      "nonWhitespaceCharacterCount": 559,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673451901197
+    },
+    "Biology/4 Cell Surface Membrane/Chemical Cell Signalling.md": {
+      "noteCount": 1,
+      "wordCount": 125,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 862,
+      "nonWhitespaceCharacterCount": 728,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Channel Proteins.md": {
+      "noteCount": 1,
+      "wordCount": 85,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 545,
+      "nonWhitespaceCharacterCount": 458,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Cell Signalling.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 324,
+      "nonWhitespaceCharacterCount": 276,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/4 Cell Surface Membrane/Carrier Proteins.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 373,
+      "nonWhitespaceCharacterCount": 320,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673451819246
+    },
+    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md": {
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1540,
+      "nonWhitespaceCharacterCount": 1314,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673451901153
+    },
+    "Biology/3 Enzymes/Vmax.md": {
+      "noteCount": 1,
+      "wordCount": 98,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 628,
+      "nonWhitespaceCharacterCount": 527,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/Michaelis-Menten Constant.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 310,
+      "nonWhitespaceCharacterCount": 266,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/Lock and Key Hypothesis.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 463,
+      "nonWhitespaceCharacterCount": 386,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/Induced Fit Hypothesis.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 310,
+      "nonWhitespaceCharacterCount": 258,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/Factors Affecting Enzyme Activity.md": {
+      "noteCount": 1,
+      "wordCount": 254,
+      "pageCount": 0.8466666666666667,
+      "characterCount": 1785,
+      "nonWhitespaceCharacterCount": 1519,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/Enzyme Affinities.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 240,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/3 Enzymes/3 Enzymes.md": {
+      "noteCount": 1,
+      "wordCount": 162,
+      "pageCount": 0.54,
+      "characterCount": 1118,
+      "nonWhitespaceCharacterCount": 944,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Water.md": {
+      "noteCount": 1,
+      "wordCount": 140,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 962,
+      "nonWhitespaceCharacterCount": 820,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Structure of Proteins.md": {
+      "noteCount": 1,
+      "wordCount": 206,
+      "pageCount": 0.6866666666666666,
+      "characterCount": 1384,
+      "nonWhitespaceCharacterCount": 1155,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Proteins.md": {
+      "noteCount": 1,
+      "wordCount": 93,
+      "pageCount": 0.31,
+      "characterCount": 615,
+      "nonWhitespaceCharacterCount": 516,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Prosthetic groups.md": {
+      "noteCount": 1,
+      "wordCount": 38,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 260,
+      "nonWhitespaceCharacterCount": 219,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Peptide Bonds.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 315,
+      "nonWhitespaceCharacterCount": 270,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Haemoglobin.md": {
+      "noteCount": 1,
+      "wordCount": 121,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 868,
+      "nonWhitespaceCharacterCount": 743,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Collagen.md": {
+      "noteCount": 1,
+      "wordCount": 113,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 749,
+      "nonWhitespaceCharacterCount": 630,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/Amino Acids.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 488,
+      "nonWhitespaceCharacterCount": 409,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md": {
+      "noteCount": 1,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 562,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Lipids/Triglycerides.md": {
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 583,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Lipids/Phospholipids.md": {
+      "noteCount": 1,
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 367,
+      "nonWhitespaceCharacterCount": 313,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Lipids/Lipids.md": {
+      "noteCount": 1,
+      "wordCount": 97,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 623,
+      "nonWhitespaceCharacterCount": 521,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Lipids/Glycerol.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 358,
+      "nonWhitespaceCharacterCount": 316,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Lipids/Fatty Acids.md": {
+      "noteCount": 1,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 654,
+      "nonWhitespaceCharacterCount": 543,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Starch.md": {
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 374,
+      "nonWhitespaceCharacterCount": 320,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Polysaccharides.md": {
+      "noteCount": 1,
+      "wordCount": 78,
+      "pageCount": 0.26,
+      "characterCount": 576,
+      "nonWhitespaceCharacterCount": 493,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673451618214
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Monosaccharides.md": {
+      "noteCount": 1,
+      "wordCount": 111,
+      "pageCount": 0.37,
+      "characterCount": 753,
+      "nonWhitespaceCharacterCount": 630,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Glucose.md": {
+      "noteCount": 1,
+      "wordCount": 98,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 751,
+      "nonWhitespaceCharacterCount": 649,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Disaccharides.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 486,
+      "nonWhitespaceCharacterCount": 412,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Cellulose.md": {
+      "noteCount": 1,
+      "wordCount": 121,
+      "pageCount": 0.4033333333333333,
+      "characterCount": 834,
+      "nonWhitespaceCharacterCount": 709,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Carbohydrates.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 566,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Amylose.md": {
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 480,
+      "nonWhitespaceCharacterCount": 405,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/Carbohydrates/Amylopectin.md": {
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 365,
+      "nonWhitespaceCharacterCount": 313,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/2 Biological Molecules/2 Biological Molecules.md": {
+      "noteCount": 1,
+      "wordCount": 97,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 741,
+      "nonWhitespaceCharacterCount": 620,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Viruses.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 405,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Prokaryotic.md": {
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 186,
+      "nonWhitespaceCharacterCount": 159,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Plant Cells.md": {
+      "noteCount": 1,
+      "wordCount": 59,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 428,
+      "nonWhitespaceCharacterCount": 357,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Vacuole.md": {
+      "noteCount": 1,
+      "wordCount": 98,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 643,
+      "nonWhitespaceCharacterCount": 539,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673451901125
+    },
+    "Biology/1 Cells/Parts of Cells/Stomata.md": {
+      "noteCount": 1,
+      "wordCount": 28,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 164,
+      "nonWhitespaceCharacterCount": 133,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Ribosomes.md": {
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 978,
+      "nonWhitespaceCharacterCount": 862,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Plasmids.md": {
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 169,
+      "nonWhitespaceCharacterCount": 141,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Nucleus.md": {
+      "noteCount": 1,
+      "wordCount": 96,
+      "pageCount": 0.32,
+      "characterCount": 894,
+      "nonWhitespaceCharacterCount": 794,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Nucleolus.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 431,
+      "nonWhitespaceCharacterCount": 358,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Nuclear Envelope.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 280,
+      "nonWhitespaceCharacterCount": 230,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Mitochondria.md": {
+      "noteCount": 1,
+      "wordCount": 109,
+      "pageCount": 0.36333333333333334,
+      "characterCount": 750,
+      "nonWhitespaceCharacterCount": 634,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Microvilli.md": {
+      "noteCount": 1,
+      "wordCount": 48,
+      "pageCount": 0.16,
+      "characterCount": 360,
+      "nonWhitespaceCharacterCount": 311,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Microtubules.md": {
+      "noteCount": 1,
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 1140,
+      "nonWhitespaceCharacterCount": 1008,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Lysosomes.md": {
+      "noteCount": 1,
+      "wordCount": 96,
+      "pageCount": 0.32,
+      "characterCount": 916,
+      "nonWhitespaceCharacterCount": 814,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Golgi Apparatus.md": {
+      "noteCount": 1,
+      "wordCount": 85,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 903,
+      "nonWhitespaceCharacterCount": 810,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Endoplasmic Reticulum.md": {
+      "noteCount": 1,
+      "wordCount": 117,
+      "pageCount": 0.39,
+      "characterCount": 1000,
+      "nonWhitespaceCharacterCount": 874,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Cytoplasm.md": {
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 298,
+      "nonWhitespaceCharacterCount": 252,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Cillia.md": {
+      "noteCount": 1,
+      "wordCount": 184,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1431,
+      "nonWhitespaceCharacterCount": 1239,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Chromosomes.md": {
+      "noteCount": 1,
+      "wordCount": 35,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 189,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Chloroplasts.md": {
+      "noteCount": 1,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 589,
+      "nonWhitespaceCharacterCount": 497,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Centrosome.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 90,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Centrioles.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 486,
+      "nonWhitespaceCharacterCount": 407,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Parts of Cells/Cell Walls.md": {
+      "noteCount": 1,
+      "wordCount": 88,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 563,
+      "nonWhitespaceCharacterCount": 473,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Eukaryotic.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 203,
+      "nonWhitespaceCharacterCount": 174,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Bacterial Cells.md": {
+      "noteCount": 1,
+      "wordCount": 114,
+      "pageCount": 0.38,
+      "characterCount": 803,
+      "nonWhitespaceCharacterCount": 681,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Animal Cells.md": {
+      "noteCount": 1,
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 384,
+      "nonWhitespaceCharacterCount": 320,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/1 Cells.md": {
+      "noteCount": 1,
+      "wordCount": 182,
+      "pageCount": 0.6066666666666667,
+      "characterCount": 1379,
+      "nonWhitespaceCharacterCount": 1167,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    }
+  }
+}
