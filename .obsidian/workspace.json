@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Osmosis.md",
+                "file": "Protoplast.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92526dd1ba993718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incipient Plasmolysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "154f86939c6f5dad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/1 Cells/Parts of Cells/Cytoplasm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Osmosis.md"
+                "file": "Protoplast.md"
               }
             }
           },
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Osmosis.md",
+                "file": "Protoplast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Osmosis.md",
+                "file": "Protoplast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inbox/Osmosis.md",
+                "file": "Protoplast.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,21 +239,21 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "bbdb4ae5b549a0c7",
   "lastOpenFiles": [
+    "Inbox/Osmosis.md",
+    "Incipient Plasmolysis.md",
+    "Protoplast.md",
+    "Biology/1 Cells/Parts of Cells/Cytoplasm.md",
     "Biology/4 Cell Surface Membrane/Carrier Proteins.md",
     "Untitled.md",
     "NEET Only Things/Connective Tissues.md",
     "Biology/2 Biological Molecules/Carbohydrates/Polysaccharides.md",
     "Biology/4 Cell Surface Membrane/Diffusion.md",
-    "Biology/3 Enzymes/Michaelis-Menten Constant.md",
-    "Biology/3 Enzymes/Enzyme Affinities.md",
-    "Biology/1 Cells/Parts of Cells/Lysosomes.md",
-    "NEET Only Things/Plants/Plant Tissues.md",
-    "Inbox/CarboCation.md"
+    "Biology/3 Enzymes/Michaelis-Menten Constant.md"
   ]
 }

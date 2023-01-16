@@ -11,14 +11,23 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "README.md": {
+    "Protoplast.md": {
       "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 25,
-      "nonWhitespaceCharacterCount": 23,
-      "createdDate": 1673452341340,
-      "modifiedDate": 1673452341340
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 140,
+      "nonWhitespaceCharacterCount": 120,
+      "createdDate": 1673498612778,
+      "modifiedDate": 1673498612814
+    },
+    "Incipient Plasmolysis.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 164,
+      "nonWhitespaceCharacterCount": 136,
+      "createdDate": 1673498299799,
+      "modifiedDate": 1673498371663
     },
     "To Do.md": {
       "noteCount": 1,
@@ -37,6 +46,15 @@
       "nonWhitespaceCharacterCount": 258,
       "createdDate": 1673357459581,
       "modifiedDate": 1673357459581
+    },
+    "README.md": {
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 23,
+      "createdDate": 1673452341340,
+      "modifiedDate": 1673452341340
     },
     "NEET Only Things/Rana Tigrina.md": {
       "noteCount": 1,
@@ -173,15 +191,6 @@
       "createdDate": 1673176735692,
       "modifiedDate": 1668066266677
     },
-    "NEET Only Things/Plants/False Fruits.md": {
-      "noteCount": 1,
-      "wordCount": 43,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 272,
-      "nonWhitespaceCharacterCount": 226,
-      "createdDate": 1673176735692,
-      "modifiedDate": 1670835239834
-    },
     "NEET Only Things/Plants/Fleshy Fruits.md": {
       "noteCount": 1,
       "wordCount": 47,
@@ -190,6 +199,15 @@
       "nonWhitespaceCharacterCount": 274,
       "createdDate": 1673176735692,
       "modifiedDate": 1670833621536
+    },
+    "NEET Only Things/Plants/False Fruits.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 226,
+      "createdDate": 1673176735692,
+      "modifiedDate": 1670835239834
     },
     "NEET Only Things/Plants/Epidermal Tissue System.md": {
       "noteCount": 1,
@@ -288,7 +306,7 @@
       "characterCount": 162,
       "nonWhitespaceCharacterCount": 138,
       "createdDate": 1673451896313,
-      "modifiedDate": 1673452007533
+      "modifiedDate": 1673497896042
     },
     "Inbox/Inhibitors.md": {
       "noteCount": 1,
@@ -1138,12 +1156,12 @@
     },
     "Biology/1 Cells/Parts of Cells/Cytoplasm.md": {
       "noteCount": 1,
-      "wordCount": 45,
-      "pageCount": 0.15,
-      "characterCount": 298,
-      "nonWhitespaceCharacterCount": 252,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 370,
+      "nonWhitespaceCharacterCount": 314,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673357459385
+      "modifiedDate": 1673498596294
     },
     "Biology/1 Cells/Parts of Cells/Cillia.md": {
       "noteCount": 1,
