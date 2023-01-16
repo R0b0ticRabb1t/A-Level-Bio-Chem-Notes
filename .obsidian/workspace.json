@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6198713062bd8dfd",
+        "id": "cdffc8b581da2299",
         "type": "tabs",
         "children": [
           {
-            "id": "bbdb4ae5b549a0c7",
+            "id": "bb52daf1b3809495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protoplast.md",
+                "file": "Active Transport.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "92526dd1ba993718",
+            "id": "51ef72023f9b88e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Incipient Plasmolysis.md",
+                "file": "Exocytosis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "154f86939c6f5dad",
+            "id": "cc82245eda9924db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/1 Cells/Parts of Cells/Cytoplasm.md",
+                "file": "Endocytosis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protoplast.md"
+                "file": "Exocytosis.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protoplast.md",
+                "file": "Exocytosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protoplast.md",
+                "file": "Exocytosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protoplast.md",
+                "file": "Exocytosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,17 +244,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bbdb4ae5b549a0c7",
+  "active": "51ef72023f9b88e5",
   "lastOpenFiles": [
-    "Inbox/Osmosis.md",
-    "Incipient Plasmolysis.md",
-    "Protoplast.md",
-    "Biology/1 Cells/Parts of Cells/Cytoplasm.md",
-    "Biology/4 Cell Surface Membrane/Carrier Proteins.md",
-    "Untitled.md",
+    "Endocytosis.md",
+    "Exocytosis.md",
+    "Active Transport.md",
+    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
+    "Protein Pumps.md",
     "NEET Only Things/Connective Tissues.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Polysaccharides.md",
-    "Biology/4 Cell Surface Membrane/Diffusion.md",
-    "Biology/3 Enzymes/Michaelis-Menten Constant.md"
+    "NEET Only Things/Plants/Epidermal Tissue System.md",
+    "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
+    "Biology/3 Enzymes/3 Enzymes.md",
+    "Biology/3 Enzymes/Enzyme Affinities.md"
   ]
 }

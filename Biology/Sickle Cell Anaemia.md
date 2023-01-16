@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-12
-sr-interval: 15
+sr-due: 2023-02-26
+sr-interval: 45
 sr-ease: 290
 ---
 ## Sickle Cell Anaemia
