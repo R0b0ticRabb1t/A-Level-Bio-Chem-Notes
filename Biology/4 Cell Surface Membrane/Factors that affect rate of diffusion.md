@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-17
-sr-interval: 8
+sr-due: 2023-02-04
+sr-interval: 18
 sr-ease: 254
 ---
 ## Factors that change the speeed of diffusion

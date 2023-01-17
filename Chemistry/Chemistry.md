@@ -6,7 +6,7 @@ i need to catch up on it
 %% Begin Waypoint %%
 - [[Atomic Radius]]
 - [[Atoms]]
-- **Chemical Bonding**
+- [[CarboCation]]
 - **[[Electron Configuration]]**
 - [[Electrons]]
 - [[Hydrogen Bonds]]

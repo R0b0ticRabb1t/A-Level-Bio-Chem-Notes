@@ -15,5 +15,6 @@
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-discordrpc",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-git"
 ]

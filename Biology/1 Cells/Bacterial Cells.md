@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-15
-sr-interval: 9
+sr-due: 2023-02-05
+sr-interval: 20
 sr-ease: 210
 ---
 # Bacteria
@@ -14,7 +14,7 @@ They contain:
 - [[Cytoplasm]]
 	- But no double-membrane bounded organelles
 - [[Ribosomes]]
-- Circular DNA
+- Circular [[DNA]]
 	- not membrane bound nucleus
 	- found in a region called nucleoid instead along with [[RNA]] and proteins
 and somtimes contain:

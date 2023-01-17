@@ -1,3 +1,8 @@
+---
+sr-due: 2023-01-19
+sr-interval: 3
+sr-ease: 264
+---
 # Active Transport
 #biology 
 
@@ -10,3 +15,6 @@ Requires energy in the form of [[ATP]], and is accomplished by [[Protein Pumps]]
 - Change of shape causes the molecule to be released on the other side of the membrane
 
 ### [[Endocytosis]] and [[Exocytosis]] are also forms of bulk active transport
+
+![[Endocytosis]]
+![[Exocytosis]]

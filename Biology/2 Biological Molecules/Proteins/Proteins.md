@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-05
-sr-interval: 82
-sr-ease: 311
+sr-due: 2023-11-12
+sr-interval: 300
+sr-ease: 331
 ---
 # Proteins
 #biology/biomolecules 

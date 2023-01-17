@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-14
-sr-interval: 8
+sr-due: 2023-02-06
+sr-interval: 21
 sr-ease: 252
 ---
 # Cell Signalling (with chemicals) 
@@ -23,4 +23,3 @@ Signal is converted from one method of transmission to another
 	- signal is amplified
 	- signalling cascade
 	- final response activates some enzyme:
-		- 

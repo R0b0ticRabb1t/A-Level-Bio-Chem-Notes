@@ -9,7 +9,7 @@ sr-ease: 132
 Cillia are highly complex structures (600+ [[Proteins]]), which allows them to have fine control over their speed of beating. They are extensions of many [[Eukaryotic]] cells, and are surrounded by the [[4 Cell Surface Membrane]].
 ## Structure
 Identical structure to [[Flagellum]]
-The base is a copy of [[Centriole]]s, and is called the **basal body**. 
+The base is a copy of [[Centrioles]], and is called the **basal body**. 
 Whole structure within membrane is called **axoneme**.
 
 It is an almost hollow tube, consisting of 2 central microtubules and 9 pairs/**microtubule doublets (MTDs)** arranged around.

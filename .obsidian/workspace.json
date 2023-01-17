@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cdffc8b581da2299",
+        "id": "5d038785b01743d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bb52daf1b3809495",
+            "id": "9134906890163c99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Transport.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51ef72023f9b88e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exocytosis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc82245eda9924db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endocytosis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 287.5
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -125,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Exocytosis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exocytosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exocytosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exocytosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +174,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.4577806901195346,
+                  "scale": 0.4539300163482356,
                   "close": true
                 }
               }
@@ -244,17 +207,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "51ef72023f9b88e5",
+  "active": "9134906890163c99",
   "lastOpenFiles": [
-    "Endocytosis.md",
-    "Exocytosis.md",
-    "Active Transport.md",
-    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
-    "Protein Pumps.md",
+    "README.md",
+    "NEET Only Things/Animal Tissues.md",
+    "Inbox/Protoplast.md",
+    "NEET Only Things/Epithelial Tissues.md",
+    "Biology/1 Cells/Parts of Cells/Stomata.md",
+    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
     "NEET Only Things/Connective Tissues.md",
-    "NEET Only Things/Plants/Epidermal Tissue System.md",
-    "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
-    "Biology/3 Enzymes/3 Enzymes.md",
-    "Biology/3 Enzymes/Enzyme Affinities.md"
+    "NEET Only Things/Rana Tigrina.md",
+    "Inbox/Incipient Plasmolysis.md",
+    "Biology/1 Cells/Parts of Cells/Centrosome.md"
   ]
 }

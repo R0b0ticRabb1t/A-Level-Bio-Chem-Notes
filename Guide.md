@@ -9,17 +9,18 @@ When making notes from textbook, the ratio should be about:
 for every 3 words in textbook, 1 word in note (including tags and shit)
 Waypoints are sometimes used, since they make nice MOCs
 ### Common Unicode That i use often
-| Uni | Code |
-| --- | ---- |
-| °   | b0   |
-| ±   | b1   |
-| ²   | b2   |
-| ³   | b3   |
-| µ   | b5   |
-| ·   | b7   |
-| α   | 3b1  |
-| β   | 3b2  |
-
+| Uni | Code | Latex              |
+| --- | ---- | ------------------ |
+| °   | b0   | $\degree$ \degrees |
+| ±   | b1   | $\pm$ \pm          |
+| ²   | b2   | $^2$ ^2 |
+| ³   | b3   |     $^3$ ^3               |
+| µ   | b5   |         $\micro$ \micro           |
+| ·   | b7   |     |
+| α   | 3b1  |                    |
+| β   | 3b2  |                    |
+| ₁   | 2081 |                    |
+| ₂   | 2082 |                    |
 ### Home pages
 - [[Biology]]
 - [[Chemistry]]

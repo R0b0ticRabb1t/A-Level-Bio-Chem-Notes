@@ -18,11 +18,14 @@ Cell membrane in very important for cells to function.
 	- [[Glycoproteins]]
 
 %% Begin Waypoint %%
+- [[Active Transport]]
 - [[Carrier Proteins]]
 - [[Cell Signalling]]
 - [[Channel Proteins]]
 - [[Chemical Cell Signalling]]
 - [[Diffusion]]
+- [[Endocytosis]]
+- [[Exocytosis]]
 - [[Facilitated Diffusion]]
 - [[Factors Regulating Fluidity In Cell Membrane]]
 - [[Factors that affect rate of diffusion]]
