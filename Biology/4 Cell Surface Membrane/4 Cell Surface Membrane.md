@@ -1,8 +1,8 @@
 ---
 banner: "https://www.mrgscience.com/uploads/2/0/7/9/20796234/membr1-med-hr_orig.jpeg"
-sr-due: 2023-01-20
-sr-interval: 59
-sr-ease: 274
+sr-due: 2023-09-02
+sr-interval: 225
+sr-ease: 294
 banner_x: 0.57359
 ---
 # Cell Surface Membrane

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-20
-sr-interval: 4
+sr-due: 2023-01-30
+sr-interval: 10
 sr-ease: 277
 ---
 ## Endocytosis

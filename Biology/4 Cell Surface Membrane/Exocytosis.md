@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-20
-sr-interval: 4
-sr-ease: 278
+sr-due: 2023-02-02
+sr-interval: 13
+sr-ease: 298
 ---
 ## Exocytosis
 #biology 

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1c9b8b6dbf07c5",
+        "id": "4ed1c361d9a83f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ad73ac1cdef8f15c",
+            "id": "2a41a333f2f70f60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md"
+              }
             }
           },
           {
@@ -102,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,17 +217,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ad73ac1cdef8f15c",
+  "active": "2a41a333f2f70f60",
   "lastOpenFiles": [
+    "Biology/4 Cell Surface Membrane/Exocytosis.md",
+    "Biology/4 Cell Surface Membrane/Endocytosis.md",
+    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
+    "Biology/4 Cell Surface Membrane/Channel Proteins.md",
+    "Biology/4 Cell Surface Membrane/Active Transport.md",
     "Biology/2 Biological Molecules/Lipids/Lipids.md",
-    "NEET Only Things/Rana Tigrina.md",
-    "Biology/1 Cells/Parts of Cells/Microvilli.md",
-    "Measuring Rate of Product Formation.md",
-    "Biology/1 Cells/Parts of Cells/Cillia.md",
-    "Nucleophilic Substitution Reaction.md",
     "README.md",
-    "NEET Only Things/Animal Tissues.md",
-    "Inbox/Protoplast.md",
-    "NEET Only Things/Epithelial Tissues.md"
+    "Interphase.md",
+    "G₁ Phase.md",
+    "NEET Only Things/Rana Tigrina.md"
   ]
 }

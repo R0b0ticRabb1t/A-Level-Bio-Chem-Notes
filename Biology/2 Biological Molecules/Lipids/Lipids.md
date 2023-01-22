@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-19
-sr-interval: 64
+sr-due: 2023-07-26
+sr-interval: 187
 sr-ease: 290
 ---
 # Lipids
