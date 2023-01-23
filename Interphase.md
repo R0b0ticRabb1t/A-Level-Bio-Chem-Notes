@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-21
-sr-interval: 4
+sr-due: 2023-02-06
+sr-interval: 14
 sr-ease: 274
 ---
 ## Interphase

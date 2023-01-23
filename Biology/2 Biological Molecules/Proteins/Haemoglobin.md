@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-23
-sr-interval: 23
+sr-due: 2023-03-27
+sr-interval: 63
 sr-ease: 273
 ---
 
@@ -14,6 +14,6 @@ The [[Weak Hydrophobic interactions ]], are very specific to allow dissolving in
 
 #### Haem Group
 Each globin chain contains one of these [[Prosthetic groups]], containing 1 iron atom that can reversibly bind to a full oxygen molecule
-4 haem groups --> 4 $\ce{O2}$ molecules --> 8 [[Oxygen]] atoms.
+**4 haem groups --> 4 $\ce{O2}$ molecules --> 8 [[Oxygen]] atoms.**
 This causes the red colour, and is more bright red when oxygen is bounded (oxyhaemoglobin)
 ![[Pasted image 20221212180444.png]]

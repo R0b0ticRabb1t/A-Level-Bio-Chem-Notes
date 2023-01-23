@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-21
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-02-15
+sr-interval: 23
+sr-ease: 290
 ---
 ## G₁ phase
 #biology 

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-22
-sr-interval: 5
+sr-due: 2023-02-10
+sr-interval: 18
 sr-ease: 305
 ---
 ## Types of Bonds Which Hold Structure Of Proteins 
@@ -14,7 +14,7 @@ sr-ease: 305
 3. $\ce{S-H + H-S\xrightleftharpoons[-H2]{+H2} S-S + H2}$ 
 4. Broken by [[Reducing Agents]]
 ##### [[Ionic Bonds]]
-1. Between $\ce NH3^+ , COO^-$ 
+1. Between $\ce{NH3^+ , COO^-}$ 
 2. Broken by [[pH level]] changes,
 ##### [[Weak Hydrohpobic interactions]]
 1. weak, yet still affects shape

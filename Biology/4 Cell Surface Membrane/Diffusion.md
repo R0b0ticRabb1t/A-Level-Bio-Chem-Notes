@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-21
-sr-interval: 11
-sr-ease: 280
+sr-due: 2023-03-14
+sr-interval: 50
+sr-ease: 300
 ---
 # Diffusion
 #biology nnn
