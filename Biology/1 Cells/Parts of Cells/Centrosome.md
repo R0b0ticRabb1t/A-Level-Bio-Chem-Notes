@@ -6,6 +6,6 @@ sr-ease: 280
 ### Centrosomes
 
 Acts as an [[MTOC]] and creates [[Microtubules]], is located next to the nucleus.
-Also has a function in the [[M phase]] of [[Mitosis]]
+Organizes and produces microtubules to be used as spindle fibres in [[Mitosis]]
 
 #biology 

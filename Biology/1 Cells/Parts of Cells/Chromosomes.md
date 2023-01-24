@@ -4,10 +4,11 @@ sr-interval: 162
 sr-ease: 309
 ---
 ### Chromosomes
-- Made up of chromatin
+- Made up of [[Chromatin]]
 - Thread like structure
 - Deeply Staining
 - Conatins DNA
 - Very folded, using [[Proteins]], also contains some [[RNA]]
+
 
 #biology 

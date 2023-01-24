@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0b085c59f46eb0ff",
+        "id": "9a52239e8b07eb43",
         "type": "tabs",
         "children": [
           {
-            "id": "aff776e03960e8ee",
+            "id": "4979afa6a00757a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -115,8 +115,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5b09952e15c2c9e6",
@@ -179,14 +178,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "6642fec4d969fbc9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -207,17 +198,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aff776e03960e8ee",
+  "active": "4979afa6a00757a1",
   "lastOpenFiles": [
-    "NEET Only Things/Connective Tissues.md",
-    "Biology/4 Cell Surface Membrane/Cell Signalling.md",
-    "Biology/2 Biological Molecules/Proteins/Haemoglobin.md",
-    "NEET Only Things/Plants/Xylem.md",
-    "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
-    "Biology/1 Cells/Parts of Cells/Centrioles.md",
-    "NEET Only Things/Rana Tigrina.md",
-    "Interphase.md",
-    "G₁ Phase.md",
-    "Biology/4 Cell Surface Membrane/Diffusion.md"
+    "NEET Only Things/Morphology of a Frog.md",
+    "Biology/1 Cells/Parts of Cells/Centrosome.md",
+    "Inbox/S Phase.md",
+    "Inbox/Mitosis.md",
+    "Inbox/Anaphase.md",
+    "Inbox/Telophase.md",
+    "Biology/1 Cells/Parts of Cells/Chromosomes.md",
+    "Inbox/Chromatin.md",
+    "Inbox/Metaphase.md",
+    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"
   ]
 }
