@@ -20,6 +20,15 @@ but we'll focus on [[Animal Cells]]
 - [[Centrosome]]s
 
 %% Begin Waypoint %%
-
+- [[Anaphase]]
+- [[Chromatin]]
+- [[G₁ Phase]]
+- [[G₂ Phase]]
+- [[Interphase]]
+- [[Metaphase]]
+- [[Mitosis]]
+- [[Prophase]]
+- [[S Phase]]
+- [[Telophase]]
 
 %% End Waypoint %%

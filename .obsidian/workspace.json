@@ -11,8 +11,13 @@
             "id": "4979afa6a00757a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -93,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"
+              }
             }
           },
           {
@@ -102,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,13 +212,13 @@
   "lastOpenFiles": [
     "NEET Only Things/Morphology of a Frog.md",
     "Biology/1 Cells/Parts of Cells/Centrosome.md",
-    "Inbox/S Phase.md",
-    "Inbox/Mitosis.md",
-    "Inbox/Anaphase.md",
-    "Inbox/Telophase.md",
+    "Biology/5 Mitotic Cell Cycle/S Phase.md",
+    "Biology/5 Mitotic Cell Cycle/Mitosis.md",
+    "Biology/5 Mitotic Cell Cycle/Anaphase.md",
+    "Biology/5 Mitotic Cell Cycle/Telophase.md",
     "Biology/1 Cells/Parts of Cells/Chromosomes.md",
-    "Inbox/Chromatin.md",
-    "Inbox/Metaphase.md",
+    "Biology/5 Mitotic Cell Cycle/Chromatin.md",
+    "Biology/5 Mitotic Cell Cycle/Metaphase.md",
     "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"
   ]
 }
