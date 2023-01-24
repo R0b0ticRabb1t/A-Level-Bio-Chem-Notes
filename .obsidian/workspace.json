@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"
+                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,6 +210,8 @@
   },
   "active": "4979afa6a00757a1",
   "lastOpenFiles": [
+    "Biology/4 Cell Surface Membrane/Endocytosis.md",
+    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
     "NEET Only Things/Morphology of a Frog.md",
     "Biology/1 Cells/Parts of Cells/Centrosome.md",
     "Biology/5 Mitotic Cell Cycle/S Phase.md",
@@ -217,8 +219,6 @@
     "Biology/5 Mitotic Cell Cycle/Anaphase.md",
     "Biology/5 Mitotic Cell Cycle/Telophase.md",
     "Biology/1 Cells/Parts of Cells/Chromosomes.md",
-    "Biology/5 Mitotic Cell Cycle/Chromatin.md",
-    "Biology/5 Mitotic Cell Cycle/Metaphase.md",
-    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"
+    "Biology/5 Mitotic Cell Cycle/Chromatin.md"
   ]
 }
