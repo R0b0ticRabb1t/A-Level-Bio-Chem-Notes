@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a52239e8b07eb43",
+        "id": "a8e61e648055336b",
         "type": "tabs",
         "children": [
           {
-            "id": "4979afa6a00757a1",
+            "id": "ecc999e54e7d72e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,21 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md"
-              }
-            }
-          },
-          {
-            "id": "f87e372e25a4bccc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "state": {}
             }
           },
           {
@@ -122,8 +103,20 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "f87e372e25a4bccc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5b09952e15c2c9e6",
@@ -136,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Exocytosis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,17 +199,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4979afa6a00757a1",
+  "active": "ecc999e54e7d72e5",
   "lastOpenFiles": [
-    "Biology/4 Cell Surface Membrane/Endocytosis.md",
-    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
-    "NEET Only Things/Morphology of a Frog.md",
-    "Biology/1 Cells/Parts of Cells/Centrosome.md",
-    "Biology/5 Mitotic Cell Cycle/S Phase.md",
-    "Biology/5 Mitotic Cell Cycle/Mitosis.md",
-    "Biology/5 Mitotic Cell Cycle/Anaphase.md",
+    "NEET Only Things/Plants/Xylem.md",
     "Biology/5 Mitotic Cell Cycle/Telophase.md",
-    "Biology/1 Cells/Parts of Cells/Chromosomes.md",
-    "Biology/5 Mitotic Cell Cycle/Chromatin.md"
+    "NEET Only Things/Connective Tissues.md",
+    "Biology/5 Mitotic Cell Cycle/Mitosis.md",
+    "Biology/5 Mitotic Cell Cycle/S Phase.md",
+    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+    "Biology/5 Mitotic Cell Cycle/G2 Phase.md",
+    "Biology/5 Mitotic Cell Cycle/G1 Phase.md",
+    "Biology/1 Cells/Parts of Cells/Golgi Apparatus.md",
+    "Biology/1 Cells/Parts of Cells/Cillia.md"
   ]
 }

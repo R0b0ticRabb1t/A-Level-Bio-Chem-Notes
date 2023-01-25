@@ -1,7 +1,12 @@
+---
+sr-due: 2023-01-29
+sr-interval: 4
+sr-ease: 293
+---
 # Mitotic Cell Cycle
 #biology #MOC 
 
-This is how cells divide through mitosis. Its a continuos cycle, end of life of one cell begins the life of two new daughter cells, repleneshing the constant death of cells, very important.
+This is how cells divide through mitosis. Its a continuous cycle, end of life of one cell begins the life of two new daughter cells, repleneshing the constant death of cells, very important.
 
 [[Plant Cells]] have the same thing with 2 differences:
 - No [[Centrosome]]
@@ -10,7 +15,14 @@ but we'll focus on [[Animal Cells]]
 
 ### Steps of the Cycle
 - [[Interphase]]
+	- [[G1 Phase]]
+	- [[S Phase]]
+	- [[G2 Phase]]
 - [[M phase]] or [[Mitosis]]
+	- [[Prophase]]
+	- [[Anaphase]]
+	- [[Metaphase]]
+	- [[Telophase]]
 - [[Cytokinesis]]
 
 ### Important Structures:
@@ -22,13 +34,12 @@ but we'll focus on [[Animal Cells]]
 %% Begin Waypoint %%
 - [[Anaphase]]
 - [[Chromatin]]
-- [[G₁ Phase]]
-- [[G₂ Phase]]
+- [[G1 Phase]]
+- [[G2 Phase]]
 - [[Interphase]]
 - [[Metaphase]]
 - [[Mitosis]]
 - [[Prophase]]
 - [[S Phase]]
 - [[Telophase]]
-
 %% End Waypoint %%

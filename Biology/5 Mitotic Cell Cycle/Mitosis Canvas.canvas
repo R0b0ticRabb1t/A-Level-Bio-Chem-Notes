@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0e078c512895fcf3","x":-676,"y":-254,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Mitosis.md"},
+		{"id":"4e37947fb7b1fac0","x":-601,"y":503,"width":250,"height":60,"type":"text","text":"# Cytokinesis"},
+		{"id":"165a5562dd8a90b2","x":397,"y":-775,"width":400,"height":230,"type":"file","file":"Biology/5 Mitotic Cell Cycle/S Phase.md"},
+		{"id":"f7ecdedb2058c531","x":-87,"y":-775,"width":400,"height":311,"type":"file","file":"Biology/5 Mitotic Cell Cycle/G1 Phase.md"},
+		{"id":"5ead71d5b5a6eb3f","x":910,"y":-775,"width":400,"height":278,"type":"file","file":"Biology/5 Mitotic Cell Cycle/G2 Phase.md"},
+		{"id":"52d7dea3da7ba236","x":-735,"y":-828,"width":2097,"height":453,"color":"4","type":"group","label":"Interphase"},
+		{"id":"2f163db4755bd2d2","x":-676,"y":-819,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Interphase.md"},
+		{"id":"022894bb8abda4b0","x":-735,"y":-299,"width":2097,"height":993,"color":"4","type":"group","label":"Mitosis"},
+		{"id":"8c4c71a2afbfe27b","x":910,"y":-254,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Anaphase.md"},
+		{"id":"59ad56f853a45f43","x":397,"y":-254,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Metaphase.md"},
+		{"id":"0f855efcd24739e4","x":-87,"y":-254,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Prophase.md"},
+		{"id":"d50693c51a2f7900","x":197,"y":237,"width":400,"height":400,"type":"file","file":"Biology/5 Mitotic Cell Cycle/Telophase.md"},
+		{"id":"e9ccdb8a78103f58","x":113,"y":-1205,"width":400,"height":234,"type":"file","file":"Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md"}
+	],
+	"edges":[
+		{"id":"051a57119abeed8f","fromNode":"2f163db4755bd2d2","fromSide":"bottom","toNode":"0e078c512895fcf3","toSide":"top"},
+		{"id":"67022d4e59d035c9","fromNode":"0e078c512895fcf3","fromSide":"bottom","toNode":"4e37947fb7b1fac0","toSide":"top"},
+		{"id":"99ad0a628febde77","fromNode":"2f163db4755bd2d2","fromSide":"right","toNode":"f7ecdedb2058c531","toSide":"left"},
+		{"id":"cec7754ecac5b636","fromNode":"0e078c512895fcf3","fromSide":"right","toNode":"0f855efcd24739e4","toSide":"left"},
+		{"id":"c03937946822de23","fromNode":"f7ecdedb2058c531","fromSide":"right","toNode":"165a5562dd8a90b2","toSide":"left"},
+		{"id":"6f20c09857c5717b","fromNode":"5ead71d5b5a6eb3f","fromSide":"bottom","toNode":"0f855efcd24739e4","toSide":"top"},
+		{"id":"4093050089346a31","fromNode":"0f855efcd24739e4","fromSide":"right","toNode":"59ad56f853a45f43","toSide":"left"},
+		{"id":"56973a76955b722d","fromNode":"165a5562dd8a90b2","fromSide":"right","toNode":"5ead71d5b5a6eb3f","toSide":"left"},
+		{"id":"15c7a720cc76c5e1","fromNode":"59ad56f853a45f43","fromSide":"right","toNode":"8c4c71a2afbfe27b","toSide":"left"},
+		{"id":"8391e982f67812b4","fromNode":"d50693c51a2f7900","fromSide":"right","toNode":"8c4c71a2afbfe27b","toSide":"bottom"},
+		{"id":"b090a5d70532bf69","fromNode":"d50693c51a2f7900","fromSide":"left","toNode":"4e37947fb7b1fac0","toSide":"right"},
+		{"id":"9894a077f3bf8f1e","fromNode":"4e37947fb7b1fac0","fromSide":"left","toNode":"2f163db4755bd2d2","toSide":"left"}
+	]
+}

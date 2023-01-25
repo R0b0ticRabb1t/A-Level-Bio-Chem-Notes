@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-25
-sr-interval: 23
+sr-due: 2023-03-10
+sr-interval: 44
 sr-ease: 190
 banner: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages-medium-large-5%2F3-plant-alga-golgi-apparatus-dennis-kunkel-microscopyscience-photo-library.jpg&f=1&nofb=1&ipt=0b5d620749a9e02903057256237bc79f5d97f88b65264f7a8064ea042a2e80b7&ipo=images"
 ---

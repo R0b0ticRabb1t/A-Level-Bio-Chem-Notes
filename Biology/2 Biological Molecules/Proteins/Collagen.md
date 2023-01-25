@@ -1,12 +1,12 @@
 ---
-sr-due: 2023-01-24
-sr-interval: 21
+sr-due: 2023-03-21
+sr-interval: 56
 sr-ease: 272
 ---
 ## Collagen
 #biology/biomolecules 
 
-Collagen is an insoluble [[Fibrous Protein]], and is the most common protein in animals.
+Collagen is an insoluble [[Fibrous Protein]], and is the most common protein in animals. Makes up [[Connective Tissues]]
 
 Has a high [[tensile strength]]
 ### Structure 
