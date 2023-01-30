@@ -10,5 +10,12 @@
   "foldHeading": true,
   "showInlineTitle": false,
   "defaultViewMode": "source",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB-oxendict",
+    "en-GB"
+  ],
+  "strictLineBreaks": false
 }

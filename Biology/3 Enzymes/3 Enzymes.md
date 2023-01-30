@@ -24,11 +24,14 @@ Enzymes are too small to see exactly how they work.
 - [[Induced Fit Hypothesis]]
 
 %% Begin Waypoint %%
+- [[Competitive Inhibitors]]
 - [[Enzyme Affinities]]
 - [[Factors Affecting Enzyme Activity]]
 - [[Induced Fit Hypothesis]]
+- [[Inhibitors]]
 - [[Lock and Key Hypothesis]]
 - [[Michaelis-Menten Constant]]
+- [[Non-Competitive Inhibitor]]
 - [[Vmax]]
 
 %% End Waypoint %%

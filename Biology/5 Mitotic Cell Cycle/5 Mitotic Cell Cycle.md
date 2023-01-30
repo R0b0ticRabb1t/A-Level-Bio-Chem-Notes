@@ -41,5 +41,7 @@ but we'll focus on [[Animal Cells]]
 - [[Mitosis]]
 - [[Prophase]]
 - [[S Phase]]
+- [[Stem Cells]]
 - [[Telophase]]
+
 %% End Waypoint %%

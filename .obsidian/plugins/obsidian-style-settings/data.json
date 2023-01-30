@@ -41,9 +41,9 @@
   "minimal-style@@h6-size": "1.1em",
   "minimal-style@@ax1@@light": "#859900",
   "minimal-style@@ax2@@light": "#6F8000",
-  "minimal-style@@embed-strict": true,
   "minimal-style@@callout-blend-mode": "normal",
   "minimal-style@@frame-background@@light": "#839496",
   "minimal-style@@frame-icon-color@@light": "#FDF6E3",
-  "minimal-style@@tab-stacked-header-width": 30
+  "minimal-style@@tab-stacked-header-width": 30,
+  "minimal-style@@embed-strict": true
 }
