@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-26
-sr-interval: 16
+sr-due: 2023-03-25
+sr-interval: 55
 sr-ease: 316
 ---
 ## Michaelis-Menten Constant $K_m$

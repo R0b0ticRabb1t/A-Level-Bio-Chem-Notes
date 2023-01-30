@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-07-26
-sr-interval: 187
-sr-ease: 290
+sr-due: 2023-03-21
+sr-interval: 50
+sr-ease: 270
 ---
 # Lipids
 #biology/biomolecules 

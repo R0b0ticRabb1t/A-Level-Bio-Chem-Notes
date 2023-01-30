@@ -1,8 +1,8 @@
 ---
 banner: "http://img.tfd.com/mk/B/X2604-B-26.png"
-sr-due: 2023-08-10
-sr-interval: 202
-sr-ease: 310
+sr-due: 2023-03-21
+sr-interval: 50
+sr-ease: 290
 banner_y: 0.5
 ---
 ### Microvilli

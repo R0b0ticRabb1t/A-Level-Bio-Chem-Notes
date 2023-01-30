@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-28
-sr-interval: 18
-sr-ease: 311
+sr-due: 2023-04-21
+sr-interval: 82
+sr-ease: 331
 ---
 ## Enzyme Affinities
 - [i] Affinity is a measure of attraction between enzyme and substrate

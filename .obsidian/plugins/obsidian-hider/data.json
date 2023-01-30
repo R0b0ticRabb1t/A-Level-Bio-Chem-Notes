@@ -9,6 +9,6 @@
   "hideSearchCounts": false,
   "hideInstructions": false,
   "hideMeta": false,
-  "hideVault": false,
+  "hideVault": true,
   "frameless": false
 }

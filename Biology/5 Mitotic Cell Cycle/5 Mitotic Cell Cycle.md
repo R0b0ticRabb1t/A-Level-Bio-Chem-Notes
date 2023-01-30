@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-01-29
-sr-interval: 4
+sr-due: 2023-02-10
+sr-interval: 12
 sr-ease: 293
 ---
 # Mitotic Cell Cycle

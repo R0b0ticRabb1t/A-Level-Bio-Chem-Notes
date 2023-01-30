@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-29
-sr-interval: 4
-sr-ease: 284
+sr-due: 2023-02-13
+sr-interval: 15
+sr-ease: 304
 ---
 # Mitosis
 #biology

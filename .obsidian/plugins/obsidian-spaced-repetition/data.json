@@ -37,14 +37,14 @@
     "initiallyExpandAllSubdecksInTree": false,
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
-    "easyBonus": 1.3,
-    "maximumInterval": 300,
+    "easyBonus": 1.15,
+    "maximumInterval": 50,
     "maxLinkFactor": 1,
     "showDebugMessages": false,
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-01-02",
+  "buryDate": "2023-01-30",
   "buryList": [],
   "historyDeck": null
 }

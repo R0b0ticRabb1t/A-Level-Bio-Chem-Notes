@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-01-27
-sr-interval: 19
-sr-ease: 322
+sr-due: 2023-05-02
+sr-interval: 93
+sr-ease: 342
 ---
 ## $V_{max}$
 This is the fastest possible speed at which an [[3 Enzymes]] works,
