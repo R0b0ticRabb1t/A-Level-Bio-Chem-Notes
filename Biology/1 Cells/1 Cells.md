@@ -50,6 +50,7 @@ Cells usually have a size between 5µm and 40µm, so can only be seen under [[Mi
 	- [[Vacuole]]
 - [[Plant Cells]]
 - [[Prokaryotic]]
+- [[Protoplast]]
 - [[Viruses]]
 
 %% End Waypoint %%

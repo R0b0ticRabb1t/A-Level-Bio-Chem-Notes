@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-03
-sr-interval: 81
+sr-due: 2023-03-25
+sr-interval: 50
 sr-ease: 310
 ---
 # Carbohydrates

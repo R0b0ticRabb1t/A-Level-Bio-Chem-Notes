@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b2caa4b20be22e",
+        "id": "4143d4fa5a97d440",
         "type": "tabs",
         "children": [
           {
-            "id": "0b597315419375c1",
+            "id": "93ad470415d25ffe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,17 +208,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b597315419375c1",
+  "active": "93ad470415d25ffe",
   "lastOpenFiles": [
-    "Inbox/Protoplast.md",
-    "Biology/3 Enzymes/Inhibitors.md",
-    "Biology/5 Mitotic Cell Cycle/Stem Cells.md",
-    "Biology/5 Mitotic Cell Cycle/Mitosis.md",
-    "Biology/4 Cell Surface Membrane/Osmosis.md",
+    "NEET Only Things/Plants/Anatomy of Plants.md",
+    "Untitled.md",
+    "README.md",
+    "Inbox/DNA replication.md",
+    "Inbox/Nucleotides.md",
+    "Inbox/DNA.md",
+    "Inbox/end product inhibition.md",
     "Inbox/Alkanes.md",
-    "NEET Only Things/Connective Tissues.md",
-    "Biology/4 Cell Surface Membrane/Endocytosis.md",
-    "Biology/5 Mitotic Cell Cycle/S Phase.md",
-    "Biology/3 Enzymes/Non-Competitive Inhibitor.md"
+    "Biology/1 Cells/Protoplast.md",
+    "Biology/1 Cells/Parts of Cells/Cytoplasm.md"
   ]
 }

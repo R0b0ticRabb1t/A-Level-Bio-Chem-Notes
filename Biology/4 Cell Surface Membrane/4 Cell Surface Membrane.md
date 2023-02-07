@@ -29,6 +29,7 @@ Cell membrane in very important for cells to function.
 - [[Facilitated Diffusion]]
 - [[Factors Regulating Fluidity In Cell Membrane]]
 - [[Factors that affect rate of diffusion]]
+- [[Incipient Plasmolysis]]
 - [[Osmosis]]
 - [[Surface area to volume ratio]]
 

@@ -33,6 +33,7 @@ but we'll focus on [[Animal Cells]]
 
 %% Begin Waypoint %%
 - [[Anaphase]]
+- [[Centromeres]]
 - [[Chromatin]]
 - [[G1 Phase]]
 - [[G2 Phase]]
@@ -42,6 +43,7 @@ but we'll focus on [[Animal Cells]]
 - [[Prophase]]
 - [[S Phase]]
 - [[Stem Cells]]
+- [[Telomeres]]
 - [[Telophase]]
 
 %% End Waypoint %%

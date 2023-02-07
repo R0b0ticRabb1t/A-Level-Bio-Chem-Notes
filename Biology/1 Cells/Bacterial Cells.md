@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-05
-sr-interval: 20
+sr-due: 2023-03-23
+sr-interval: 44
 sr-ease: 210
 ---
 # Bacteria

@@ -17,6 +17,8 @@ lots to remember
 - **[[3 Enzymes]]**
 - **[[4 Cell Surface Membrane]]**
 - **[[5 Mitotic Cell Cycle]]**
+- **6 DNA replication**
+- **7 Transcription**
 - [[Biology Textbook]]
 - [[photosynthesis]]
 - [[Sickle Cell Anaemia]]

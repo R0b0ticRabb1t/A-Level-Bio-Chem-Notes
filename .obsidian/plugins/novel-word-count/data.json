@@ -11,16 +11,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Untitled.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1674569421759,
-      "modifiedDate": 1674569421759
-    },
     "To Do.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -286,10 +276,10 @@
       "noteCount": 1,
       "wordCount": 33,
       "pageCount": 0.11,
-      "characterCount": 230,
-      "nonWhitespaceCharacterCount": 195,
+      "characterCount": 231,
+      "nonWhitespaceCharacterCount": 196,
       "createdDate": 1673176735688,
-      "modifiedDate": 1675087195109
+      "modifiedDate": 1675437477100
     },
     "NEET Only Things/Animal Tissues.md": {
       "isDirectory": false,
@@ -316,10 +306,40 @@
       "noteCount": 1,
       "wordCount": 21,
       "pageCount": 0.07,
-      "characterCount": 137,
-      "nonWhitespaceCharacterCount": 116,
+      "characterCount": 136,
+      "nonWhitespaceCharacterCount": 115,
       "createdDate": 1673357459581,
-      "modifiedDate": 1673357459581
+      "modifiedDate": 1675172405752
+    },
+    "Inbox/DNA replication.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 99,
+      "pageCount": 0.33,
+      "characterCount": 613,
+      "nonWhitespaceCharacterCount": 506,
+      "createdDate": 1675437418363,
+      "modifiedDate": 1675746838525
+    },
+    "Inbox/Nucleotides.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 624,
+      "nonWhitespaceCharacterCount": 520,
+      "createdDate": 1675172303174,
+      "modifiedDate": 1675746439375
+    },
+    "Inbox/DNA.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 80,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 571,
+      "nonWhitespaceCharacterCount": 482,
+      "createdDate": 1675172180539,
+      "modifiedDate": 1675746589114
     },
     "Inbox/end product inhibition.md": {
       "isDirectory": false,
@@ -327,39 +347,19 @@
       "wordCount": 40,
       "pageCount": 0.13333333333333333,
       "characterCount": 273,
-      "nonWhitespaceCharacterCount": 230,
+      "nonWhitespaceCharacterCount": 231,
       "createdDate": 1675086540195,
-      "modifiedDate": 1675086880031
-    },
-    "Inbox/Protoplast.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 30,
-      "pageCount": 0.1,
-      "characterCount": 214,
-      "nonWhitespaceCharacterCount": 184,
-      "createdDate": 1673498612778,
-      "modifiedDate": 1673509489826
-    },
-    "Inbox/Incipient Plasmolysis.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 166,
-      "nonWhitespaceCharacterCount": 137,
-      "createdDate": 1673498299799,
-      "modifiedDate": 1673509492746
+      "modifiedDate": 1675437390710
     },
     "Inbox/Alkanes.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 31,
       "pageCount": 0.10333333333333333,
-      "characterCount": 296,
+      "characterCount": 295,
       "nonWhitespaceCharacterCount": 259,
       "createdDate": 1674458110826,
-      "modifiedDate": 1675090055060
+      "modifiedDate": 1675746807605
     },
     "Guide.md": {
       "isDirectory": false,
@@ -641,16 +641,6 @@
       "createdDate": 1673357459385,
       "modifiedDate": 1673357459385
     },
-    "Chemistry/CarboCation.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 51,
-      "pageCount": 0.17,
-      "characterCount": 366,
-      "nonWhitespaceCharacterCount": 311,
-      "createdDate": 1673247419017,
-      "modifiedDate": 1673247801195
-    },
     "Chemistry/Chemistry.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -660,6 +650,16 @@
       "nonWhitespaceCharacterCount": 216,
       "createdDate": 1673357459385,
       "modifiedDate": 1673862666943
+    },
+    "Chemistry/CarboCation.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 366,
+      "nonWhitespaceCharacterCount": 311,
+      "createdDate": 1673247419017,
+      "modifiedDate": 1673247801195
     },
     "Chemistry/Atoms.md": {
       "isDirectory": false,
@@ -681,16 +681,6 @@
       "createdDate": 1673357459385,
       "modifiedDate": 1673357459385
     },
-    "Biology/photosynthesis.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 55,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 416,
-      "nonWhitespaceCharacterCount": 353,
-      "createdDate": 1673357459385,
-      "modifiedDate": 1673357459385
-    },
     "Biology/Sickle Cell Anaemia.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -701,15 +691,25 @@
       "createdDate": 1673357459385,
       "modifiedDate": 1673509514094
     },
+    "Biology/photosynthesis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 416,
+      "nonWhitespaceCharacterCount": 353,
+      "createdDate": 1673357459385,
+      "modifiedDate": 1673357459385
+    },
     "Biology/Biology.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 61,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 560,
-      "nonWhitespaceCharacterCount": 494,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 606,
+      "nonWhitespaceCharacterCount": 533,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673884843015
+      "modifiedDate": 1675746374811
     },
     "Biology/Biology Textbook.md": {
       "isDirectory": false,
@@ -731,6 +731,16 @@
       "createdDate": 1674537054733,
       "modifiedDate": 1674537394883
     },
+    "Biology/5 Mitotic Cell Cycle/Telomeres.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 294,
+      "nonWhitespaceCharacterCount": 245,
+      "createdDate": 1675092962851,
+      "modifiedDate": 1675093082357
+    },
     "Biology/5 Mitotic Cell Cycle/Stem Cells.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -739,17 +749,17 @@
       "characterCount": 613,
       "nonWhitespaceCharacterCount": 512,
       "createdDate": 1675091604613,
-      "modifiedDate": 1675092044047
+      "modifiedDate": 1675437481576
     },
     "Biology/5 Mitotic Cell Cycle/S Phase.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 30,
       "pageCount": 0.1,
-      "characterCount": 205,
-      "nonWhitespaceCharacterCount": 174,
+      "characterCount": 206,
+      "nonWhitespaceCharacterCount": 175,
       "createdDate": 1674535777367,
-      "modifiedDate": 1675087157093
+      "modifiedDate": 1675437473812
     },
     "Biology/5 Mitotic Cell Cycle/Prophase.md": {
       "isDirectory": false,
@@ -789,7 +799,7 @@
       "characterCount": 264,
       "nonWhitespaceCharacterCount": 215,
       "createdDate": 1673884799267,
-      "modifiedDate": 1674629854564
+      "modifiedDate": 1675746018689
     },
     "Biology/5 Mitotic Cell Cycle/G2 Phase.md": {
       "isDirectory": false,
@@ -821,6 +831,16 @@
       "createdDate": 1674537210256,
       "modifiedDate": 1674537277488
     },
+    "Biology/5 Mitotic Cell Cycle/Centromeres.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 92,
+      "createdDate": 1675093110586,
+      "modifiedDate": 1675098225969
+    },
     "Biology/5 Mitotic Cell Cycle/Anaphase.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -834,12 +854,12 @@
     "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 148,
-      "pageCount": 0.49333333333333335,
-      "characterCount": 942,
-      "nonWhitespaceCharacterCount": 780,
+      "wordCount": 152,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 976,
+      "nonWhitespaceCharacterCount": 810,
       "createdDate": 1673884466045,
-      "modifiedDate": 1675092053131
+      "modifiedDate": 1675098253718
     },
     "Biology/4 Cell Surface Membrane/Surface area to volume ratio.md": {
       "isDirectory": false,
@@ -861,6 +881,16 @@
       "createdDate": 1673451896313,
       "modifiedDate": 1675087952122
     },
+    "Biology/4 Cell Surface Membrane/Incipient Plasmolysis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 166,
+      "nonWhitespaceCharacterCount": 137,
+      "createdDate": 1673498299799,
+      "modifiedDate": 1673509492746
+    },
     "Biology/4 Cell Surface Membrane/Factors that affect rate of diffusion.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -869,7 +899,7 @@
       "characterCount": 814,
       "nonWhitespaceCharacterCount": 684,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673965381484
+      "modifiedDate": 1675745200215
     },
     "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md": {
       "isDirectory": false,
@@ -879,7 +909,7 @@
       "characterCount": 515,
       "nonWhitespaceCharacterCount": 430,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673622806886
+      "modifiedDate": 1675746261896
     },
     "Biology/4 Cell Surface Membrane/Facilitated Diffusion.md": {
       "isDirectory": false,
@@ -899,7 +929,7 @@
       "characterCount": 188,
       "nonWhitespaceCharacterCount": 161,
       "createdDate": 1673843332838,
-      "modifiedDate": 1674234862939
+      "modifiedDate": 1675437412371
     },
     "Biology/4 Cell Surface Membrane/Endocytosis.md": {
       "isDirectory": false,
@@ -924,12 +954,12 @@
     "Biology/4 Cell Surface Membrane/Chemical Cell Signalling.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 124,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 858,
-      "nonWhitespaceCharacterCount": 728,
+      "wordCount": 133,
+      "pageCount": 0.44333333333333336,
+      "characterCount": 928,
+      "nonWhitespaceCharacterCount": 789,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673862070361
+      "modifiedDate": 1675746210872
     },
     "Biology/4 Cell Surface Membrane/Channel Proteins.md": {
       "isDirectory": false,
@@ -974,12 +1004,12 @@
     "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 221,
-      "pageCount": 0.7366666666666667,
-      "characterCount": 1612,
-      "nonWhitespaceCharacterCount": 1377,
+      "wordCount": 224,
+      "pageCount": 0.7466666666666667,
+      "characterCount": 1640,
+      "nonWhitespaceCharacterCount": 1402,
       "createdDate": 1673357459385,
-      "modifiedDate": 1675092065319
+      "modifiedDate": 1675746719670
     },
     "Biology/3 Enzymes/Vmax.md": {
       "isDirectory": false,
@@ -997,9 +1027,9 @@
       "wordCount": 49,
       "pageCount": 0.16333333333333333,
       "characterCount": 331,
-      "nonWhitespaceCharacterCount": 278,
+      "nonWhitespaceCharacterCount": 279,
       "createdDate": 1675086355599,
-      "modifiedDate": 1675087117140
+      "modifiedDate": 1675437374142
     },
     "Biology/3 Enzymes/Michaelis-Menten Constant.md": {
       "isDirectory": false,
@@ -1049,7 +1079,7 @@
       "characterCount": 1785,
       "nonWhitespaceCharacterCount": 1519,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673357459385
+      "modifiedDate": 1675168126565
     },
     "Biology/3 Enzymes/Enzyme Affinities.md": {
       "isDirectory": false,
@@ -1289,7 +1319,7 @@
       "characterCount": 566,
       "nonWhitespaceCharacterCount": 481,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673357459385
+      "modifiedDate": 1675437513193
     },
     "Biology/2 Biological Molecules/Carbohydrates/Amylose.md": {
       "isDirectory": false,
@@ -1330,6 +1360,16 @@
       "nonWhitespaceCharacterCount": 405,
       "createdDate": 1673357459385,
       "modifiedDate": 1673357459385
+    },
+    "Biology/1 Cells/Protoplast.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 30,
+      "pageCount": 0.1,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 184,
+      "createdDate": 1673498612778,
+      "modifiedDate": 1675746794801
     },
     "Biology/1 Cells/Prokaryotic.md": {
       "isDirectory": false,
@@ -1466,10 +1506,10 @@
       "noteCount": 1,
       "wordCount": 85,
       "pageCount": 0.2833333333333333,
-      "characterCount": 903,
-      "nonWhitespaceCharacterCount": 810,
+      "characterCount": 901,
+      "nonWhitespaceCharacterCount": 808,
       "createdDate": 1673357459385,
-      "modifiedDate": 1674629781524
+      "modifiedDate": 1675172405728
     },
     "Biology/1 Cells/Parts of Cells/Endoplasmic Reticulum.md": {
       "isDirectory": false,
@@ -1499,17 +1539,17 @@
       "characterCount": 1430,
       "nonWhitespaceCharacterCount": 1238,
       "createdDate": 1673357459385,
-      "modifiedDate": 1674629669049
+      "modifiedDate": 1675437291874
     },
     "Biology/1 Cells/Parts of Cells/Chromosomes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 35,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 230,
-      "nonWhitespaceCharacterCount": 193,
+      "wordCount": 48,
+      "pageCount": 0.16,
+      "characterCount": 353,
+      "nonWhitespaceCharacterCount": 301,
       "createdDate": 1673357459385,
-      "modifiedDate": 1674537208840
+      "modifiedDate": 1675746605982
     },
     "Biology/1 Cells/Parts of Cells/Chloroplasts.md": {
       "isDirectory": false,
@@ -1539,7 +1579,7 @@
       "characterCount": 486,
       "nonWhitespaceCharacterCount": 407,
       "createdDate": 1673357459385,
-      "modifiedDate": 1674457878912
+      "modifiedDate": 1675745464413
     },
     "Biology/1 Cells/Parts of Cells/Cell Walls.md": {
       "isDirectory": false,
@@ -1569,7 +1609,7 @@
       "characterCount": 808,
       "nonWhitespaceCharacterCount": 686,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673862492533
+      "modifiedDate": 1675745437718
     },
     "Biology/1 Cells/Animal Cells.md": {
       "isDirectory": false,
@@ -1584,12 +1624,12 @@
     "Biology/1 Cells/1 Cells.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 182,
-      "pageCount": 0.6066666666666667,
-      "characterCount": 1379,
-      "nonWhitespaceCharacterCount": 1167,
+      "wordCount": 184,
+      "pageCount": 0.6133333333333333,
+      "characterCount": 1396,
+      "nonWhitespaceCharacterCount": 1182,
       "createdDate": 1673357459385,
-      "modifiedDate": 1673357459385
+      "modifiedDate": 1675746751730
     }
   }
 }

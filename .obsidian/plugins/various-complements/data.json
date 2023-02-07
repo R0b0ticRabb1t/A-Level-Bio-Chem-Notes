@@ -1,0 +1,163 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "DNA": {
+      "DNA": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1675746453335
+        }
+      }
+    },
+    "Nucleotides": {
+      "Nucleotides": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675440470487
+        }
+      }
+    },
+    "strands": {
+      "strands": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675440483038
+        }
+      }
+    },
+    "Polymerase": {
+      "Polymerase": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675440598098
+        }
+      }
+    },
+    "template": {
+      "template": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675440569854
+        }
+      }
+    },
+    "strand": {
+      "strand": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675440572111
+        }
+      }
+    },
+    "synthesize": {
+      "synthesize": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675440606739
+        }
+      }
+    },
+    "direction": {
+      "direction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675440623539
+        }
+      }
+    },
+    "Parthenocarpic Fruits": {
+      "Parthenocarpic Fruits": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675440633127
+        }
+      }
+    },
+    "enzyme": {
+      "enzyme": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675746107187
+        }
+      }
+    },
+    "Nuclear Envelope": {
+      "Nuclear Envelope": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675746175168
+        }
+      }
+    },
+    "Cytoplasm": {
+      "Cytoplasm": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675746471873
+        }
+      }
+    },
+    "Nucleus": {
+      "Nucleus": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675746507068
+        }
+      }
+    },
+    "Chromosomes": {
+      "Chromosomes": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675746570537
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-06
-sr-interval: 14
-sr-ease: 274
+sr-due: 2023-03-29
+sr-interval: 50
+sr-ease: 294
 ---
 ## Interphase
 #biology 
