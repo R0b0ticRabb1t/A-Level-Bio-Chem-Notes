@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-21
-sr-interval: 91
-sr-ease: 305
+sr-due: 2023-04-22
+sr-interval: 50
+sr-ease: 325
 ---
 
 Eukaryotic organisms have cells that contain a [[Nucleus]] and other membrane-bound [[Organelles]]

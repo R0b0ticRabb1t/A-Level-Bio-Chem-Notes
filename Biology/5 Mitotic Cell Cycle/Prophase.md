@@ -1,3 +1,8 @@
+---
+sr-due: 2023-03-18
+sr-interval: 25
+sr-ease: 295
+---
 ## Phrophase
 #biology 
 

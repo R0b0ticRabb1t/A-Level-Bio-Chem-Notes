@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-06
-sr-interval: 84
-sr-ease: 323
+sr-due: 2023-05-19
+sr-interval: 50
+sr-ease: 343
 ---
 # Structure of Proteins
 ### Primary Structure
@@ -9,19 +9,19 @@ This is the sequence of [[Amino Acids]]. A change in a single amino acid can cha
 ### Secondary Structure
 Proteins fold because of [[Hydrogen Bonds]] between the CO and NH molecules in them, causing them fold/bend forming the secondary structure, which can vary.
 - ##### α-helix structure
-  Each NH is attracted to the O=C four steps in front of the sequence with hydrogen bonds, causing the polypeptide to coil
-  Represented as coils
+  Each **NH is attracted to the O=C four steps in front** of the sequence with hydrogen bonds, causing the polypeptide to coil
+  Represented as **coils**
 - ##### β-pleated sheet structure
-  Sheet like structure, hydrogen bonds between parallel polypeptide chains
-  Represented as Arrows
-Random Coils are represented as ribbons
+  Sheet like structure, **hydrogen bonds between parallel polypeptide chains**
+  Represented as **Arrows**
+**Random Coils** are represented as **ribbons**
 ### Tertiary Structure
 The secondary structure folds and coils in on itself further to form a very precise 3d molecule, held in place with different types of bonds between amino acids [[4 Bonds in Folded Proteins]]
 ### Quartenary Structure
-This is when multiple polypeptide chains interect/join together to perform a single function
+This is when **multiple polypeptide chains** interect/join together to perform a single functionmultiple polypeptide chains
 
 - ##### [[Globular Protein]]
-  They form a *globular* shape
+  They form a sphericalish shape
   Can usually dissolve in water, because of the [[[Weak Hydrohpobic interactions in folded proteins]].
   > [!Example] Eg:[[Haemoglobin]]
 

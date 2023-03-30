@@ -13,7 +13,7 @@ Cell membrane in very important for cells to function.
 	- 2 darker layers and 1 paler layer in the middle 
 - Made up of [[Phospholipids]], also contains:
 	- [[Cholestrol]]
-	- [[Proteins]]
+	- [[Protein]]
 	- [[Glycolipids]]
 	- [[Glycoproteins]]
 
@@ -48,7 +48,7 @@ Most proteins and phospholipids in the membrane have short [[Carbohydrates|carb]
 - [[Signalling receptors]]
 - [[Cell to Cell recognition]]
 - [[Cell Signalling]]
-### Other things [[Proteins]] do
+### Other things [[Protein]] do
 - Attach to [[Cytoskeleton]] maintain shape
 - Enzymes
 - [[Transport Proteins]]

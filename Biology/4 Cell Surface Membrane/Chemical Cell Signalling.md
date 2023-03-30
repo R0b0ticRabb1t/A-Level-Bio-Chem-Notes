@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-19
-sr-interval: 12
-sr-ease: 232
+sr-due: 2023-03-12
+sr-interval: 9
+sr-ease: 212
 ---
 # Cell Signalling (with chemicals) 
 #biology 

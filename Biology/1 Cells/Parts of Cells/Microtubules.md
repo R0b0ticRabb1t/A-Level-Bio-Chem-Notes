@@ -16,7 +16,7 @@ Microtubules are small(25µm) tubes, found in most [[1 Cells]]
 - Used in [[Cillia]] and [[Flagellum]] movements
 
 ## Structure
-Made of [[Proteins]] called **tubulin** and a few other filaments.
+Made of [[Protein]] called **tubulin** and a few other filaments.
 Two types of tubulin:
 - α-tubulin
 - β-tubulin

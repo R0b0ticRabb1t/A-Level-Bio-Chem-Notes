@@ -1,0 +1,32 @@
+---
+sr-due: 2023-04-14
+sr-interval: 41
+sr-ease: 265
+---
+# DeoxyRibo-Nucleic-[[Acid]] (Deoxy[[RNA]])
+#biology #MOC 
+
+DNA contains the code for all living organisms to function.
+Found in [[Nucleus]] of cell or just cytoplasm of [[Bacterial Cells]]
+
+Polymer made up of [[Nucleotides]], which pair with hydrogen bonds complementary to each other. 
+-
+	![[Nucleotides]]
+
+Triplets of [[Nucleotides]] --> [[Codons]] (code for [[Amino Acids]])
+Collection [[Codons]] --> [[Gene]] (codes for a single [[Protein]] chain)
+5' to 3' strands run against each other in opposite complementary directions
+
+DNA in [[Nucleus]] coils around [[Protein]] called [[histines]] which further coil into beaded threadlike structure known as [[Chromatin]], which are then coiled into [[Chromosomes]]
+
+%% Begin Waypoint %%
+- [[DNA replication]]
+- [[Gene Mutations]]
+- [[Nucleotides]]
+- [[Protein Synthesis]]
+- [[RNA]]
+- [[Sickle Cell Anaemia]]
+- [[Transcription]]
+- [[Translation]]
+
+%% End Waypoint %%

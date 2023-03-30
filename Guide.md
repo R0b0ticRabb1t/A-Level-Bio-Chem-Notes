@@ -21,8 +21,3 @@ Waypoints are sometimes used, since they make nice MOCs
 | β   | 3b2  |                    |
 | ₁   | 2081 |                    |
 | ₂   | 2082 |                    |
-### Home pages
-- [[Biology]]
-- [[Chemistry]]
-- [[Style Settings Test]]
-- [[Dataview Test Sheets]]

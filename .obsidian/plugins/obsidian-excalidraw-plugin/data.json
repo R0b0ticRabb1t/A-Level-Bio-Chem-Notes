@@ -17,6 +17,7 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
+  "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "matchTheme": false,
   "matchThemeAlways": false,
@@ -68,7 +69,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://excalidraw.com",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
     "libraryItems": [
       {
         "status": "published",
@@ -132,11 +133,11 @@
             "fontFamily": 2,
             "text": "S",
             "rawText": "S",
-            "baseline": 27,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "S"
+            "originalText": "S",
+            "lineHeight": 1.1705127105458237
           }
         ],
         "id": "8cXo6xDbipkqG8TaCelyD",
@@ -175,11 +176,11 @@
             "fontFamily": 2,
             "text": "C≡N",
             "rawText": "",
-            "baseline": 29,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "C≡N"
+            "originalText": "C≡N",
+            "lineHeight": 1.1471250408720317
           }
         ],
         "id": "ot9nu7XqE7t5n8_FDBpxf",
@@ -291,11 +292,11 @@
             "fontFamily": 2,
             "text": "N",
             "rawText": "N",
-            "baseline": 27,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "N"
+            "originalText": "N",
+            "lineHeight": 1.1223318753771219
           }
         ],
         "id": "qzZlaRuzZQ8S1W7XwJgMW",
@@ -366,11 +367,11 @@
             "fontFamily": 2,
             "text": "N\nH",
             "rawText": "N\nH",
-            "baseline": 61,
             "textAlign": "center",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "N\nH"
+            "originalText": "N\nH",
+            "lineHeight": 1.1374329784217512
           }
         ],
         "id": "ODU_I_CZfaIeSy_tMWknc",
@@ -411,11 +412,11 @@
             "fontFamily": 2,
             "text": "NH",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "NH"
+            "originalText": "NH",
+            "lineHeight": 1.1455755644003187
           },
           {
             "type": "text",
@@ -448,11 +449,11 @@
             "fontFamily": 2,
             "text": "2",
             "rawText": "",
-            "baseline": 11,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "2"
+            "originalText": "2",
+            "lineHeight": 1.0930089993705818
           }
         ],
         "id": "ygtI7fPBMbW9FcRoeY4R2",
@@ -521,11 +522,11 @@
             "fontFamily": 2,
             "text": "C",
             "rawText": "",
-            "baseline": 27,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "C"
+            "originalText": "C",
+            "lineHeight": 1.1262469181701034
           }
         ],
         "id": "r4wyhSwEF9u8xVQMC25iK",
@@ -566,11 +567,11 @@
             "fontFamily": 2,
             "text": "H C",
             "rawText": "H C",
-            "baseline": 27,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "H C"
+            "originalText": "H C",
+            "lineHeight": 1.1266033132145188
           },
           {
             "type": "text",
@@ -603,11 +604,11 @@
             "fontFamily": 2,
             "text": "3",
             "rawText": "3",
-            "baseline": 13,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "3"
+            "originalText": "3",
+            "lineHeight": 1.2292264298600164
           }
         ],
         "id": "eBJtni3URS0rCyImjX_8E",
@@ -648,11 +649,11 @@
             "fontFamily": 2,
             "text": "CH",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "CH"
+            "originalText": "CH",
+            "lineHeight": 1.136898872600747
           },
           {
             "type": "text",
@@ -685,11 +686,11 @@
             "fontFamily": 2,
             "text": "3",
             "rawText": "",
-            "baseline": 11,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "3"
+            "originalText": "3",
+            "lineHeight": 1.1523588779628964
           }
         ],
         "id": "bwOr08ynYWIr-7LYNJO13",
@@ -758,11 +759,11 @@
             "fontFamily": 2,
             "text": "O",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "O"
+            "originalText": "O",
+            "lineHeight": 1.1453569907980499
           }
         ],
         "id": "pBbYK04QrUdEWyP0ZH1dx",
@@ -801,11 +802,11 @@
             "fontFamily": 2,
             "text": "OH",
             "rawText": "",
-            "baseline": 28,
             "textAlign": "left",
             "verticalAlign": "top",
             "containerId": null,
-            "originalText": "OH"
+            "originalText": "OH",
+            "lineHeight": 1.134418960692266
           }
         ],
         "id": "u7IBvNRX8CjCWBQswats-",
@@ -4274,7 +4275,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.8.12",
+  "previousRelease": "1.8.21",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",

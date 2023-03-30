@@ -1,14 +1,14 @@
 ---
-sr-due: 2023-03-05
-sr-interval: 44
-sr-ease: 301
+sr-due: 2023-05-19
+sr-interval: 50
+sr-ease: 321
 ---
 # Facilitated Diffusion
 #biology
 
 Larger polar molecules like [[Glucose]], [[Amino Acids]], as well as ions cannot diffuse across a [[4 Cell Surface Membrane]] normally.
 Facillitated Diffusion uses [[Channel Proteins]] and [[Carrier Proteins]] to facillitate the diffusion.
-Each protein is specific to one type of molecule.
+Each protein is **specific** to one type of molecule.
 
 ![[Pasted image 20230105131408.png]]
 ### [[Channel Proteins]], [[Carrier Proteins]]

@@ -3,13 +3,16 @@
 
 - Things to finish learning
 	- [ ] Bio
-		- [ ] [[Inhibitors]]
-		- [ ] [[Osmosis]]
-		- [ ] 
+		- [ ] Transport in mammals
+		- [ ] Infectious Diseases
+		- [ ] Immunity
 	- [ ] Maths
-		- [ ] Statistics
 		- [ ] Practice
 	- [ ] Phys
+		- [ ] Everything 
+		- [ ] CBSE
 	- [ ] Chem
+		- [ ] More than everything 
+		- [ ] CBSE again
 - English Practice
 	- sooo much in english

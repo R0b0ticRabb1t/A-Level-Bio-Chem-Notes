@@ -6,7 +6,7 @@ sr-ease: 339
 # Amino Acids
 #biology/biomolecules 
 
-These are the building blocks of [[Proteins]]
+These are the building blocks of [[Protein]]
 
 ### Structure of Amino Acids
 ![[Amino Acid Structure.excalidraw]]

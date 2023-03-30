@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-11
-sr-interval: 8
-sr-ease: 267
+sr-due: 2023-04-12
+sr-interval: 50
+sr-ease: 287
 ---
 # Stem Cells
 #biology 

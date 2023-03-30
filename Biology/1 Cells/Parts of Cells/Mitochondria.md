@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-19
-sr-interval: 69
+sr-due: 2023-04-22
+sr-interval: 50
 sr-ease: 304
 ---
 # Mitochondria

@@ -8,7 +8,7 @@ sr-ease: 357
 
 Enzymes are biological [[Catalysts]], very important for organisms to function.
 
->[!important] They are [[Proteins]] that are globular in structure, that catalyze almost all reactions in living things, by reducing their *activation energy*.
+>[!important] They are [[Protein]] that are globular in structure, that catalyze almost all reactions in living things, by reducing their *activation energy*.
 
 - [[Intracellular Enzymes]]
 - [[Extracellular Enzymes]]
@@ -25,6 +25,7 @@ Enzymes are too small to see exactly how they work.
 
 %% Begin Waypoint %%
 - [[Competitive Inhibitors]]
+- [[end product inhibition]]
 - [[Enzyme Affinities]]
 - [[Factors Affecting Enzyme Activity]]
 - [[Induced Fit Hypothesis]]

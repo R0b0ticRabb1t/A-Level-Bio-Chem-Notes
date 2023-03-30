@@ -9,7 +9,7 @@ sr-ease: 309
 - Thread like structure
 - Deeply Staining
 - Conatins DNA
-- Very folded, using [[Proteins]], also contains some [[RNA]]
+- Very folded, using [[Protein]], also contains some [[RNA]]
 - [[Telomeres]]
 	- ![[Telomeres]]
 - Center contains [[Centromeres]]

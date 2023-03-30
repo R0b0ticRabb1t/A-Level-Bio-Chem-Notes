@@ -10,7 +10,7 @@ Collagen is an insoluble [[Fibrous Protein]], and is the most common protein in 
 
 Has a high [[tensile strength]]
 ### Structure 
-Each molecule of collagen is made of 3 [[Proteins|polypeptide chains]], wound in a triple helix structure, very tightly held together with [[Hydrogen Bonds]].
+Each molecule of collagen is made of 3 [[Protein|polypeptide chains]], wound in a triple helix structure, very tightly held together with [[Hydrogen Bonds]].
 Its able to be tight because every three/inner amino group is [[Glycine]], which is small enough to fit/ allow this triple helix.
 
 This molecule then lines up and covalently bonds to other triple helixes (staggered so that there are no weak points), forming fibrils.

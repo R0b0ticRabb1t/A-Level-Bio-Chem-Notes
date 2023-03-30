@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-15
-sr-interval: 26
-sr-ease: 264
+sr-due: 2023-03-13
+sr-interval: 14
+sr-ease: 244
 ---
 # Active Transport
 #biology 

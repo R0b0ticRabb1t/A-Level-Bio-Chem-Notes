@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-10
-sr-interval: 18
-sr-ease: 305
+sr-due: 2023-04-12
+sr-interval: 50
+sr-ease: 325
 ---
 ## Types of Bonds Which Hold Structure Of Proteins 
 

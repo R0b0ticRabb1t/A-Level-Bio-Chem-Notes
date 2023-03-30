@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-10
-sr-interval: 12
+sr-due: 2023-04-12
+sr-interval: 50
 sr-ease: 293
 ---
 # Mitotic Cell Cycle
@@ -20,8 +20,8 @@ but we'll focus on [[Animal Cells]]
 	- [[G2 Phase]]
 - [[M phase]] or [[Mitosis]]
 	- [[Prophase]]
-	- [[Anaphase]]
 	- [[Metaphase]]
+	- [[Anaphase]]
 	- [[Telophase]]
 - [[Cytokinesis]]
 

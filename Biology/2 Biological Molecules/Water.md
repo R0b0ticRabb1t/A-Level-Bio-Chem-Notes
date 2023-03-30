@@ -20,4 +20,4 @@ Water exhibits [[Hydrogen Bonds|Hydrogen Bonding]], which affects its physical p
 ### How these affect [[Biology]]
 Waters ability to dissolve polar molecules makes it an ideal medium for all biological reactions.
 Since it takes more energy to change temperature/state of water, it is more stable, and allows biological reactions to occur at a steady rate.
-Inability to dissolve non-polar molecules /hydrophobic interactions important for [[Proteins]] and [[Lipids]]
+Inability to dissolve non-polar molecules /hydrophobic interactions important for [[Protein]] and [[Lipids]]

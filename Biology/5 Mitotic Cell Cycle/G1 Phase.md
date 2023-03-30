@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-15
-sr-interval: 23
+sr-due: 2023-04-18
+sr-interval: 50
 sr-ease: 290
 ---
 ## G₁ phase

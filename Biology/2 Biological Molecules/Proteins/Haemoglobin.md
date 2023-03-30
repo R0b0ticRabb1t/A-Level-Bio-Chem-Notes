@@ -7,7 +7,7 @@ sr-ease: 273
 # Haemoglobin
 #biology/biomolecules 
 
-Haemoglobin is an important [[Proteins|protein]], which carries [[Oxygen]] through the blood. 
+Haemoglobin is an important [[Protein|protein]], which carries [[Oxygen]] through the blood. 
 ### Structure of Haemoglobin
 Haemoglobin has a [[Structure of Proteins#Quartenary Structure|Globular Structure]] composed of 4 polypeptide chains, 2 α-globin and 2 β-globin.
 The [[Weak Hydrophobic interactions ]], are very specific to allow dissolving in water. Incorrect amino acids tamper with this causing [[Sickle Cell Anaemia]]

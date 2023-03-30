@@ -14,7 +14,7 @@ They contain:
 - [[Cytoplasm]]
 	- But no double-membrane bounded organelles
 - [[Ribosomes]]
-- Circular [[DNA]]
+- Circular [[6 DNA]]
 	- not membrane bound nucleus
 	- found in a region called nucleoid instead along with [[RNA]] and proteins
 and somtimes contain:

@@ -1,3 +1,8 @@
+---
+sr-due: 2023-04-12
+sr-interval: 50
+sr-ease: 312
+---
 ## Anaphase
 #biology 
 

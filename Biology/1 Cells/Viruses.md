@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-02-20
-sr-interval: 90
+sr-due: 2023-04-22
+sr-interval: 50
 sr-ease: 314
 ---
 # Viruses

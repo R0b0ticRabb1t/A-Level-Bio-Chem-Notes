@@ -1,10 +1,12 @@
 ---
-sr-due: 2023-02-24
-sr-interval: 74
+sr-due: 2023-04-23
+sr-interval: 50
 sr-ease: 309
 ---
 # Vacuoles
 
+Vacuoles are membrane bound [[Organelles]],kinda like cooler [[Lysosomes]].
+They are covered by tonoplast.
 ### In [[Animal Cells]]
 - [[phagocytic]] vacuoles
 - food vacuoles

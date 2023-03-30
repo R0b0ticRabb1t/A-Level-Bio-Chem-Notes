@@ -25,13 +25,13 @@ Terrible overlap with chemistry
 	- [[Glycerol]]
 	- [[Phospholipids]]
 	- [[Triglycerides]]
-- **[[Proteins]]**
-	- [[4 Bonds in Folded Proteins]]
+- **[[Protein]]- [[4 Bonds in Folded Proteins]]
 	- [[Amino Acids]]
 	- [[Collagen]]
 	- [[Haemoglobin]]
 	- [[Peptide Bonds]]
 	- [[Prosthetic groups]]
+	- [[Protein]]
 	- [[Structure of Proteins]]
 - [[Water]]
 

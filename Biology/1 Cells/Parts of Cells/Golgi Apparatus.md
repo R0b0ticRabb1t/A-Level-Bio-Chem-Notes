@@ -16,7 +16,7 @@ Constantly buds off from vesicles from the [[Endoplasmic Reticulum]], and then b
 ### Functions
 - Vesicles make [[Lysosomes]]
 - Adds sugars to [[2 Biological Molecules]]
-	- [[Sugar]] + [[Proteins]] --> [[Glycoproteins]]
+	- [[Sugar]] + [[Protein]] --> [[Glycoproteins]]
 	- [[Sugar]] + [[Lipids]] --> [[Glycolipids]]
 - Makes cell walls in [[Plant Cells]] 
 - Releases [[Mucin]]

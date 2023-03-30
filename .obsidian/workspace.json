@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4143d4fa5a97d440",
+        "id": "f98501968caf45f3",
         "type": "tabs",
         "children": [
           {
-            "id": "93ad470415d25ffe",
+            "id": "fc8e11efaa057a83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Protein Synthesis.canvas",
+                "viewState": {
+                  "x": 215.68909463200723,
+                  "y": 240.29444599680667,
+                  "zoom": -1.1041666666666665
+                }
+              }
             }
           }
         ],
@@ -45,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glycosidic bonds",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,15 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "70ee82672743a81e",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "state": {
+                "file": "Protein Synthesis.canvas"
+              }
             }
           },
           {
@@ -110,13 +111,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Protein Synthesis.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "488b792302ea2346",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5b09952e15c2c9e6",
@@ -129,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Protein Synthesis.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Protein Synthesis.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +186,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.4539300163482356,
+                  "scale": 0.567813809939666,
                   "close": true
                 }
               }
@@ -188,12 +200,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,17 +219,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93ad470415d25ffe",
+  "active": "fc8e11efaa057a83",
   "lastOpenFiles": [
-    "NEET Only Things/Plants/Anatomy of Plants.md",
+    "Cells.canvas",
+    "Protein Synthesis.canvas",
     "Untitled.md",
-    "README.md",
-    "Inbox/DNA replication.md",
-    "Inbox/Nucleotides.md",
-    "Inbox/DNA.md",
-    "Inbox/end product inhibition.md",
+    "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
+    "Biology/6 DNA/Protein Synthesis.md",
+    "Biology/6 DNA/RNA.md",
+    "Biology/6 DNA/6 DNA.md",
+    "Biology/6 DNA/Nucleotides.md",
+    "Mutations.md",
+    "Biology/6 DNA/Gene Mutations.md",
+    "Biology/6 DNA/Sickle Cell Anaemia.md",
+    "Biology/6 DNA/Translation.md",
+    "Biology/6 DNA/Transcription.md",
+    "Images/DNA_Transcription_and_Translation.gif",
+    "Images/PVEWBg 2.gif",
+    "Images/PVEWBg 1.gif",
+    "Images/PVEWBg.gif",
+    "Images/Pasted image 20230330221720.png",
+    "Images/Pasted image 20230330221648.png",
+    "Images/Pasted image 20230330221604.png",
+    "Images/Pasted image 20230330221417.png",
+    "Gene.md",
+    "Biology/1 Cells/Parts of Cells/Ribosomes.md",
+    "Biology/2 Biological Molecules/Proteins/Protein.md",
+    "Images/Pasted image 20230330214328.png",
+    "Images/Pasted image 20230330214319.png",
+    "Biology/6 DNA/DNA replication.md",
+    "histines.md",
+    "6 DNA/DNA Translation.md",
+    "6 DNA",
+    "Inbox/Circulatory System.md",
+    "Inbox/Blood.md",
+    "Inbox/Symplast Pathway.md",
+    "Inbox/Aerobic Respiration.md",
+    "Inbox/Fluid Connective Tissues.md",
+    "Inbox/Plasmodesmata.md",
+    "Inbox/Hormones.md",
     "Inbox/Alkanes.md",
-    "Biology/1 Cells/Protoplast.md",
-    "Biology/1 Cells/Parts of Cells/Cytoplasm.md"
+    "README.md",
+    "Untitled 1.canvas",
+    "Biology/8 Transport in mammals",
+    "Biology/7 Transport in plants"
   ]
 }

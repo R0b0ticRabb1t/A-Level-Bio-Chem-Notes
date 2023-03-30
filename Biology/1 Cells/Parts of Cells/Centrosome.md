@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-02-13
-sr-interval: 21
-sr-ease: 280
+sr-due: 2023-04-18
+sr-interval: 50
+sr-ease: 300
 ---
 ### Centrosomes
 

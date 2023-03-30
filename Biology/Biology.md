@@ -17,11 +17,11 @@ lots to remember
 - **[[3 Enzymes]]**
 - **[[4 Cell Surface Membrane]]**
 - **[[5 Mitotic Cell Cycle]]**
-- **6 DNA replication**
-- **7 Transcription**
+- **[[6 DNA]]**
+- **7 Transport in plants**
+- **8 Transport in mammals**
 - [[Biology Textbook]]
 - [[photosynthesis]]
-- [[Sickle Cell Anaemia]]
 
 %% End Waypoint %%
 
