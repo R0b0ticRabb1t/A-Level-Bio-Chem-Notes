@@ -1,13 +1,12 @@
 ---
-sr-due: 2023-03-14
+sr-due: 2023-05-25
 sr-interval: 50
 sr-ease: 300
 ---
 # Diffusion
-#biology nnn
-Diffusion is the **net movement** of substances from an area of high to low concentration/ across a concentration gradient.
+#biology 
+Diffusion is the **net movement** of substances from an area of high to low concentration/ across a **concentration gradient**.
 Its caused by the random motion of particles, [[Brownian Motion]]
-
 
 [[Osmosis]] is diffusion specifically for [[Water]] across a semi permeable membrane
 

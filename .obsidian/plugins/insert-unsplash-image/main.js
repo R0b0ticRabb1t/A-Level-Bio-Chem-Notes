@@ -23347,8 +23347,8 @@ var ModalWrapper = class extends import_obsidian7.Modal {
   constructor(app, editor, settings, insertPlace = "default" /* default */) {
     super(app);
     this.editor = editor;
-    this.fetcher = getFetcher(settings);
     this.settings = { ...settings, useMarkdownLinks: app.vault.config.useMarkdownLinks };
+    this.fetcher = getFetcher(this.settings);
     this.insertPlace = insertPlace;
     this.containerEl.addClass("image-inserter-container");
   }

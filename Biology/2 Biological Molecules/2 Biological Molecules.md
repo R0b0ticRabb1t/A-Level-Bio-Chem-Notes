@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-03-20
-sr-interval: 63
+sr-due: 2023-05-28
+sr-interval: 50
 sr-ease: 325
 ---
 # Biological Molecules

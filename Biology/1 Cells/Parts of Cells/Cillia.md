@@ -1,7 +1,7 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.gettyimages.com%2Fvideos%2Ffallopian-tube-sem-video-id116334557%3Fs%3D640x640&f=1&nofb=1&ipt=0dc99e5aed668e42899e2e14132ee78ea861a493b2f398ecee373b6ba4512495&ipo=images"
-sr-due: 2023-03-20
-sr-interval: 21
+sr-due: 2023-05-18
+sr-interval: 40
 sr-ease: 130
 ---
 # Cillia

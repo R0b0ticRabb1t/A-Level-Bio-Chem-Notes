@@ -63,54 +63,6 @@
   "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Oxygen": {
-      "Oxygen": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1677859600778
-        }
-      }
-    },
-    "Aerobic Respiration": {
-      "Aerobic Respiration": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677859589129
-        }
-      }
-    },
-    "respiration": {
-      "respiration": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1677859632520
-        }
-      }
-    },
-    "Glucose": {
-      "Glucose": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677859619132
-        }
-      }
-    },
-    "Organelles": {
-      "Organelles": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677940777278
-        }
-      }
-    },
-    "Lysosomes": {
-      "Lysosomes": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1677941470474
-        }
-      }
-    },
     "Everything": {
       "Everything": {
         "currentFile": {
@@ -170,8 +122,8 @@
     "Circulatory System": {
       "Circulatory System": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1680196509767
+          "count": 3,
+          "lastUpdated": 1680950420694
         }
       }
     },
@@ -356,6 +308,38 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1680200759421
+        }
+      }
+    },
+    "Mammals": {
+      "Mammals": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680950116864
+        }
+      }
+    },
+    "Waypoint": {
+      "Waypoint": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680950199702
+        }
+      }
+    },
+    "Cells": {
+      "Cells": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680950217665
+        }
+      }
+    },
+    "Fluid Connective Tissues": {
+      "Fluid Connective Tissues": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680950407658
         }
       }
     }

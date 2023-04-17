@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-03-17
-sr-interval: 92
+sr-due: 2023-05-25
+sr-interval: 50
 sr-ease: 311
 ---
 # [[Animal]] Cells

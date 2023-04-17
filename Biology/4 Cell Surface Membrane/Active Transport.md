@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-03-13
-sr-interval: 14
+sr-due: 2023-05-23
+sr-interval: 50
 sr-ease: 244
 ---
 # Active Transport

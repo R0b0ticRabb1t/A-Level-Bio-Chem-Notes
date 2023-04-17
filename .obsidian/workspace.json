@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f98501968caf45f3",
+        "id": "161f6749591ed798",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8e11efaa057a83",
+            "id": "9c23a5dff8215d54",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Protein Synthesis.canvas",
-                "viewState": {
-                  "x": 215.68909463200723,
-                  "y": 240.29444599680667,
-                  "zoom": -1.1041666666666665
-                }
+                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -101,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protein Synthesis.canvas"
+                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md"
               }
             }
           },
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protein Synthesis.canvas",
+                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protein Synthesis.canvas",
+                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Protein Synthesis.canvas",
+                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,21 +218,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc8e11efaa057a83",
+  "active": "9c23a5dff8215d54",
   "lastOpenFiles": [
-    "Cells.canvas",
-    "Protein Synthesis.canvas",
-    "Untitled.md",
-    "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
-    "Biology/6 DNA/Protein Synthesis.md",
-    "Biology/6 DNA/RNA.md",
-    "Biology/6 DNA/6 DNA.md",
+    "NEET Only Things/Plants/Fruits.md",
+    "NEET Only Things/Plants/Plant Tissues.md",
+    "Movement Of Water Through A Plant.canvas",
+    "NEET Only Things/Plants/Vascular Tissue System.md",
+    "NEET Only Things/Plants/Xylem.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Polysaccharides.md",
+    "NEET Only Things/Plants/Plants.md",
+    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
+    "Biology/2 Biological Molecules/Proteins/Protein.md",
+    "Inbox/Blood.md",
     "Biology/6 DNA/Nucleotides.md",
-    "Mutations.md",
-    "Biology/6 DNA/Gene Mutations.md",
-    "Biology/6 DNA/Sickle Cell Anaemia.md",
-    "Biology/6 DNA/Translation.md",
+    "Biology/Biology Textbook.md",
+    "Biology/11 Immunity",
+    "Biology/10 Infectious disease",
+    "Inbox/Circulatory System.md",
+    "Biology/9 Gas Exchange",
+    "Inbox/Fluid Connective Tissues.md",
+    "Biology/8 Transport in mammals/8 Transport in mammals.md",
+    "Inbox/Plasmodesmata.md",
+    "Biology/1 Cells/Parts of Cells/Cillia.md",
+    "Biology/2 Biological Molecules/2 Biological Molecules.md",
     "Biology/6 DNA/Transcription.md",
+    "Biology/1 Cells/Parts of Cells/Microvilli.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Glucose.md",
+    "Biology/5 Mitotic Cell Cycle/Prophase.md",
+    "NEET Only Things/Plants/Pericarp.md",
+    "Biology/5 Mitotic Cell Cycle/G2 Phase.md",
+    "Biology/1 Cells/Animal Cells.md",
+    "Biology/6 DNA/DNA replication.md",
+    "Biology/5 Mitotic Cell Cycle/Telophase.md",
+    "Protein Synthesis.canvas",
+    "Cells.canvas",
+    "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
     "Images/DNA_Transcription_and_Translation.gif",
     "Images/PVEWBg 2.gif",
     "Images/PVEWBg 1.gif",
@@ -242,24 +261,9 @@
     "Images/Pasted image 20230330221648.png",
     "Images/Pasted image 20230330221604.png",
     "Images/Pasted image 20230330221417.png",
-    "Gene.md",
-    "Biology/1 Cells/Parts of Cells/Ribosomes.md",
-    "Biology/2 Biological Molecules/Proteins/Protein.md",
     "Images/Pasted image 20230330214328.png",
     "Images/Pasted image 20230330214319.png",
-    "Biology/6 DNA/DNA replication.md",
-    "histines.md",
-    "6 DNA/DNA Translation.md",
     "6 DNA",
-    "Inbox/Circulatory System.md",
-    "Inbox/Blood.md",
-    "Inbox/Symplast Pathway.md",
-    "Inbox/Aerobic Respiration.md",
-    "Inbox/Fluid Connective Tissues.md",
-    "Inbox/Plasmodesmata.md",
-    "Inbox/Hormones.md",
-    "Inbox/Alkanes.md",
-    "README.md",
     "Untitled 1.canvas",
     "Biology/8 Transport in mammals",
     "Biology/7 Transport in plants"

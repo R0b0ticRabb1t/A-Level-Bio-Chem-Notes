@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-03-12
-sr-interval: 9
+sr-due: 2023-05-14
+sr-interval: 41
 sr-ease: 212
 ---
 # Cell Signalling (with chemicals) 
@@ -18,8 +18,8 @@ Signal is converted from one method of transmission to another
 - Opening ion [[Channel Proteins]] ([[Nicotine-Accepting acetylcholine receptors]])
 - Act as membrane bound enzyme ([[Glucagon Receptor]])
 - Act as intracellular receptor (eg inside [[Nuclear Envelope]]) after initial signal goes through membrane
-- #### G proteins
-	- Acts as switch, turns on another enzyme and releasesmany secondary messengers
+- #### releasing G proteins
+	- Acts as switch, turns on another enzyme and releases many secondary messengers
 	- signal is amplified
 	- signalling cascade
 	- final response activates some [[3 Enzymes]]:

@@ -19,7 +19,10 @@ lots to remember
 - **[[5 Mitotic Cell Cycle]]**
 - **[[6 DNA]]**
 - **7 Transport in plants**
-- **8 Transport in mammals**
+- **[[8 Transport in mammals]]**
+- **9 Gas Exchange**
+- **10 Infectious disease**
+- **11 Immunity**
 - [[Biology Textbook]]
 - [[photosynthesis]]
 

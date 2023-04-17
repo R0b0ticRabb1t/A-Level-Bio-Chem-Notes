@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-16
-sr-interval: 23
-sr-ease: 289
+sr-due: 2023-05-25
+sr-interval: 50
+sr-ease: 309
 ---
 ## Telophase
 #biology 

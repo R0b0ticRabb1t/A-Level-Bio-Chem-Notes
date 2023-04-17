@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b530266f2c7a99d8","x":-570,"y":60,"width":140,"height":60,"color":"3","type":"text","text":"## Roots"},
+		{"id":"8b6aec354a4f3a4a","x":-560,"y":140,"width":120,"height":60,"color":"3","type":"text","text":"## Soil"}
+	],
+	"edges":[
+		{"id":"a505a191708c0a10","fromNode":"8b6aec354a4f3a4a","fromSide":"top","toNode":"b530266f2c7a99d8","toSide":"bottom"}
+	]
+}

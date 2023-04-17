@@ -1,5 +1,5 @@
 ---
-sr-due: 2023-03-21
+sr-due: 2023-06-02
 sr-interval: 50
 sr-ease: 311
 ---
@@ -19,6 +19,6 @@ Proteins make up more than half of most [[1 Cells]], and perform various functio
 ### Test for Proteins
 1. Prepare a solution of proteins/substance to test
 2. Add [[Biuret's Reagent]]
-3. Turn purple - protein present
+3. Turn **purple** - protein present
 
 ![[Structure of Proteins]]
