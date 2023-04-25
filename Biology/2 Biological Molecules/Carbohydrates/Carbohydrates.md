@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-25
+sr-due: 2023-06-08
 sr-interval: 50
-sr-ease: 310
+sr-ease: 330
 ---
 # Carbohydrates
 Carbohydrates are substances made up of Carbon, Hydrogen and Oxygen. 

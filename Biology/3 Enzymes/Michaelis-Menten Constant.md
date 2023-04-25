@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-25
-sr-interval: 55
-sr-ease: 316
+sr-due: 2023-06-08
+sr-interval: 50
+sr-ease: 336
 ---
 ## Michaelis-Menten Constant $K_m$
 This is the susbtrate concentration at which [[Vmax#$ frac{1}{2}V_{max}$|half V max]]

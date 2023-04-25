@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-26
-sr-interval: 102
-sr-ease: 339
+sr-due: 2023-06-08
+sr-interval: 50
+sr-ease: 359
 ---
 # Amino Acids
 #biology/biomolecules 

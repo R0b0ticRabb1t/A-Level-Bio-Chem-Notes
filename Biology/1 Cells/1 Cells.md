@@ -17,7 +17,7 @@ Cells usually have a size between 5µm and 40µm, so can only be seen under [[Mi
 
 ### Types of Cells
 - [[Prokaryotic]] - No nucleus
-	- [[Bacterial Cells]]
+	- [[Bacteria]]
 - [[Eukaryotic]] - Yes nucleus
 	- [[Animal Cells]]
 	- [[Plant Cells]]
@@ -25,7 +25,7 @@ Cells usually have a size between 5µm and 40µm, so can only be seen under [[Mi
 ### Waypoint to this folder
 %% Begin Waypoint %%
 - [[Animal Cells]]
-- [[Bacterial Cells]]
+- [[Bacteria]]
 - [[Eukaryotic]]
 - **Parts of Cells**
 	- [[Cell Walls]]

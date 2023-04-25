@@ -7,7 +7,7 @@ sr-ease: 265
 #biology #MOC 
 
 DNA contains the code for all living organisms to function.
-Found in [[Nucleus]] of cell or just cytoplasm of [[Bacterial Cells]]
+Found in [[Nucleus]] of cell or just cytoplasm of [[Bacteria]]
 
 Polymer made up of [[Nucleotides]], which pair with hydrogen bonds complementary to each other. 
 -

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-27
-sr-interval: 63
-sr-ease: 273
+sr-due: 2023-06-08
+sr-interval: 50
+sr-ease: 293
 ---
 
 # Haemoglobin

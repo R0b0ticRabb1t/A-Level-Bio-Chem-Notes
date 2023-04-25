@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-21
-sr-interval: 56
-sr-ease: 272
+sr-due: 2023-06-08
+sr-interval: 50
+sr-ease: 292
 ---
 ## Collagen
 #biology/biomolecules 

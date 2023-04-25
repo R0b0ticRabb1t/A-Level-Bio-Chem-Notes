@@ -1,7 +1,7 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmachleitkari.weebly.com%2Fuploads%2F2%2F3%2F8%2F8%2F23888123%2F9090552_orig.jpg&f=1&nofb=1&ipt=05f30e2a9ed7fe8d7171b50765236e78f1b2cbc6684e62c2654531c9f22b7f7d&ipo=images"
-sr-due: 2023-05-17
-sr-interval: 128
+sr-due: 2023-06-06
+sr-interval: 50
 sr-ease: 267
 ---
 # Endoplasmic Reticulum

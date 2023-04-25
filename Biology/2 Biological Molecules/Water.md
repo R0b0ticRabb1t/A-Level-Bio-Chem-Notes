@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-03-28
-sr-interval: 64
+sr-due: 2023-06-13
+sr-interval: 50
 sr-ease: 277
 ---
 # Water $\ce{H2O}$

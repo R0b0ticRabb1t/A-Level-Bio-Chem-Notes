@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "161f6749591ed798",
+        "id": "b2dd4e222b296ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "9c23a5dff8215d54",
+            "id": "315fc9eef8b74138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
+                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md"
+                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
+                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
+                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Biology/2 Biological Molecules/Lipids/Lipids.md",
+                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,38 +217,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c23a5dff8215d54",
+  "active": "315fc9eef8b74138",
   "lastOpenFiles": [
-    "NEET Only Things/Plants/Fruits.md",
-    "NEET Only Things/Plants/Plant Tissues.md",
+    "Biology/4 Cell Surface Membrane/Factors that affect rate of diffusion.md",
+    "NEET Only Things/Plants/Meristematic Tissues.md",
+    "Biology/5 Mitotic Cell Cycle/Interphase.md",
+    "Biology/2 Biological Molecules/Water.md",
+    "NEET Only Things/Plants/Plant Tissue Systems.md",
+    "Completed Past papers.md",
+    "Cholera.md",
+    "Biology/1 Cells/Bacteria.md",
+    "Biology/2 Biological Molecules/Proteins/Haemoglobin.md",
+    "Biology/6 DNA/Sickle Cell Anaemia.md",
+    "Biology/2 Biological Molecules/Proteins/Amino Acids.md",
+    "Biology/2 Biological Molecules/Proteins/Prosthetic groups.md",
+    "Biology/3 Enzymes/Michaelis-Menten Constant.md",
+    "Biology/5 Mitotic Cell Cycle/S Phase.md",
+    "Biology/4 Cell Surface Membrane/Exocytosis.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Carbohydrates.md",
+    "NEET Only Things/Plants/True Fruits.md",
+    "NEET Only Things/Plants/Parthenocarpic Fruits.md",
+    "Biology/3 Enzymes/Factors Affecting Enzyme Activity.md",
+    "Biology/1 Cells/Parts of Cells/Microvilli.md",
+    "Biology/1 Cells/Prokaryotic.md",
+    "Biology/2 Biological Molecules/Proteins/Collagen.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Starch.md",
+    "Biology/2 Biological Molecules/Proteins/Structure of Proteins.md",
+    "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Monosaccharides.md",
     "Movement Of Water Through A Plant.canvas",
-    "NEET Only Things/Plants/Vascular Tissue System.md",
-    "NEET Only Things/Plants/Xylem.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Polysaccharides.md",
-    "NEET Only Things/Plants/Plants.md",
-    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
-    "Biology/2 Biological Molecules/Proteins/Protein.md",
-    "Inbox/Blood.md",
-    "Biology/6 DNA/Nucleotides.md",
-    "Biology/Biology Textbook.md",
     "Biology/11 Immunity",
     "Biology/10 Infectious disease",
-    "Inbox/Circulatory System.md",
     "Biology/9 Gas Exchange",
-    "Inbox/Fluid Connective Tissues.md",
-    "Biology/8 Transport in mammals/8 Transport in mammals.md",
-    "Inbox/Plasmodesmata.md",
-    "Biology/1 Cells/Parts of Cells/Cillia.md",
-    "Biology/2 Biological Molecules/2 Biological Molecules.md",
-    "Biology/6 DNA/Transcription.md",
-    "Biology/1 Cells/Parts of Cells/Microvilli.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Glucose.md",
-    "Biology/5 Mitotic Cell Cycle/Prophase.md",
-    "NEET Only Things/Plants/Pericarp.md",
-    "Biology/5 Mitotic Cell Cycle/G2 Phase.md",
-    "Biology/1 Cells/Animal Cells.md",
-    "Biology/6 DNA/DNA replication.md",
-    "Biology/5 Mitotic Cell Cycle/Telophase.md",
     "Protein Synthesis.canvas",
     "Cells.canvas",
     "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
