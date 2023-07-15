@@ -1,0 +1,27 @@
+.theme-light.theme-light {
+	--bg-hue: 71;
+	--bg-sat: 50%;
+
+	--color-accent: hsl(173, 58%, 39%);
+	--color-accent-hsl: 173, 58%, 39%;
+	--interactive-accent: hsl(349, 79%, 82%);
+	--alt-heading-color: hsl(335, 57%, 46%);
+
+	--secondary-accent: hsl(142, 29%, 50%);
+	--hover-accent: hsl(328 100% 54%);
+	--link-unresolved-color: hsl(101 42% 51%);
+}
+
+.theme-dark.theme-dark {
+	--bg-hue: 233;
+	--bg-sat: 15%;
+
+	--color-accent: hsl(184 79% 45%);
+	--color-accent-hsl: 184 79% 35%;
+	--interactive-accent: hsl(184 79% 30%);
+	--alt-heading-color: hsl(232 50% 70%);
+
+	--secondary-accent: hsl(28 63% 61%);
+	--hover-accent: hsl(328 100% 64%);
+	--link-unresolved-color: hsl(101 42% 51%);
+}

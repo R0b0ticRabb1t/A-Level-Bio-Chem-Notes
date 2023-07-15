@@ -22668,12 +22668,30 @@ var providerMapping = {
   ["pixabay" /* pixabay */]: "Pixabay",
   ["pexels" /* pexels */]: "Pexels"
 };
+var imageProviders = [
+  "unsplash" /* unsplash */,
+  "pixabay" /* pixabay */,
+  "pexels" /* pexels */
+];
+var imageSizes = [
+  "raw" /* raw */,
+  "large" /* large */,
+  "medium" /* medium */,
+  "small" /* small */
+];
+var imageSizesMapping = {
+  ["raw" /* raw */]: "Raw",
+  ["large" /* large */]: "Large",
+  ["medium" /* medium */]: "Medium",
+  ["small" /* small */]: "Small"
+};
 
 // SettingTab.ts
 var DEFAULT_SETTINGS = {
   insertMode: "remote" /* remote */,
   orientation: "landscape" /* landscape */,
   insertSize: "",
+  imageSize: "large" /* large */,
   frontmatter: {
     key: "image",
     valueFormat: "{image-url}",
@@ -22708,6 +22726,17 @@ var SettingTab = class extends import_obsidian.PluginSettingTab {
     new import_obsidian.Setting(containerEl).setName("Insert Size").setDesc('Set the size of the image when inserting. Format could be only width "200" or width and height "200x100".').addText((text) => {
       text.setValue(this.plugin.settings.insertSize).onChange(async (value) => {
         this.plugin.settings.insertSize = value;
+        await this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian.Setting(containerEl).setName("Default Image Size").setDesc("Set the default preferred image size from image providers").addDropdown((dropdown) => {
+      dropdown.addOptions({
+        ["raw" /* raw */]: imageSizesMapping["raw" /* raw */],
+        ["large" /* large */]: imageSizesMapping["large" /* large */],
+        ["medium" /* medium */]: imageSizesMapping["medium" /* medium */],
+        ["small" /* small */]: imageSizesMapping["large" /* large */]
+      }).setValue(this.plugin.settings.imageSize).onChange(async (value) => {
+        this.plugin.settings.imageSize = value;
         await this.plugin.saveSettings();
       });
     });
@@ -22835,13 +22864,20 @@ var orientationMapping = {
   ["squarish" /* squarish */]: "square",
   ["not_specified" /* notSpecified */]: ""
 };
+var imageSizeMapping = {
+  ["raw" /* raw */]: "original",
+  ["large" /* large */]: "large",
+  ["medium" /* medium */]: "medium",
+  ["small" /* small */]: "small"
+};
 var pexels = (settings) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageProvider, pexelsApiKey, useMarkdownLinks } = settings;
+  const { orientation, insertMode, insertSize, imageSize, imageProvider, pexelsApiKey, useMarkdownLinks } = settings;
   return {
     imageProvider,
+    imageSize,
     noResult() {
       return totalPage <= 0;
     },
@@ -22877,7 +22913,7 @@ var pexels = (settings) => {
       return data.photos.map(function(item) {
         return {
           thumb: item.src.small,
-          url: item.src.original,
+          url: item.src[imageSizeMapping[imageSize]],
           pageUrl: item.url,
           userUrl: item.photographer_url,
           username: item.photographer
@@ -22890,8 +22926,8 @@ var pexels = (settings) => {
     },
     async downloadAndInsertImage(image, createFile) {
       const url = image.url;
-      const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-      let nameText = `![${randomImgName()}${imageSize}]`;
+      const imageSize2 = insertSize === "" ? "" : `|${insertSize}`;
+      let nameText = `![${randomImgName()}${imageSize2}]`;
       let urlText = `(${url})`;
       const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
       const referral = `
@@ -22902,7 +22938,7 @@ var pexels = (settings) => {
         const ext = "png";
         const arrayBuf = await this.downloadImage(url);
         createFile(imageName, ext, arrayBuf);
-        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize}]]`;
+        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize2}]]`;
         urlText = "";
       }
       return `${nameText}${urlText}${referral}`;
@@ -22933,13 +22969,28 @@ var orientationMapping2 = {
   ["squarish" /* squarish */]: "",
   ["not_specified" /* notSpecified */]: ""
 };
+var getImageUrl = (item, quality) => {
+  switch (quality) {
+    case "raw" /* raw */:
+      return item.imageURL || item.fullHDURL || item.largeImageURL;
+    case "large" /* large */:
+      return item.fullHDURL || item.largeImageURL;
+    case "medium" /* medium */:
+      return item.webformatURL;
+    case "small" /* small */:
+      return item.previewURL;
+    default:
+      return item.webformatURL;
+  }
+};
 var pixabay = (settings) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageProvider, pixabayApiKey, useMarkdownLinks } = settings;
+  const { orientation, insertMode, insertSize, imageSize, imageProvider, pixabayApiKey, useMarkdownLinks } = settings;
   return {
     imageProvider,
+    imageSize,
     noResult() {
       return totalPage <= 0;
     },
@@ -22973,7 +23024,7 @@ var pixabay = (settings) => {
       return data.hits.map(function(item) {
         return {
           thumb: item.previewURL,
-          url: item.webformatURL,
+          url: getImageUrl(item, imageSize),
           pageUrl: item.pageURL,
           userUrl: `https://pixabay.com/users/${item.user}-${item.user_id}`,
           username: item.user
@@ -22986,8 +23037,8 @@ var pixabay = (settings) => {
     },
     async downloadAndInsertImage(image, createFile) {
       const url = image.url;
-      const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-      let nameText = `![${randomImgName()}${imageSize}]`;
+      const imageSize2 = insertSize === "" ? "" : `|${insertSize}`;
+      let nameText = `![${randomImgName()}${imageSize2}]`;
       let urlText = `(${url})`;
       const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
       const referral = `
@@ -22998,7 +23049,7 @@ var pixabay = (settings) => {
         const ext = "png";
         const arrayBuf = await this.downloadImage(url);
         createFile(imageName, ext, arrayBuf);
-        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize}]]`;
+        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize2}]]`;
         urlText = "";
       }
       return `${nameText}${urlText}${referral}`;
@@ -23026,17 +23077,24 @@ var import_obsidian5 = require("obsidian");
 var DEFAULT_PROXY_SERVER = "https://insert-unsplash-image.cloudy9101.com/";
 var APP_NAME2 = encodeURIComponent("Obsidian Image Inserter Plugin");
 var UTM2 = `utm_source=${APP_NAME2}&utm_medium=referral`;
+var imageSizeMapping2 = {
+  ["raw" /* raw */]: "raw",
+  ["large" /* large */]: "regular",
+  ["medium" /* medium */]: "small",
+  ["small" /* small */]: "thumb"
+};
 var unsplash = (settings) => {
   const startPage = 1;
   let curPage = startPage;
   let totalPage = 0;
-  const { orientation, insertMode, insertSize, imageProvider, useMarkdownLinks } = settings;
+  const { orientation, insertMode, insertSize, imageSize, imageProvider, useMarkdownLinks } = settings;
   let proxyServer = DEFAULT_PROXY_SERVER;
   if (validUrl(settings.proxyServer)) {
     proxyServer = settings.proxyServer;
   }
   return {
     imageProvider,
+    imageSize,
     noResult() {
       return totalPage <= 0;
     },
@@ -23068,9 +23126,9 @@ var unsplash = (settings) => {
       totalPage = data.total_pages;
       return data.results.map(function(item) {
         return {
-          desc: item.description || item.alt_description,
+          desc: (item.description || item.alt_description || "").replace(new RegExp(/\n/g), " "),
           thumb: item.urls.thumb,
-          url: item.urls.regular,
+          url: item.urls[imageSizeMapping2[imageSize]],
           downloadLocationUrl: item.links.download_location,
           pageUrl: item.links.html,
           username: item.user.name,
@@ -23088,8 +23146,8 @@ var unsplash = (settings) => {
     async downloadAndInsertImage(image, createFile) {
       this.touchDownloadLocation(image.downloadLocationUrl);
       const url = image.url;
-      const imageSize = insertSize === "" ? "" : `|${insertSize}`;
-      let nameText = `![${image.desc || randomImgName()}${imageSize}]`;
+      const imageSize2 = insertSize === "" ? "" : `|${insertSize}`;
+      let nameText = `![${image.desc || randomImgName()}${imageSize2}]`;
       let urlText = `(${url})`;
       const backlink = settings.insertBackLink && image.pageUrl ? `[Backlink](${image.pageUrl}) | ` : "";
       const referral = `
@@ -23100,7 +23158,7 @@ var unsplash = (settings) => {
         const ext = "png";
         const arrayBuf = await this.downloadImage(url);
         createFile(imageName, ext, arrayBuf);
-        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize}]]`;
+        nameText = useMarkdownLinks ? `![${insertSize}](${encodeURIComponent(imageName)}.${ext})` : `![[${imageName}.${ext}${imageSize2}]]`;
         urlText = "";
       }
       return `${nameText}${urlText}${referral}`;
@@ -23195,13 +23253,24 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
   const onProviderChange = async (provider) => {
     setLoading(true);
     setError(void 0);
-    const fetcher2 = getFetcher({ ...settings, imageProvider: provider });
-    setFetcher(fetcher2);
-    onFetcherChange(fetcher2);
+    const newFetcher = getFetcher({ ...settings, imageProvider: provider, imageSize: fetcher.imageSize });
+    setFetcher(newFetcher);
+    onFetcherChange(newFetcher);
   };
   const onProviderSelectorChange = async (e) => {
     const provider = e.target.value;
-    onProviderChange(provider);
+    await onProviderChange(provider);
+  };
+  const onImageSizeChange = async (quality) => {
+    setLoading(true);
+    setError(void 0);
+    const newFetcher = getFetcher({ ...settings, imageSize: quality, imageProvider: fetcher.imageProvider });
+    setFetcher(newFetcher);
+    onFetcherChange(newFetcher);
+  };
+  const onImageSizeSelectorChange = async (e) => {
+    const quality = e.target.value;
+    await onImageSizeChange(quality);
   };
   const onPrevBtnClick = () => {
     setLoading(true);
@@ -23219,7 +23288,17 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
     } else if (e.ctrlKey && e.key === "p") {
       setSelectedImage((prev) => prev - 1 < 0 ? images.length - 1 : prev - 1);
     } else if (e.ctrlKey && e.key === "u") {
-      onProviderChange(fetcher.imageProvider === "unsplash" /* unsplash */ ? "pixabay" /* pixabay */ : "unsplash" /* unsplash */);
+      let index = imageProviders.indexOf(fetcher.imageProvider) + 1;
+      if (index >= imageProviders.length) {
+        index = 0;
+      }
+      onProviderChange(imageProviders[index]);
+    } else if (e.ctrlKey && e.key === "i") {
+      let index = imageSizes.indexOf(fetcher.imageSize) + 1;
+      if (index >= imageSizes.length) {
+        index = 0;
+      }
+      onImageSizeChange(imageSizes[index]);
     } else if (e.key === "Enter") {
       e.preventDefault();
       onSelect(images[selectedImage]);
@@ -23261,14 +23340,18 @@ var ImagesModal = ({ fetcher: defaultFetcher, onFetcherChange, settings, onSelec
   }), /* @__PURE__ */ React3.createElement("select", {
     value: fetcher.imageProvider,
     onChange: onProviderSelectorChange,
-    className: "provider-selector"
-  }, /* @__PURE__ */ React3.createElement("option", {
-    value: "unsplash" /* unsplash */
-  }, providerMapping["unsplash" /* unsplash */]), /* @__PURE__ */ React3.createElement("option", {
-    value: "pixabay" /* pixabay */
-  }, providerMapping["pixabay" /* pixabay */]), /* @__PURE__ */ React3.createElement("option", {
-    value: "pexels" /* pexels */
-  }, providerMapping["pexels" /* pexels */]))), loading && /* @__PURE__ */ React3.createElement(Loading, null), query !== "" && !loading && fetcher.noResult() && /* @__PURE__ */ React3.createElement(NoResult, null), error, /* @__PURE__ */ React3.createElement("div", {
+    className: "selector"
+  }, imageProviders.map((provider) => /* @__PURE__ */ React3.createElement("option", {
+    key: provider,
+    value: provider
+  }, providerMapping[provider]))), /* @__PURE__ */ React3.createElement("select", {
+    value: fetcher.imageSize,
+    onChange: onImageSizeSelectorChange,
+    className: "selector"
+  }, imageSizes.map((size) => /* @__PURE__ */ React3.createElement("option", {
+    key: size,
+    value: size
+  }, imageSizesMapping[size])))), loading && /* @__PURE__ */ React3.createElement(Loading, null), query !== "" && !loading && fetcher.noResult() && /* @__PURE__ */ React3.createElement(NoResult, null), error, /* @__PURE__ */ React3.createElement("div", {
     className: `scroll-area${loading ? " loading" : ""}`
   }, /* @__PURE__ */ React3.createElement("div", {
     className: "images-list"

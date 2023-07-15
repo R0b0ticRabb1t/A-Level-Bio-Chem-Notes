@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-03
+sr-due: 2023-08-11
 sr-interval: 50
-sr-ease: 309
+sr-ease: 329
 ---
 ## Amylopectin
 #biology/biomolecules  

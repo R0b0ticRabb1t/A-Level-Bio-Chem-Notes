@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b2dd4e222b296ee3",
+        "id": "4f42a5b90fb7d318",
         "type": "tabs",
         "children": [
           {
-            "id": "315fc9eef8b74138",
+            "id": "b00df8943ce9ea2f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo101.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7bce4ada997a1a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8d165471b04683",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
+                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,10 +75,10 @@
             }
           },
           {
-            "id": "665c1fcc85871db7",
+            "id": "00f796319ae5c2b4",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -71,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -80,7 +96,7 @@
       {
         "id": "5ebb004b09754110",
         "type": "tabs",
-        "dimension": 44.69606674612634,
+        "dimension": 30.011862396204034,
         "children": [
           {
             "id": "5180e4c5a7cb8450",
@@ -99,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md"
+                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md"
               }
             }
           },
@@ -109,27 +125,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
+                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "488b792302ea2346",
+            "id": "2e13ee7aa08be216",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5b09952e15c2c9e6",
         "type": "tabs",
-        "dimension": 27.29439809296782,
+        "dimension": 38.43416370106762,
         "children": [
           {
             "id": "6cd376c1b8838834",
@@ -137,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
+                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,43 +168,8 @@
       {
         "id": "373975aa931446b9",
         "type": "tabs",
-        "dimension": 28.009535160905845,
+        "dimension": 31.55397390272835,
         "children": [
-          {
-            "id": "f694bbf96904d327",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Biology/4 Cell Surface Membrane/Factors Regulating Fluidity In Cell Membrane.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.7125,
-                  "lineSizeMultiplier": 1.03916666666667,
-                  "collapse-forces": false,
-                  "centerStrength": 1,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.567813809939666,
-                  "close": true
-                }
-              }
-            }
-          },
           {
             "id": "6ad6932c0fc451b7",
             "type": "leaf",
@@ -202,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 248.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,40 +198,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "315fc9eef8b74138",
+  "active": "0d8d165471b04683",
   "lastOpenFiles": [
-    "Biology/4 Cell Surface Membrane/Factors that affect rate of diffusion.md",
-    "NEET Only Things/Plants/Meristematic Tissues.md",
-    "Biology/5 Mitotic Cell Cycle/Interphase.md",
-    "Biology/2 Biological Molecules/Water.md",
-    "NEET Only Things/Plants/Plant Tissue Systems.md",
-    "Completed Past papers.md",
-    "Cholera.md",
-    "Biology/1 Cells/Bacteria.md",
-    "Biology/2 Biological Molecules/Proteins/Haemoglobin.md",
-    "Biology/6 DNA/Sickle Cell Anaemia.md",
-    "Biology/2 Biological Molecules/Proteins/Amino Acids.md",
-    "Biology/2 Biological Molecules/Proteins/Prosthetic groups.md",
-    "Biology/3 Enzymes/Michaelis-Menten Constant.md",
-    "Biology/5 Mitotic Cell Cycle/S Phase.md",
-    "Biology/4 Cell Surface Membrane/Exocytosis.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Carbohydrates.md",
-    "NEET Only Things/Plants/True Fruits.md",
-    "NEET Only Things/Plants/Parthenocarpic Fruits.md",
-    "Biology/3 Enzymes/Factors Affecting Enzyme Activity.md",
-    "Biology/1 Cells/Parts of Cells/Microvilli.md",
-    "Biology/1 Cells/Prokaryotic.md",
-    "Biology/2 Biological Molecules/Proteins/Collagen.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Starch.md",
-    "Biology/2 Biological Molecules/Proteins/Structure of Proteins.md",
-    "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Monosaccharides.md",
-    "Movement Of Water Through A Plant.canvas",
-    "Biology/11 Immunity",
-    "Biology/10 Infectious disease",
-    "Biology/9 Gas Exchange",
-    "Protein Synthesis.canvas",
+    "NEET Only Things/Plants/Epidermal Tissue System.md",
+    "Biology/5 Mitotic Cell Cycle/Anaphase.md",
+    "Biology/5 Mitotic Cell Cycle/Metaphase.md",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo101.pdf",
+    "Untitled",
+    "Biology/7 Transport in plants/7 Transport in plants.md",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo1ps.pdf",
+    "Biology/Biology.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-THE-s-BLOCK-ELEMENTS-chapter-3.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-THE-p-BLOCK-ELEMENTS-chapter-4.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-REDOX-REACTIONS-chapter-1.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-ORGANIC-CHEMISTRY-–-SOME-BASIC-PRINCIPLES-chapter-5.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-HYDROGEN-chapter-2.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-HYDROCARBONS-chapter-6.pdf",
+    "Biology/photosynthesis.md",
+    "Biology/Biology Textbook.md",
+    "Biology/Biology.md",
+    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
+    "Biology/2 Biological Molecules/Lipids/Triglycerides.md",
+    "Biology/5 Mitotic Cell Cycle/Telomeres.md",
+    "Biology/3 Enzymes/Inhibitors.md",
+    "Biology/1 Cells/Parts of Cells/Nucleolus.md",
+    "Biology/6 DNA/RNA.md",
+    "Biology/4 Cell Surface Membrane/Osmosis.md",
+    "Biology/3 Enzymes/Competitive Inhibitors.md",
+    "To Do.md",
+    "TO DO Kanban Test.md",
+    "Untitled Kanban.md",
+    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
+    "Biology/3 Enzymes/3 Enzymes.md",
+    "Biology/1 Cells/1 Cells.md",
+    "NEET Only Things/Connective Tissues.md",
+    "NEET Only Things/Animal Tissues.md",
+    "Style Settings Test.md",
+    "Biology/4 Cell Surface Membrane/Incipient Plasmolysis.md",
+    "Biology/2 Biological Molecules/Carbohydrates/Cellulose.md",
     "Cells.canvas",
+    "Protein Synthesis.canvas",
+    "Movement Of Water Through A Plant.canvas",
     "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
     "Images/DNA_Transcription_and_Translation.gif",
     "Images/PVEWBg 2.gif",
@@ -262,9 +250,6 @@
     "Images/Pasted image 20230330221417.png",
     "Images/Pasted image 20230330214328.png",
     "Images/Pasted image 20230330214319.png",
-    "6 DNA",
-    "Untitled 1.canvas",
-    "Biology/8 Transport in mammals",
-    "Biology/7 Transport in plants"
+    "Untitled 1.canvas"
   ]
 }

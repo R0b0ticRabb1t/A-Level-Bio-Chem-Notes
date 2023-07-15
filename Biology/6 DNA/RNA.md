@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-09
-sr-interval: 37
-sr-ease: 257
+sr-due: 2023-09-03
+sr-interval: 50
+sr-ease: 297
 ---
 # Ribo-Nucleic [[Acids]] (RNA)
 #biology 
@@ -13,12 +13,11 @@ Also only *single stranded*
 There are different types of RNA:
 - ### mRNA
 	- messenger RNA made during [[Transcription]]
-	- single stranded and unfolded, moves out from [[Nucleus]]
+	- single stranded and **unfolded**, moves out from [[Nucleus]]
 - ### tRNA
 	- transfer RNA used to help in [[Translation]]
 	- folds into a specific shape, attaches to specific [[Amino Acids]] with help of certain [[3 Enzymes]]
 	- always has CCA codon at the start, and a specific anticodon to bind to mRNA [[Codons]] 
-
 - ### rRNA
 	- ribosmal RNA is RNA that makes up part of the [[Ribosomes]]
 	- folds into 2 complex shapes

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-03
+sr-due: 2023-08-01
 sr-interval: 50
-sr-ease: 243
+sr-ease: 263
 ---
 # Chloroplasts
 Chloroplasts are found in [[Plant Cells]] and ...
@@ -16,7 +16,7 @@ They are sites for [[photosynthesis]]
 - Also contains lipid droplets
 	- Store lipids, for making membranes 
 	- formed from breaking down membranes
-- Have their own 70S [[Ribosomes]] and circular dna, showing their [[Endosymbiont Theory|endosymbiotic origins]]
+- Have their own 70S [[Ribosomes]] and **circular dna**, showing their [[Endosymbiont Theory|endosymbiotic origins]]
 
 ![[Pasted image 20221003095534.png]]
 

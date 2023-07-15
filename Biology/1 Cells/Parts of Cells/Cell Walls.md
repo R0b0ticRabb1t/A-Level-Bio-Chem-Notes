@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-04
-sr-interval: 105
-sr-ease: 280
+sr-due: 2023-08-15
+sr-interval: 50
+sr-ease: 300
 ---
 ## Cell Walls
 #biology 

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-05
-sr-interval: 106
-sr-ease: 275
+sr-due: 2023-08-22
+sr-interval: 50
+sr-ease: 295
 ---
 # Cellulose
 #biology [[2 Biological Molecules]] [[Polysaccharides]]

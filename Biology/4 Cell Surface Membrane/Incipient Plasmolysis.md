@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-06
-sr-interval: 44
-sr-ease: 295
+sr-due: 2023-08-22
+sr-interval: 50
+sr-ease: 315
 ---
 ## Incipient plasmolysis
 #biology/plants 

@@ -1,18 +1,36 @@
 # To do
 #MOC 
 
-- Things to finish learning
-	- [ ] Bio
-		- [ ] Transport in mammals
-		- [ ] Infectious Diseases
-		- [ ] Immunity
-	- [ ] Maths
-		- [ ] Practice
-	- [ ] Phys
-		- [ ] Everything 
-		- [ ] CBSE
-	- [ ] Chem
-		- [ ] More than everything 
-		- [ ] CBSE again
-- English Practice
-	- sooo much in english
+- [ ] [[CAIE]]
+	- [ ] [[Biology]]
+		- [x] AS Level
+		- [ ] A Level
+	- [ ] [[Maths]]
+		- [x] AS Level
+		- [ ] A Level
+	- [ ] [[Physics]]
+		- [x] AS Level
+		- [ ] A Level
+	- [ ] [[Chemistry]]
+		- [x] AS Level
+		- [ ] A Level
+- [ ] [[NEET]]
+	- [ ] Biology
+		- [ ] Reproduction
+			- [ ] Reproduction in Organisms
+			- [ ] Sexual Reproduction in Flowering Plants 
+			- [x] Human Reproduction
+			- [ ] Reproductive Health
+		- [ ] Genetics And Evolution
+			- [ ] Principles Of Inheritance
+			- [ ] Molecular Basis Of Inheritance
+			- [ ] Evolution 
+	- [ ] Chemistry
+		- [ ] Solutions
+		- [x] [[Haloalkanes]] 
+		- [ ] Alcohols, Phenols and Ethers
+		- [ ] Carboxylic Acids, Aldehydes and Ketones
+		- [ ] Amides 
+		- [ ] Electrochemistry
+	- [ ] Physics
+		- [ ] 

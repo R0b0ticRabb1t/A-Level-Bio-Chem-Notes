@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-07
-sr-interval: 45
-sr-ease: 294
+sr-due: 2023-09-03
+sr-interval: 50
+sr-ease: 314
 ---
 ## Competitive Inhibitors
 #biology 

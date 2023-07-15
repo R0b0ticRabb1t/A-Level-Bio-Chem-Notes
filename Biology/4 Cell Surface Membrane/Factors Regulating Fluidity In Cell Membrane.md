@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-03-29
+sr-due: 2023-06-24
 sr-interval: 50
-sr-ease: 278
+sr-ease: 298
 ---
 ## Factors Regulating Fluidity in Cell Membrane
 #biology 

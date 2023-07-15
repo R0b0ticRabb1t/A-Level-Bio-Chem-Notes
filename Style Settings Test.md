@@ -13,7 +13,8 @@ Text
 > $LaTex$
 > > [!example] Nested block
 > > ```py
-> > python = code(True)```
+> > python = code(True)
+
 
 Markdown stuff
 - ==Highlighted Text==

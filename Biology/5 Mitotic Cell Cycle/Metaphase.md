@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-12
+sr-due: 2023-09-03
 sr-interval: 50
-sr-ease: 312
+sr-ease: 332
 ---
 ## Metaphase
 #biology 

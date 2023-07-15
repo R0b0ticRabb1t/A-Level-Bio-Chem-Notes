@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-04-08
-sr-interval: 46
+sr-due: 2023-09-03
+sr-interval: 50
 sr-ease: 289
 ---
 # Osmosis
