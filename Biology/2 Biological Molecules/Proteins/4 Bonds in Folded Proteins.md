@@ -1,12 +1,12 @@
 ---
-sr-due: 2023-04-12
-sr-interval: 50
+sr-due: 2023-08-24
+sr-interval: 40
 sr-ease: 325
 ---
 ## Types of Bonds Which Hold tert Structure Of Proteins 
 
 ##### [[Hydrogen Bonds]]
-1. between very polar groups
+1. between **very polar groups**
 2. weak alone strong together?
 ##### **[[Disulfide Bonds]]** 
 1. Strong Covalent bonds

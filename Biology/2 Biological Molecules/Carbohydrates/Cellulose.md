@@ -6,7 +6,7 @@ sr-ease: 295
 # Cellulose
 #biology [[2 Biological Molecules]] [[Polysaccharides]]
 
-Cellulose fibres are inelastic and have a high [[tensile strength]], and is used for structural roles in [[Plants]].
+Cellulose fibres are inelastic and have a high [[tensile strength]], and is used for structural roles in [[NEET Only Things/Plants/Plants]].
 ### Structure of Cellulose
 Cellulose is also made out of [[Glucose]] subunits, but unlike other [[Carbohydrates]], it uses the β-glucose ![[Glucose#^ef14a9]]
 

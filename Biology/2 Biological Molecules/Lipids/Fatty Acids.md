@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-19
-sr-interval: 50
+sr-due: 2023-08-26
+sr-interval: 40
 sr-ease: 250
 ---
 ## Fatty Acids
@@ -13,7 +13,7 @@ They are defined as:
 	- this makes them an acid/allows forming [[Esters]] when combined with [[Alcohol]]
 
 ### Saturated Fatty Acids
-- Have **maximum**  hydrogen atoms
+- Have **maximum** hydrogen atoms
 - No C=C double bonds
 - Common in animals
 ### Unsaturated Fatty Acids
@@ -22,4 +22,4 @@ They are defined as:
 	- **Polyunsaturated** - more double bonds
 - This means they **melt easier**
 	- because less [[Hydrogen Bonds]] are formed between molecules.
-- Common in plants 
+- Common in [[NEET Only Things/Plants/Plants]] 

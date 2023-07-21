@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-06-08
-sr-interval: 50
-sr-ease: 305
+sr-due: 2023-08-28
+sr-interval: 40
+sr-ease: 325
 ---
 # Factors Affecting Enzyme Activity
 #biology 

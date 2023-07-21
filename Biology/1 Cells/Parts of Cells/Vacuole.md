@@ -12,7 +12,7 @@ They are covered by tonoplast.
 - food vacuoles
 - autophagic vacuoles
 ### In [[Plant Cells]]
-In plants there is a large central vacuole
+In [[NEET Only Things/Plants/Plants]] there is a large central vacuole
 #### Functions
 - Support, Vacuoles increase in size as water [[Osmosis]]e into it, filling up the cell and making it turgid
   also makes the cell grow/supports structure of the plant

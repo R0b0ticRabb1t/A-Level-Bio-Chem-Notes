@@ -1,8 +1,8 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages-medium-large%2Fcoloured-tem-of-mammalian-lysosomes-dr-gopal-murti.jpg&f=1&nofb=1&ipt=79a898bc7aec03ac2a3ea7a0f89d912177b07c005995482dbfa7b69fa6635d6a&ipo=images"
 banner_y: 0.34538
-sr-due: 2023-04-18
-sr-interval: 50
+sr-due: 2023-08-26
+sr-interval: 40
 sr-ease: 269
 ---
 # Lysosomes

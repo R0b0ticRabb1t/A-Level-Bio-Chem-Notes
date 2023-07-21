@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#MOC",
@@ -15,17 +15,17 @@
       }
     },
     {
-      "query": "tag:#NEET",
+      "query": "tag:#NCERT",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#chemistry",
+      "query": "tag:#keywords",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 6078166
       }
     },
     {
@@ -34,9 +34,23 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 14048460
+      }
+    },
+    {
+      "query": "tag:#Incomplete",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.18973958333333,
@@ -46,6 +60,6 @@
   "repelStrength": 16.018711018711,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2634805488567021,
+  "scale": 0.12959518204996903,
   "close": true
 }

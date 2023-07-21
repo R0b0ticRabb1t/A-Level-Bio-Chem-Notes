@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-06-08
-sr-interval: 50
-sr-ease: 359
+sr-due: 2023-08-28
+sr-interval: 40
+sr-ease: 379
 ---
 # Amino Acids
 #biology/biomolecules 
@@ -20,6 +20,6 @@ These are the building blocks of [[Protein]]
 #### Amino Acids bond to each other, forming [[Peptide Bonds]]
 
 ### Types of Ammino Acids
-1. [[Glycine]]
-2. [[Alanine]]
-3. [[Serine]]
+1. [[Glycine]] - H
+2. [[Alanine]] - CH3
+3. [[Serine]] - CH2OH

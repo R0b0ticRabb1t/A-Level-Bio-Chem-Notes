@@ -5,6 +5,6 @@ sr-ease: 325
 ---
 
 Eukaryotic organisms have cells that contain a [[Nucleus]] and other membrane-bound [[Organelles]]
-Ex. Animals, plants and other things
+Ex. Animals, [[NEET Only Things/Plants/Plants]] and other things
 
 #biology 

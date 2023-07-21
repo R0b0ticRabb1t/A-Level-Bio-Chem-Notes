@@ -112,5 +112,6 @@
   "anuppuccin-theme-settings@@anp-kanban-card-opacity": 1,
   "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-card-spacing": 8,
-  "minimal-style@@bold-color@@light": "#2AA198"
+  "minimal-style@@bold-color@@light": "#2AA198",
+  "minimal-style@@image-radius": 0
 }

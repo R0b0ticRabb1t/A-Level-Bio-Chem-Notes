@@ -14,7 +14,7 @@ Can be found in the [[Cytoplasm]] or on the surface of [[Endoplasmic Reticulum#R
 
 ### Sizes
 For structures this small [[Svedberg units]] are used to measure them. 
-- [[Eukaryotic]]-80S size
+- [[Eukaryotic]]-80S size 
 - [[Prokaryotic]]-70S size
 [[Mitochondria]] and [[Chloroplasts]] also contain 70S ribosomes, is proof of [[Endosymbiont Theory]]
 

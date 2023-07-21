@@ -6,3 +6,7 @@ Style Settings Test.md
 To Do.md
 MISTAKES.md
 Dataview Test Sheets.md
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections

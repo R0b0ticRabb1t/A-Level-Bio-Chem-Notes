@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-04-13
-sr-interval: 118
+sr-due: 2023-08-26
+sr-interval: 40
 sr-ease: 358
 ---
 # Photosynthesis 

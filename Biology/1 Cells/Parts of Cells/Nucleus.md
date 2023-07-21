@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-26
-sr-interval: 140
-sr-ease: 266
+sr-due: 2023-08-28
+sr-interval: 40
+sr-ease: 286
 banner: "https://thumbs.dreamstime.com/z/nucleus-tem-false-colour-transmission-electron-microscope-tem-micrograph-showing-ultrastructure-nucleus-gold-very-117240013.jpg"
 ---
 # Nucleus

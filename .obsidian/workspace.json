@@ -4,39 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "4f42a5b90fb7d318",
+        "id": "f4bc7ea5f63b0256",
         "type": "tabs",
         "children": [
           {
-            "id": "b00df8943ce9ea2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo101.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7bce4ada997a1a01",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d8d165471b04683",
+            "id": "9a52c4bf4f721db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
+                "file": "NEET Only Things/Plants/Sexual Reproduction In Flowering Plants.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbb2b8ce4075788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gynoecium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b165c06f7c7bbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pistils.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde6b68a4c04000f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Megasporangium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f89486c57f2d0b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Megasporogenesis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f097425f41a5c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embryo Sac.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -65,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NCERT/12",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -96,7 +146,7 @@
       {
         "id": "5ebb004b09754110",
         "type": "tabs",
-        "dimension": 30.011862396204034,
+        "dimension": 36.633663366336634,
         "children": [
           {
             "id": "5180e4c5a7cb8450",
@@ -115,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md"
+                "file": "Embryo Sac.md"
               }
             }
           },
@@ -125,26 +175,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
+                "file": "Embryo Sac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2e13ee7aa08be216",
+            "id": "a26bd552c5e895b7",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5b09952e15c2c9e6",
         "type": "tabs",
-        "dimension": 38.43416370106762,
+        "dimension": 29.826732673267326,
         "children": [
           {
             "id": "6cd376c1b8838834",
@@ -152,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/2 Biological Molecules/Proteins/4 Bonds in Folded Proteins.md",
+                "file": "Embryo Sac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +219,7 @@
       {
         "id": "373975aa931446b9",
         "type": "tabs",
-        "dimension": 31.55397390272835,
+        "dimension": 33.53960396039604,
         "children": [
           {
             "id": "6ad6932c0fc451b7",
@@ -177,13 +228,56 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a6e0a5e65acd6694",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Embryo Sac.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#MOC",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.703586278586279,
+                  "lineSizeMultiplier": 0.886954261954262,
+                  "collapse-forces": false,
+                  "centerStrength": 0.809251559251559,
+                  "repelStrength": 15.02079002079,
+                  "linkStrength": 1,
+                  "linkDistance": 49,
+                  "scale": 0.7599264194148208,
+                  "close": true
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,62 +288,61 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d8d165471b04683",
+  "active": "5f097425f41a5c86",
   "lastOpenFiles": [
-    "NEET Only Things/Plants/Epidermal Tissue System.md",
-    "Biology/5 Mitotic Cell Cycle/Anaphase.md",
-    "Biology/5 Mitotic Cell Cycle/Metaphase.md",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo101.pdf",
-    "Untitled",
-    "Biology/7 Transport in plants/7 Transport in plants.md",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo1ps.pdf",
-    "Biology/Biology.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-THE-s-BLOCK-ELEMENTS-chapter-3.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-THE-p-BLOCK-ELEMENTS-chapter-4.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-REDOX-REACTIONS-chapter-1.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-ORGANIC-CHEMISTRY-–-SOME-BASIC-PRINCIPLES-chapter-5.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-HYDROGEN-chapter-2.pdf",
-    "CBSE TEXTBOOKS/All CBSE/NCERT Chemistry Book/11/CBSE-class-11-NCERT-Book-Chemistry-part-2-HYDROCARBONS-chapter-6.pdf",
-    "Biology/photosynthesis.md",
-    "Biology/Biology Textbook.md",
-    "Biology/Biology.md",
-    "Biology/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
-    "Biology/2 Biological Molecules/Lipids/Triglycerides.md",
-    "Biology/5 Mitotic Cell Cycle/Telomeres.md",
-    "Biology/3 Enzymes/Inhibitors.md",
-    "Biology/1 Cells/Parts of Cells/Nucleolus.md",
-    "Biology/6 DNA/RNA.md",
-    "Biology/4 Cell Surface Membrane/Osmosis.md",
-    "Biology/3 Enzymes/Competitive Inhibitors.md",
-    "To Do.md",
-    "TO DO Kanban Test.md",
-    "Untitled Kanban.md",
-    "Biology/4 Cell Surface Membrane/4 Cell Surface Membrane.md",
-    "Biology/3 Enzymes/3 Enzymes.md",
-    "Biology/1 Cells/1 Cells.md",
+    "Images/Formation of the embryo sac.png",
+    "Embryo Sac.md",
+    "Megasporogenesis.md",
+    "Images/Pasted image 20230721195454.png",
+    "Megasporangium.md",
+    "Pistils.md",
+    "Images/Pasted image 20230721192856.png",
+    "NEET Only Things/Plants/Microsporangium.md",
+    "Gynoecium.md",
+    "NEET Only Things/Plants/Sexual Reproduction In Flowering Plants.md",
+    "NEET Only Things/Plants/Microsporogenesis.md",
+    "NEET Only Things/Plants/Pollen.md",
+    "NEET Only Things/Plants/stamens.md",
+    "NEET Only Things/Plants/Androecium.md",
+    "NEET Only Things/Plants/Anther.md",
+    "Images/Gynoecium.png",
+    "NEET Only Things/Plants/Microsporocytes.md",
+    "Images/Pistils.png",
+    "Biology/1 Cells/Parts of Cells/Centrioles.md",
+    "Biology/3 Enzymes/Factors Affecting Enzyme Activity.md",
+    "NEET Only Things/Plants/Simple Tissue.md",
+    "Biology/1 Cells/Bacteria.md",
+    "Biology/1 Cells/Parts of Cells/Mitochondria.md",
+    "Biology/1 Cells/Parts of Cells/Nucleus.md",
+    "Biology/5 Mitotic Cell Cycle/S Phase.md",
+    "NEET Only Things/Plants/Dry Fruits.md",
     "NEET Only Things/Connective Tissues.md",
-    "NEET Only Things/Animal Tissues.md",
-    "Style Settings Test.md",
-    "Biology/4 Cell Surface Membrane/Incipient Plasmolysis.md",
-    "Biology/2 Biological Molecules/Carbohydrates/Cellulose.md",
-    "Cells.canvas",
-    "Protein Synthesis.canvas",
+    "Biology/2 Biological Molecules/Proteins/Amino Acids.md",
+    "NEET Only Things/Plants/Plants.md",
+    "NEET Only Things/Plants/Plants 1.md",
+    "Images/Pollen.png",
+    "Images/Pasted image 20230718194135.png",
+    "Images/Pasted image 20230718193923.png",
+    "Images/Pasted image 20230718193913.png",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo101.pdf",
+    "Images/Pasted image 20230717205623.png",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo113.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo108.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo106.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo105.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo104.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo103.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo102.pdf",
+    "CBSE TEXTBOOKS/All CBSE/NCERT Biology Book/12th/lebo1ps.pdf",
+    "Inbox/11th CBSE",
+    "maps/Protein Synthesis.canvas",
+    "maps/Cells.canvas",
     "Movement Of Water Through A Plant.canvas",
     "Biology/5 Mitotic Cell Cycle/Mitosis Canvas.canvas",
-    "Images/DNA_Transcription_and_Translation.gif",
-    "Images/PVEWBg 2.gif",
-    "Images/PVEWBg 1.gif",
-    "Images/PVEWBg.gif",
-    "Images/Pasted image 20230330221720.png",
-    "Images/Pasted image 20230330221648.png",
-    "Images/Pasted image 20230330221604.png",
-    "Images/Pasted image 20230330221417.png",
-    "Images/Pasted image 20230330214328.png",
-    "Images/Pasted image 20230330214319.png",
     "Untitled 1.canvas"
   ]
 }

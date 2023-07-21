@@ -9,11 +9,12 @@
   "obsidian-style-settings",
   "obsidian-minimal-settings",
   "tag-wrangler",
-  "obsidian-spaced-repetition",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-linter",
   "obsidian-git",
   "obsidian-task-progress-bar",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-spaced-repetition",
+  "remember-cursor-position"
 ]

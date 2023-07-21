@@ -1,14 +1,14 @@
 ---
-sr-due: 2023-05-28
-sr-interval: 50
-sr-ease: 325
+sr-due: 2023-08-26
+sr-interval: 40
+sr-ease: 365
 ---
 # Biological Molecules
 #biology/biomolecules #MOC 
 
 Biological molecules are the building blocks of all life. 
 There are many types of these molecules.
-Terrible overlap with chemistry
+Good overlap with chemistry
 
 %% Begin Waypoint %%
 - **[[Carbohydrates]]**

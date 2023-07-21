@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-20
-sr-interval: 50
-sr-ease: 206
+sr-due: 2023-08-21
+sr-interval: 33
+sr-ease: 186
 ---
 # Centrioles
 
