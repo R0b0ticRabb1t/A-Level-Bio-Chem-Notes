@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-06-04
-sr-interval: 174
+sr-due: 2023-08-31
+sr-interval: 40
 sr-ease: 311
 ---
 ## Glycerol

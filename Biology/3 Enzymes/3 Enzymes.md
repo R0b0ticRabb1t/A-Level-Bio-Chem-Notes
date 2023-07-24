@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-08
-sr-interval: 144
+sr-due: 2023-09-02
+sr-interval: 40
 sr-ease: 357
 ---
 # Enzymes

@@ -1,9 +1,9 @@
 ---
 banner: "https://images.unsplash.com/photo-1623574161053-0579872a2b34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
 banner_y: 0.5
-sr-due: 2023-05-29
-sr-interval: 165
-sr-ease: 343
+sr-due: 2023-09-02
+sr-interval: 40
+sr-ease: 363
 ---
 # Cells
 #MOC #biology 

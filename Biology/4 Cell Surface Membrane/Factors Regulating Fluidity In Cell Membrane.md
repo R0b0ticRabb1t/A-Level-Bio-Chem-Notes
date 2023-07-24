@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-06-24
-sr-interval: 50
-sr-ease: 298
+sr-due: 2023-08-31
+sr-interval: 40
+sr-ease: 318
 ---
 ## Factors Regulating Fluidity in Cell Membrane
 #biology 
@@ -13,5 +13,5 @@ sr-ease: 298
 ↑ length = ↑ surface area = ↓ fluidity
 #### [[Cholestrol]] - Mechanical Stability
 Cholestrol makes the cell membrane a lot more stable
-at low temps, cholestrol makes it more fluid
-at high temps, cholestrol makes it less fluid
+at low temps, cholestrol makes more fluid
+at high temps, cholestrol makes less fluid

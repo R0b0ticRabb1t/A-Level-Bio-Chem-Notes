@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-06-24
-sr-interval: 50
-sr-ease: 308
+sr-due: 2023-08-31
+sr-interval: 40
+sr-ease: 328
 ---
 ## Cytoplasm
 This is the liquid that cells contain in which all chemical processes occur.

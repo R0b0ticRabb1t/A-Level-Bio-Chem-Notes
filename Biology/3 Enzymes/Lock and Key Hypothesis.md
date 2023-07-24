@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-19
-sr-interval: 155
-sr-ease: 385
+sr-due: 2023-08-31
+sr-interval: 40
+sr-ease: 405
 ---
 ### Lock and Key Hypothesis
 1. [[3 Enzymes]] shaped exactly to fit [[substrate]]

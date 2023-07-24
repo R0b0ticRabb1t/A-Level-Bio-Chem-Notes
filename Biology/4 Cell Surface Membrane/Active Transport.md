@@ -1,13 +1,13 @@
 ---
-sr-due: 2023-05-23
-sr-interval: 50
-sr-ease: 244
+sr-due: 2023-08-31
+sr-interval: 40
+sr-ease: 264
 ---
 # Active Transport
 #biology 
 
-Active Transport is the process by which cells move substances **against** a [[Concentration Gradient]]. 
-Requires energy in the form of [[ATP]], and is accomplished by [[Protein Pumps]]. Protein pumps are very specific to one substance.
+Active Transport is the process by which cells move substances **against** a **[[Concentration Gradient]].** 
+Requires **energy** in the form of [[ATP]], and is accomplished by [[Protein Pumps]]. Protein pumps are very specific to one substance.
 ### Steps
 - The specific substance binds to the protein pumps.
 - With the help of energy from atp the shape of the protein pump

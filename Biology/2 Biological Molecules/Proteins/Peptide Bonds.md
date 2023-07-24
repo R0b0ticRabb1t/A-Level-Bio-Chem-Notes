@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-25
-sr-interval: 50
-sr-ease: 359
+sr-due: 2023-08-31
+sr-interval: 40
+sr-ease: 379
 ---
 ### Peptide bonds
 #biology/biomolecules 

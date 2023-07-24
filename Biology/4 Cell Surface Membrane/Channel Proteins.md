@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-19
-sr-interval: 50
-sr-ease: 286
+sr-due: 2023-09-02
+sr-interval: 40
+sr-ease: 306
 ---
 ## Channel Proteins
 #biology 

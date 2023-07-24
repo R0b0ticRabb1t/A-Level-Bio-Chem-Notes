@@ -7,7 +7,7 @@ sr-ease: 267
 # Endoplasmic Reticulum
 #biology 
 
-- These are that are found in cells, and are continuous with the outer layer of the [[Nucleus#Nuclear Envelope|Nuclear Envelope]]. 
+- These are found in cells, and are continuous with the outer layer of the [[Nucleus#Nuclear Envelope|Nuclear Envelope]]. 
 - The membranes form flattened sacs/**[[cisternae]]** 
 - Reactions can also occur inside the cisternae
 - They can transport substances, especially [[Protein]] seperate from the [[Cytoplasm]]. 
