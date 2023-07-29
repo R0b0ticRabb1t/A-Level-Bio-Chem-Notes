@@ -13,9 +13,7 @@
   "highlightr-plugin",
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-task-progress-bar",
   "obsidian-kanban",
   "obsidian-spaced-repetition",
-  "remember-cursor-position",
-  "obsidian-drag-n-drop-plugin"
+  "remember-cursor-position"
 ]

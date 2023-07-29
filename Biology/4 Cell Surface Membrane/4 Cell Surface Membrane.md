@@ -1,7 +1,7 @@
 ---
 banner: "https://www.mrgscience.com/uploads/2/0/7/9/20796234/membr1-med-hr_orig.jpeg"
-sr-due: 2023-06-02
-sr-interval: 50
+sr-due: 2023-09-03
+sr-interval: 40
 sr-ease: 294
 banner_x: 0.57359
 ---

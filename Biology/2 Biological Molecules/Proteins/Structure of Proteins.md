@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-19
-sr-interval: 50
+sr-due: 2023-09-03
+sr-interval: 40
 sr-ease: 343
 ---
 # Structure of Proteins
