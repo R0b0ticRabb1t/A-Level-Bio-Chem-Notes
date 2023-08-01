@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"da7a11d6b9726ac2","x":-200,"y":-400,"width":360,"height":240,"type":"file","file":"CAIE Bio/6 DNA/Transcription.md"},
+		{"type":"file","file":"CAIE Bio/6 DNA/6 DNA.md","id":"2f46a88d3709e45d","x":-740,"y":-320,"width":400,"height":320},
+		{"id":"f5241447253963c8","x":317,"y":-364,"width":400,"height":400,"type":"file","file":"CAIE Bio/6 DNA/RNA.md"},
+		{"id":"bb2e538733cd9b9a","x":517,"y":190,"width":400,"height":400,"type":"file","file":"CAIE Bio/2 Biological Molecules/Proteins/Protein.md"},
+		{"id":"c3c21dd402099ded","x":-83,"y":110,"width":400,"height":380,"type":"file","file":"CAIE Bio/6 DNA/Protein Synthesis.md"},
+		{"id":"11c1f81cd1ebde4d","x":-720,"y":160,"width":400,"height":280,"type":"file","file":"CAIE Bio/6 DNA/DNA replication.md"}
+	],
+	"edges":[
+		{"id":"67722d1923ba71f3","fromNode":"2f46a88d3709e45d","fromSide":"right","toNode":"da7a11d6b9726ac2","toSide":"left"},
+		{"id":"9af9c8b8f136cf37","fromNode":"da7a11d6b9726ac2","fromSide":"right","toNode":"f5241447253963c8","toSide":"left"},
+		{"id":"d496e81ece8475d6","fromNode":"f5241447253963c8","fromSide":"bottom","toNode":"bb2e538733cd9b9a","toSide":"top"}
+	]
+}
