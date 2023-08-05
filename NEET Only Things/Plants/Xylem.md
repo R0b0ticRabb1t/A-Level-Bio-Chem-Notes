@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-23
-sr-interval: 50
+sr-due: 2023-09-11
+sr-interval: 40
 sr-ease: 228
 ---
 ## Xylem Vessels
@@ -21,5 +21,7 @@ Made up of three [[Plant Tissues]]:
 	- Large central cavity
 - Xylem Fibres/[[Schlerenchyma]]
 - Xylem [[Parenchyma]]
+
+![[Pasted image 20230802004853.png|200]]
   >[!note] Parenchyma is the only living tissue here
 > All the other cells are dead and without a [[Cytoplasm]]. Xylem is called a dead tissue

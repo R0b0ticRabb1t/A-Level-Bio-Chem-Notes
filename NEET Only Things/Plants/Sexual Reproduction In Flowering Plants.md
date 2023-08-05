@@ -1,3 +1,8 @@
+---
+sr-due: 2023-08-06
+sr-interval: 4
+sr-ease: 303
+---
 # Sexual Reproduction in [[Angiosperms]]
 #NCERT/12 #biology #MOC 
 
@@ -20,9 +25,7 @@ Most -> [[Chasmogamous flowers]]
 > *[[Oxalis]]*, *[[Viola]]*, *[[Commelina]]*
 
 ### [[Pollen-Pistil Interaction]]
-
 ### 3. [[Double Fertilization]]
-
 ### 4. Post-Fertilization
 [[Endosperm]]
 [[Embryo Development (Plants)]]

@@ -1,4 +1,4 @@
-also known as 
+AKA. 
 - Microspore Mother Cells (MMC)
 - Pollen Mother Cells (PMC)
 

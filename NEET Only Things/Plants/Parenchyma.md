@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-23
-sr-interval: 50
-sr-ease: 259
+sr-due: 2023-09-11
+sr-interval: 40
+sr-ease: 279
 ---
 ## Parenchyma
 #biology/plants #NCERT/11 

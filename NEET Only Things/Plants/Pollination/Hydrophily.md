@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-08-02
-sr-interval: 4
-sr-ease: 280
+sr-due: 2023-08-07
+sr-interval: 2
+sr-ease: 240
 ---
-
 ## Water Pollination - Hydrophily
 #biology/plants #NCERT/12 
 

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-06-03
-sr-interval: 172
+sr-due: 2023-09-11
+sr-interval: 40
 sr-ease: 310
 ---
 ### Compound Fruits

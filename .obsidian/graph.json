@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#Incomplete",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "tag:#MOC",
       "color": {
         "a": 1,
@@ -43,10 +50,10 @@
       }
     },
     {
-      "query": "tag:#Incomplete",
+      "query": "tag:#daily",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16643817
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 16.018711018711,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4228519733500074,
+  "scale": 0.4884206453141387,
   "close": true
 }

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-05-25
-sr-interval: 50
-sr-ease: 233
+sr-due: 2023-09-06
+sr-interval: 35
+sr-ease: 213
 ---
 
 # Glucose

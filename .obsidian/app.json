@@ -12,10 +12,6 @@
   "defaultViewMode": "source",
   "readableLineLength": true,
   "spellcheck": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB-oxendict",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "strictLineBreaks": false
 }

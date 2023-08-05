@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-20
-sr-interval: 50
-sr-ease: 310
+sr-due: 2023-09-09
+sr-interval: 38
+sr-ease: 290
 ---
 ### End product inhibition
 #biology 

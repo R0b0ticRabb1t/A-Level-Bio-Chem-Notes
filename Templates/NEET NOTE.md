@@ -1,2 +1,2 @@
 # {{Title}}
-#biology #NCERT/12 
+#biology #NCERT 

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-20
-sr-interval: 50
+sr-due: 2023-09-11
+sr-interval: 40
 sr-ease: 289
 ---
 ## Carrier Proteins

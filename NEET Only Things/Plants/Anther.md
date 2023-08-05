@@ -1,5 +1,8 @@
 ---
 banner: "![[Anther Young, old and enlarged.png]]"
+sr-due: 2023-08-08
+sr-interval: 3
+sr-ease: 252
 ---
 # Anther
 #biology/plants #NCERT/12 

@@ -1,3 +1,8 @@
+---
+sr-due: 2023-08-09
+sr-interval: 5
+sr-ease: 246
+---
 # Typhoid
 #biology/disease #NCERT/12 
 
@@ -7,15 +12,15 @@ Epidemiology: Enters [[Small Intestine]] by **contaminated food** (& water).
 
 #### Symptoms:
 Common:
-- Sustained High Fever (39-40°C)
-- Stomach Pain
+- *Sustained High* Fever (39-40°C)
+- **Stomach Pain**
 - Constipation
 - Loss of appetite
 - Headache, Weakness 
 Sever cases:
-- Intestinal Perforations 
+- Intestinal **Perforations** 
 - Death
 
-#### Test: Widal Test
+#### Test: **Widal Test**
 
 Case: [[Typhoid Mary]]

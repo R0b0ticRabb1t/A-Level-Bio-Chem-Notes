@@ -1,3 +1,8 @@
+---
+sr-due: 2023-08-06
+sr-interval: 3
+sr-ease: 282
+---
 # Pollen-Pistil Interaction
 #biology #NCERT/12 
 

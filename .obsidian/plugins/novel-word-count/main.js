@@ -292,7 +292,7 @@ var FileHelper = class {
     }
     const hasFrontmatter = !!metadata.frontmatter;
     const frontmatterPos = (_a = metadata.frontmatter) == null ? void 0 : _a.position;
-    const meaningfulContent = hasFrontmatter ? content.slice(0, frontmatterPos.start.offset) + content.slice(frontmatterPos.end.offset) : content;
+    const meaningfulContent = hasFrontmatter && !!frontmatterPos ? content.slice(0, frontmatterPos.start.offset) + content.slice(frontmatterPos.end.offset) : content;
     const wordCount = this.countWords(meaningfulContent, wordCountType);
     const characterCount = meaningfulContent.length;
     const nonWhitespaceCharacterCount = this.countNonWhitespaceCharacters(meaningfulContent);

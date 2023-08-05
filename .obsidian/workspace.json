@@ -4,53 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57f029ec1d2e606a",
+        "id": "d2d79ebe61898c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "f8772681074c4229",
+            "id": "7afd31672a29bffe",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "pdf",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.419259259259259,
-                  "repelStrength": 13.3155555555556,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.5512720364867789,
-                  "close": false
-                }
+                "file": "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf"
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -79,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#biology/plants",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +77,7 @@
       {
         "id": "5ebb004b09754110",
         "type": "tabs",
-        "dimension": 54.95327102803739,
+        "dimension": 31.553973902728348,
         "children": [
           {
             "id": "5180e4c5a7cb8450",
@@ -123,22 +91,12 @@
             }
           },
           {
-            "id": "2e49e39afc094cc0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "NEET Only Things/Plants/Plants.md"
-              }
-            }
-          },
-          {
             "id": "f87e372e25a4bccc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +131,26 @@
         "currentTab": 2
       },
       {
+        "id": "1584a006eb3ce096",
+        "type": "tabs",
+        "dimension": 28.11387900355872,
+        "children": [
+          {
+            "id": "2e49e39afc094cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "373975aa931446b9",
         "type": "tabs",
-        "dimension": 45.04672897196261,
+        "dimension": 40.332147093712926,
         "children": [
           {
             "id": "6ad6932c0fc451b7",
@@ -191,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,96 +220,60 @@
       "random-note:Open random note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "floating": {
-    "id": "dda745753f75d6d1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e9665c8c24407a89",
-        "type": "window",
-        "children": [
-          {
-            "id": "1a5daf05f39f208a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aef11e443d3b8364",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "NEET Only Things/Plants/Plants.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 468,
-        "y": 52,
-        "width": 600,
-        "height": 736,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "f8772681074c4229",
+  "active": "7afd31672a29bffe",
   "lastOpenFiles": [
-    "NEET Only Things/Plants/Sexual Reproduction In Flowering Plants.md",
-    "NEET Only Things/Plants/Seed.md",
-    "NEET Only Things/Plants/Megasporangium.md",
-    "NEET Only Things/Plants/Ovary (Plants).md",
-    "NEET Only Things/Plants/Embryo Sac.md",
-    "NEET Only Things/Plants/Apomixis.md",
-    "NEET Only Things/Plants/Fruits.md",
-    "Images/Seeds.png",
-    "Guide.md",
-    "NEET Only Things/Plants/Pistil.md",
-    "Images/Pasted image 20230721192856.png",
-    "NEET Only Things/Plants/Gynoecium.md",
-    "Stigma.md",
-    "NEET Only Things/Plants/Embryo Development (Plants).md",
-    "Sexual Reproduction.md",
-    "NEET Only Things/Plants/Anther.md",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph207.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph206.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph205.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph204.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph203.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph202.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph201.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph2ps.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph2an.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph1ps.pdf",
+    "CBSE_Textbooks/NCERT Physics Textbook/keph1a1.pdf",
+    "Inbox/Symplast Pathway.md",
+    "ATP.md",
     "NEET Only Things/Rana Tigrina.md",
-    "NEET Only Things/Plants/Pericarp.md",
-    "CAIE Bio/1 Cells/Animal Cells.md",
-    "CAIE Bio/3 Enzymes/Enzyme Affinities.md",
-    "NEET Only Things/Plants/Parthenocarpic Fruits.md",
-    "CAIE Bio/2 Biological Molecules/Carbohydrates/Disaccharides.md",
-    "CAIE Bio/1 Cells/Parts of Cells/Cillia.md",
-    "CAIE Bio/6 DNA/DNA replication.md",
-    "CAIE Bio/1 Cells/Parts of Cells/Chloroplasts.md",
-    "CAIE Bio/4 Cell Surface Membrane/Facilitated Diffusion.md",
-    "CAIE Bio/General Things/Glycosidic Bond.md",
-    "CAIE Bio/2 Biological Molecules/Carbohydrates/Starch.md",
+    "To Do.md",
+    "NEET Only Things/Taxonomy.md",
+    "NEET Only Things/Carolus Linnaeus.md",
+    "Inbox/Aerobic Respiration.md",
+    "NEET Only Things/Taxonomical Aids.md",
+    "Inbox/Circulatory System.md",
+    "NEET Only Things/Plants/Microsporangium.md",
+    "Inbox/Mutations.md",
+    "NEET Only Things/Plants/Pollination/Hydrophily.md",
+    "NEET Only Things/Plants/Seed.md",
+    "CAIE Bio/6 DNA/Translation.md",
+    "CAIE Bio/6 DNA/Transcription.md",
+    "NEET Only Things/Plants/Megasporangium.md",
+    "NEET Only Things/Plants/Anther.md",
+    "CAIE Bio/2 Biological Molecules/Carbohydrates/Polysaccharides.md",
+    "Intersection??/Asexual Reprouction.md",
+    "NEET Only Things/Nomenclature.md",
+    "Images/Pasted image 20230804220412.png",
+    "NEET Only Things/Plants/Embryo Development (Plants).md",
+    "Images/Pasted image 20230804163734.png",
+    "Images/Pasted image 20230804163709.png",
+    "Templates/NEET NOTE.md",
+    "CAIE Bio/8 Transport in mammals/8 Transport in mammals.md",
+    "Inbox/Cholera.md",
+    "Inbox/11th CBSE/6 kingdoms of life.md",
+    "Images/Pasted image 20230802004853.png",
+    "Images/Seeds.png",
+    "Images/Pasted image 20230721192856.png",
     "Images/Pasted image 20230730140616.png",
     "Images/Pasted image 20230730140555.png",
     "Images/Pasted image 20230730140545.png",
     "Images/Pasted image 20230730140503.png",
-    "Images/12CBSE1.12.png",
-    "CBSE_Textbooks/bio/12th/lebo101.pdf",
-    "Templates",
     "CAIE Bio/1 Cells/Untitled.canvas",
-    "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-PHOTOSYNTHESIS-IN-HIGHER-PLANTS-chapter-13.pdf",
-    "NEET Only Things/Infectious Disease",
-    "NEET Only Things/Plants/Pollination",
-    "Images/Formation of the embryo sac.png",
-    "Images/Pasted image 20230721195454.png",
-    "Images/Gynoecium.png",
-    "CBSE_Textbooks/bio/12th/lebo113.pdf",
-    "CBSE_Textbooks/bio/12th/lebo108.pdf",
-    "CBSE_Textbooks/bio/12th/lebo106.pdf",
-    "CBSE_Textbooks/bio/12th/lebo105.pdf",
-    "CBSE_Textbooks/bio/12th/lebo104.pdf",
     "Dead/maps/Protein Synthesis.canvas",
     "Dead/maps/Cells.canvas",
     "Movement Of Water Through A Plant.canvas",

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-05-31
-sr-interval: 162
+sr-due: 2023-09-11
+sr-interval: 40
 sr-ease: 309
 ---
 ### Chromosomes

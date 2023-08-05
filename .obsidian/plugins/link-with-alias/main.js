@@ -319,6 +319,7 @@ function setLinkText(link, editor, linkText) {
 
 // src/VaultUtils.ts
 async function getOrCreateFileOfLink(app, target, sourcePath) {
+  sourcePath = sourcePath || "/";
   const existingFile = app.metadataCache.getFirstLinkpathDest(target, sourcePath);
   if (existingFile) {
     return existingFile;
@@ -352,6 +353,18 @@ var LinksSettingTab = class extends import_obsidian.PluginSettingTab {
 };
 
 // src/main.ts
+function isCanvasNode(obj) {
+  if (typeof obj == "object" && obj != null && "canvas" in obj) {
+    return true;
+  }
+  return false;
+}
+function isCanvasNodeContext(ctx) {
+  if (typeof ctx == "object" && ctx != null && "node" in ctx) {
+    return isCanvasNode(ctx.node);
+  }
+  return false;
+}
 var LinkInfo = class {
   constructor(linkStart, file, editor, makeAlias, linkText) {
     this.linkStart = linkStart;
@@ -384,12 +397,10 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
       name: "Create link with alias",
       icon: "bracket-glyph",
       editorCallback: (editor, ctx) => {
-        if (ctx.file) {
-          this.createLinkFromSelection(ctx.file, editor, editor.getCursor(), {
-            makeAlias: true,
-            pathFromText: this.settings.copyDisplayText
-          });
-        }
+        this.createLinkFromSelection(this.getFileFromContext(ctx), editor, editor.getCursor(), {
+          makeAlias: true,
+          pathFromText: this.settings.copyDisplayText
+        });
       }
     });
     this.addCommand({
@@ -397,12 +408,10 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
       name: "Create link",
       icon: "bracket-glyph",
       editorCallback: (editor, ctx) => {
-        if (ctx.file) {
-          this.createLinkFromSelection(ctx.file, editor, editor.getCursor(), {
-            makeAlias: false,
-            pathFromText: this.settings.copyDisplayText
-          });
-        }
+        this.createLinkFromSelection(this.getFileFromContext(ctx), editor, editor.getCursor(), {
+          makeAlias: false,
+          pathFromText: this.settings.copyDisplayText
+        });
       }
     });
     this.addSettingTab(new LinksSettingTab(this.app, this));
@@ -412,6 +421,14 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
   }
   async saveSettings() {
     await this.saveData(this.settings);
+  }
+  getFileFromContext(ctx) {
+    if (ctx.file) {
+      return ctx.file;
+    }
+    if (isCanvasNodeContext(ctx)) {
+    }
+    return;
   }
   /**
    * starts create link with alias process for current `editor` of `file` on `position`
@@ -424,7 +441,7 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
     const cacheLink = getReferenceCacheFromEditor(editor, position);
     if (cacheLink != null && cacheLink.position.start.col !== position.ch) {
       if (options.makeAlias) {
-        this.addMissingAlias(cacheLink, file.path);
+        this.addMissingAlias(cacheLink, file == null ? void 0 : file.path);
       }
       return;
     }
@@ -465,6 +482,7 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
    * @returns false if we are finished with that link
    */
   handleChangeOnLastLink(editor, lastLink) {
+    var _a;
     const cacheLink = getReferenceCacheFromEditor(editor, lastLink.linkStart);
     if (cacheLink && equalsPosition(lastLink.linkStart, cacheLink.position.start)) {
       if (isEditorPositionInPos(lastLink.editor.getCursor(), cacheLink.position)) {
@@ -475,7 +493,7 @@ var LinkWithAliasPlugin = class extends import_obsidian2.Plugin {
         setLinkText(cacheLink, editor, lastLink.linkText);
       }
       if (lastLink.makeAlias) {
-        this.addMissingAlias(cacheLink, lastLink.file.path);
+        this.addMissingAlias(cacheLink, (_a = lastLink.file) == null ? void 0 : _a.path);
       }
       return true;
     }

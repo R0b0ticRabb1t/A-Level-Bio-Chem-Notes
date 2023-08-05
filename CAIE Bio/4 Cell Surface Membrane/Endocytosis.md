@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-04-27
-sr-interval: 50
-sr-ease: 297
+sr-due: 2023-09-11
+sr-interval: 40
+sr-ease: 317
 ---
 ## Endocytosis
 #biology 

@@ -1,10 +1,15 @@
+---
+sr-due: 2023-08-06
+sr-interval: 1
+sr-ease: 214
+---
 # Seeds
 #biology #NCERT/12 
 
 Seeds are the fertilized [[Megasporangium|Ovule]]. formed inside [[Fruits]] (fertilized [[Ovary (Plants)|Ovary]]).
 
 #### Types of seeds (By [[Endosperm]] persistence):
-1. **Non-albuminous:** Endosperm is completely consumed during developmentr
+1. **Non-albuminous:** Endosperm is completely consumed during development
 	1. [[Pea]]
 	2. groundnut
 2. **Ex-albuminous**: Little endosperm remaining in seed
@@ -33,4 +38,4 @@ Variable Viability Period
 months --> hunreds of years
 > [!info] Ancient Seeds
 > *Lupinus arcticus* - 10,000 years dormant in Arctic Tundra
-> *Pheonix dactylifera - 2,000 years palm tree
+> *Pheonix dactylifera* - 2,000 years palm tree

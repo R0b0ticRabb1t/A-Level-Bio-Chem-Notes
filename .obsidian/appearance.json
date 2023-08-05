@@ -3,9 +3,10 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "interfaceFontFamily": "Liberation Mono,Roboto,DejaVu Sans Mono",
-  "baseFontSize": 13.5,
+  "baseFontSize": 16.5,
   "enabledCssSnippets": [
-    "Image left align"
+    "Image left align",
+    "imageleftalign"
   ],
   "accentColor": "#839496",
   "textFontFamily": "DejaVu Sans Mono,Roboto",

@@ -1,4 +1,9 @@
-# Transport In [[NEET Only Things/Plants/Plants]]
+---
+sr-due: 2023-08-07
+sr-interval: 4
+sr-ease: 308
+---
+# Transport In [[Plants]]
 #MOC #biology/plants 
 
 [[NEET Only Things/Plants/Plants]] make their own food with [[photosynthesis]].

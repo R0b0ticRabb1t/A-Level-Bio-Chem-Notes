@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-04-18
-sr-interval: 50
+sr-due: 2023-09-11
+sr-interval: 40
 sr-ease: 300
 ---
 ### Centrosomes

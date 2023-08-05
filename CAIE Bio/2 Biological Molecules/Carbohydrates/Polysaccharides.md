@@ -1,8 +1,7 @@
-
--
-sr-due: 2023-03-21
-sr-interval: 50
-sr-ease: 311
+---
+sr-due: 2023-08-13
+sr-interval: 8
+sr-ease: 283
 ---
 # Polysaccharides
 
@@ -12,7 +11,7 @@ Polysaccharides are [[Polymers]], formed from the [[Polymerisation]] of many [[M
 > Because they cannot be used quickly to release energy/
 > They need to be [[Hydrolisis|Hydrolized]] before they can be used for energy release
 
-Polysaccharides can be very big and long, forming [[Macromolecules]].
+Polysaccharides can be very big and long, forming [[Macromolecules]]
 The most important polysaccharides are all made of [[Glucose]]:
 - [[Starch]]
 - [[Glycogen]]

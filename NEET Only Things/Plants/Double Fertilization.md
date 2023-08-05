@@ -1,8 +1,8 @@
 ---
 banner: "![[12CBSE1.12.png]]"
-sr-due: 2023-08-03
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-08-18
+sr-interval: 15
+sr-ease: 290
 ---
 # Double Fertilization
 #biology/plants  #NCERT/12 ([[Sexual Reproduction In Flowering Plants]]) 
