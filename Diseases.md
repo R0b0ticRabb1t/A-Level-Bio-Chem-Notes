@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-08-19
+sr-interval: 13
+sr-ease: 290
 ---
 ## Diseases
 #NCERT/12 #biology 

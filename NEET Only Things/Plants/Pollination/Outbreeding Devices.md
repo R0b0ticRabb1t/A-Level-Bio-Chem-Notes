@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
-sr-ease: 280
+sr-due: 2023-08-08
+sr-interval: 2
+sr-ease: 260
 ---
 # Outbreeding devices
 #biology/plants #NCERT/12 

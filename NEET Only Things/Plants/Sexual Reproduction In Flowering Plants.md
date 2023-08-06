@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
+sr-due: 2023-08-19
+sr-interval: 13
 sr-ease: 303
 ---
 # Sexual Reproduction in [[Angiosperms]]

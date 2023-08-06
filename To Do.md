@@ -1,19 +1,6 @@
 # To do
 #MOC 
 
-- [ ] [[CAIE]]
-	- [ ] [[Biology]]
-		- [x] AS Level
-		- [ ] A Level
-	- [ ] [[Maths]]
-		- [x] AS Level
-		- [ ] A Level
-	- [ ] [[Physics]]
-		- [x] AS Level
-		- [ ] A Level
-	- [ ] [[Chemistry]]
-		- [x] AS Level
-		- [ ] A Level
 - [ ] [[NEET]]
 	- [ ] Biology
 		- [x] Diversity In the living world (15/15)
@@ -30,8 +17,13 @@
 	- [ ] Chemistry
 		- [ ] Solutions
 		- [x] [[Haloalkanes]] 
-		- [ ] Alcohols, Phenols and Ethers
+		- [ ] Alcohols, Phenols and Ethers (7/34)
 		- [ ] Carboxylic Acids, Aldehydes and Ketones
 		- [ ] Amides 
 		- [ ] Electrochemistry
 	- [ ] Physics
+		- [ ] 11th
+			- [x] Physical World (12/15)
+		- [ ] 12th
+			- [x] Electric Charges (40/50)
+			- [ ] 

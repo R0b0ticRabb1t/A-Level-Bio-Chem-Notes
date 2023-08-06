@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
-sr-ease: 296
+sr-due: 2023-08-08
+sr-interval: 2
+sr-ease: 276
 ---
 # Embryo Sac (Ovule In Plants)
 #biology/plants #NCERT/12 

@@ -1,7 +1,7 @@
 ---
 banner: "https://plantura.garden/uk/wp-content/uploads/sites/2/2021/06/bee-pollinating-flower.jpg"
-sr-due: 2023-08-06
-sr-interval: 4
+sr-due: 2023-08-18
+sr-interval: 12
 sr-ease: 296
 ---
 # Pollination

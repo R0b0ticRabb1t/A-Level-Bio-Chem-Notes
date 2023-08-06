@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
-sr-ease: 280
+sr-due: 2023-08-21
+sr-interval: 15
+sr-ease: 300
 ---
-
 # Microsporogenisis
 #biology/plants #NCERT/12 
 

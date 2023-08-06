@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-06
+sr-due: 2023-08-07
 sr-interval: 1
-sr-ease: 214
+sr-ease: 194
 ---
 # Seeds
 #biology #NCERT/12 

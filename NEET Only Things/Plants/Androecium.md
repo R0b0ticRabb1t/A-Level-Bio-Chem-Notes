@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 4
-sr-ease: 280
+sr-due: 2023-08-20
+sr-interval: 14
+sr-ease: 300
 ---
-
 ## Androecium
 #biology/plants #NCERT/12 
 

@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-08-06
-sr-interval: 3
+sr-due: 2023-08-14
+sr-interval: 8
 sr-ease: 265
 ---
-
 # Pistils
 #biology/plants #NCERT/12 
 

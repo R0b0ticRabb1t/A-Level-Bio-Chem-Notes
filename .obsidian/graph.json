@@ -53,7 +53,7 @@
       "query": "tag:#daily",
       "color": {
         "a": 1,
-        "rgb": 16643817
+        "rgb": 16643811
       }
     }
   ],
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.24859667359667,
   "lineSizeMultiplier": 1.00410602910603,
   "collapse-forces": false,
-  "centerStrength": 0.435031185031185,
-  "repelStrength": 16.018711018711,
+  "centerStrength": 0.337318087318087,
+  "repelStrength": 12.2349272349272,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4884206453141387,
+  "scale": 0.1399091004637752,
   "close": true
 }
