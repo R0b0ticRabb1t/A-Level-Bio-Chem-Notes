@@ -14,4 +14,5 @@ There are a lot of people i might need to remember
 | [[Carl Anderson]]       |           |
 | [[Carolus Linnaeus]]    |           |
 | [[Darwin]]              |           |
-|                         |           |
+| [[Aristotle]]           |           |
+| [[R.H. Whittaker]]      |           |

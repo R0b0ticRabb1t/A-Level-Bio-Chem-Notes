@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Short History Of Biological Classification.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 563,
+      "nonWhitespaceCharacterCount": 475,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691347699005,
+      "modifiedDate": 1691348199881,
+      "sizeInBytes": 563
+    },
     "Nostoc.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -48,16 +62,16 @@
     "People.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 77,
-      "pageCount": 0.25666666666666665,
-      "characterCount": 550,
-      "nonWhitespaceCharacterCount": 328,
-      "linkCount": 9,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 590,
+      "nonWhitespaceCharacterCount": 361,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691225761146,
-      "modifiedDate": 1691305355421,
-      "sizeInBytes": 550
+      "modifiedDate": 1691348176701,
+      "sizeInBytes": 590
     },
     "To Do.md": {
       "isDirectory": false,
@@ -76,16 +90,16 @@
     "Templates/Time Stamp.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 31,
+      "nonWhitespaceCharacterCount": 28,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691346976118,
-      "modifiedDate": 1691346976118,
-      "sizeInBytes": 0
+      "modifiedDate": 1691347432865,
+      "sizeInBytes": 31
     },
     "Templates/Stub.md": {
       "isDirectory": false,
@@ -1541,16 +1555,16 @@
     "Consciousness/2023-08-07.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 21,
-      "pageCount": 0.07,
-      "characterCount": 139,
-      "nonWhitespaceCharacterCount": 117,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 213,
+      "nonWhitespaceCharacterCount": 175,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691346771417,
-      "modifiedDate": 1691346941208,
-      "sizeInBytes": 139
+      "modifiedDate": 1691347468611,
+      "sizeInBytes": 213
     },
     "Consciousness/2023-08-06.md": {
       "isDirectory": false,

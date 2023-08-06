@@ -1,1 +1,1 @@
-#### {{Time}}
+#### <% tp.date.now("HH:mm") %>

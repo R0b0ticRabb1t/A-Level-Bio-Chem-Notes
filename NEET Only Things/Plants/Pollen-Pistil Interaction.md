@@ -22,6 +22,3 @@ A pollen tube is produced at one of the germ pores of the [[Pollen]], which exte
 Generative cell divides here if it hasn't already, vegetative cell degenerates after reaching
 
 After this the 2 gametes enter the emrbyo sac and [[Double Fertilization]] occurs 
-
-
-#Incomplete #maybedead

@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "68a2c94219fec9a0",
+        "id": "b6a43df00a022986",
         "type": "tabs",
         "children": [
           {
-            "id": "3f56177b1a53f9c5",
+            "id": "0c05b18f72277482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consciousness/2023-08-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e354475ceff6d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Time Stamp.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -112,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consciousness/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consciousness/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Consciousness/2023-08-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,23 +203,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f56177b1a53f9c5",
+  "active": "0c05b18f72277482",
   "lastOpenFiles": [
-    "Templates/Time Stamp.md",
+    "NEET Only Things/Plants/Pollen-Pistil Interaction.md",
     "Consciousness/2023-08-07.md",
-    "Consciousness/2023-08-06.md",
+    "To Do.md",
+    "Short History Of Biological Classification.md",
+    "Images/Pasted image 20230807002714.png",
+    "People.md",
+    "Templates/Time Stamp.md",
     "Templates/Daily Note Template.md",
+    "Consciousness/2023-08-06.md",
     "2023-08-06-Sunday.md",
     "Nostoc.md",
     "NEET Only Things/Plants/Pollination/Xenogamy.md",
     "NEET Only Things/Plants/Seed.md",
     "NEET Only Things/Plants/Microsporocytes.md",
     "NEET Only Things/Taxonomy.md",
-    "To Do.md",
     "Filamentous Algae.md",
     "Images/Pasted image 20230806203724.png",
     "Templates/Stub.md",
-    "People.md",
     "Intersection??/Asexual Reprouction.md",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
@@ -254,8 +236,6 @@
     "Inbox/11th CBSE/Blood.md",
     "NEET Only Things/Plants/Pollination/Pollination.md",
     "Diseases.md",
-    "CAIE Bio/1 Cells/Parts of Cells/Stomata.md",
-    "NEET Only Things/Plants/Sporopollenin.md",
     "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph207.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph206.pdf",
@@ -271,7 +251,6 @@
     "Images/Pasted image 20230721192856.png",
     "Images/Pasted image 20230730140616.png",
     "Images/Pasted image 20230730140555.png",
-    "Images/Pasted image 20230730140545.png",
     "CAIE Bio/1 Cells/Untitled.canvas",
     "Dead/maps/Protein Synthesis.canvas",
     "Dead/maps/Cells.canvas",
