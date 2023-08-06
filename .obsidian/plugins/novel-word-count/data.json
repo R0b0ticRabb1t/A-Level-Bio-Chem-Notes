@@ -17,33 +17,89 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Nostoc.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 161,
+      "nonWhitespaceCharacterCount": 143,
+      "linkCount": 3,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1691334368042,
+      "modifiedDate": 1691334446479,
+      "sizeInBytes": 161
+    },
+    "Filamentous Algae.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 50,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691333908072,
+      "modifiedDate": 1691334367278,
+      "sizeInBytes": 60
+    },
     "People.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 76,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 544,
-      "nonWhitespaceCharacterCount": 323,
+      "wordCount": 77,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 550,
+      "nonWhitespaceCharacterCount": 328,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691225761146,
-      "modifiedDate": 1691229350937,
-      "sizeInBytes": 544
+      "modifiedDate": 1691305355421,
+      "sizeInBytes": 550
     },
     "To Do.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 130,
-      "pageCount": 0.43333333333333335,
-      "characterCount": 692,
-      "nonWhitespaceCharacterCount": 505,
-      "linkCount": 4,
+      "wordCount": 158,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 892,
+      "nonWhitespaceCharacterCount": 656,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1673357459581,
-      "modifiedDate": 1691232249223,
-      "sizeInBytes": 692
+      "modifiedDate": 1691334682280,
+      "sizeInBytes": 892
+    },
+    "Templates/Time Stamp.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691346976118,
+      "modifiedDate": 1691346976118,
+      "sizeInBytes": 0
+    },
+    "Templates/Stub.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 21,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691333846319,
+      "modifiedDate": 1691334387395,
+      "sizeInBytes": 24
     },
     "Templates/NEET NOTE.md": {
       "isDirectory": false,
@@ -64,14 +120,14 @@
       "noteCount": 1,
       "wordCount": 30,
       "pageCount": 0.1,
-      "characterCount": 328,
-      "nonWhitespaceCharacterCount": 296,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 276,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690963460951,
-      "modifiedDate": 1691230904411,
-      "sizeInBytes": 328
+      "modifiedDate": 1691346759630,
+      "sizeInBytes": 308
     },
     "README.md": {
       "isDirectory": false,
@@ -120,14 +176,14 @@
       "noteCount": 1,
       "wordCount": 124,
       "pageCount": 0.41333333333333333,
-      "characterCount": 904,
-      "nonWhitespaceCharacterCount": 759,
-      "linkCount": 17,
+      "characterCount": 924,
+      "nonWhitespaceCharacterCount": 779,
+      "linkCount": 22,
       "embedCount": 2,
       "aliases": null,
       "createdDate": 1691164757534,
-      "modifiedDate": 1691220669571,
-      "sizeInBytes": 958
+      "modifiedDate": 1691346499370,
+      "sizeInBytes": 978
     },
     "NEET Only Things/Taxonomical Aids.md": {
       "isDirectory": false,
@@ -238,8 +294,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689688433509,
-      "modifiedDate": 1690979634930,
-      "sizeInBytes": 271
+      "modifiedDate": 1691306172856,
+      "sizeInBytes": 272
     },
     "NEET Only Things/Plants/Simple Tissue.md": {
       "isDirectory": false,
@@ -266,8 +322,8 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1689442118291,
-      "modifiedDate": 1690963304112,
-      "sizeInBytes": 866
+      "modifiedDate": 1691305831715,
+      "sizeInBytes": 867
     },
     "NEET Only Things/Plants/Seed.md": {
       "isDirectory": false,
@@ -280,7 +336,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1690903307236,
-      "modifiedDate": 1691220438430,
+      "modifiedDate": 1691306014199,
       "sizeInBytes": 1253
     },
     "NEET Only Things/Plants/Pollination/Xenogamy.md": {
@@ -308,8 +364,8 @@
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1690194273127,
-      "modifiedDate": 1690963112553,
-      "sizeInBytes": 1131
+      "modifiedDate": 1691306272034,
+      "sizeInBytes": 1132
     },
     "NEET Only Things/Plants/Pollination/Outbreeding Devices.md": {
       "isDirectory": false,
@@ -322,7 +378,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690214254369,
-      "modifiedDate": 1690961830386,
+      "modifiedDate": 1691305781868,
       "sizeInBytes": 608
     },
     "NEET Only Things/Plants/Pollination/Monoecious flowers.md": {
@@ -414,14 +470,14 @@
       "noteCount": 1,
       "wordCount": 31,
       "pageCount": 0.10333333333333333,
-      "characterCount": 221,
+      "characterCount": 219,
       "nonWhitespaceCharacterCount": 185,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690194595404,
-      "modifiedDate": 1690961511303,
-      "sizeInBytes": 275
+      "modifiedDate": 1691306163233,
+      "sizeInBytes": 274
     },
     "NEET Only Things/Plants/Pollination/Chasmogamous flowers.md": {
       "isDirectory": false,
@@ -490,7 +546,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690639942143,
-      "modifiedDate": 1691084459266,
+      "modifiedDate": 1691306141660,
       "sizeInBytes": 974
     },
     "NEET Only Things/Plants/Plants.md": {
@@ -540,14 +596,14 @@
       "noteCount": 1,
       "wordCount": 42,
       "pageCount": 0.14,
-      "characterCount": 287,
+      "characterCount": 286,
       "nonWhitespaceCharacterCount": 237,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689781151153,
-      "modifiedDate": 1691083419108,
-      "sizeInBytes": 341
+      "modifiedDate": 1691306035289,
+      "sizeInBytes": 340
     },
     "NEET Only Things/Plants/Permanent Tissues.md": {
       "isDirectory": false,
@@ -626,28 +682,31 @@
       "noteCount": 1,
       "wordCount": 16,
       "pageCount": 0.05333333333333334,
-      "characterCount": 146,
+      "characterCount": 145,
       "nonWhitespaceCharacterCount": 125,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689678020401,
-      "modifiedDate": 1690963203509,
+      "modifiedDate": 1691305934479,
       "sizeInBytes": 200
     },
     "NEET Only Things/Plants/Microsporocytes.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 26,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 172,
-      "nonWhitespaceCharacterCount": 144,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 107,
       "linkCount": 2,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [
+        "Microspore Mother Cells (MMC)",
+        "Pollen Mother Cells (PMC)"
+      ],
       "createdDate": 1689682081545,
-      "modifiedDate": 1690963190613,
-      "sizeInBytes": 172
+      "modifiedDate": 1691346645720,
+      "sizeInBytes": 200
     },
     "NEET Only Things/Plants/Microsporangium.md": {
       "isDirectory": false,
@@ -816,7 +875,7 @@
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1689949584543,
-      "modifiedDate": 1690961730939,
+      "modifiedDate": 1691306365777,
       "sizeInBytes": 709
     },
     "NEET Only Things/Plants/Embryo Development (Plants).md": {
@@ -908,13 +967,13 @@
       "noteCount": 1,
       "wordCount": 15,
       "pageCount": 0.05,
-      "characterCount": 123,
+      "characterCount": 122,
       "nonWhitespaceCharacterCount": 105,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689605829287,
-      "modifiedDate": 1690961586953,
+      "modifiedDate": 1691305840665,
       "sizeInBytes": 177
     },
     "NEET Only Things/Plants/Anatomy of Plants.md": {
@@ -1048,13 +1107,13 @@
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
-      "characterCount": 57,
+      "characterCount": 56,
       "nonWhitespaceCharacterCount": 47,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689495953414,
-      "modifiedDate": 1690963040737,
+      "modifiedDate": 1691306147316,
       "sizeInBytes": 111
     },
     "NEET Only Things/Connective Tissues.md": {
@@ -1238,7 +1297,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1676389998421,
-      "modifiedDate": 1691135527994,
+      "modifiedDate": 1691306280670,
       "sizeInBytes": 279
     },
     "Inbox/11th CBSE/6 kingdoms of life.md": {
@@ -1378,8 +1437,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1690276681604,
-      "modifiedDate": 1691142026672,
-      "sizeInBytes": 265
+      "modifiedDate": 1691306211170,
+      "sizeInBytes": 266
     },
     "Dead/English AS levels/Schools in dreams.md": {
       "isDirectory": false,
@@ -1479,19 +1538,33 @@
       "modifiedDate": 1690713800318,
       "sizeInBytes": 295
     },
+    "Consciousness/2023-08-07.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 117,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691346771417,
+      "modifiedDate": 1691346941208,
+      "sizeInBytes": 139
+    },
     "Consciousness/2023-08-06.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 119,
-      "nonWhitespaceCharacterCount": 104,
+      "wordCount": 156,
+      "pageCount": 0.52,
+      "characterCount": 903,
+      "nonWhitespaceCharacterCount": 741,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691305227591,
-      "modifiedDate": 1691305228234,
-      "sizeInBytes": 119
+      "modifiedDate": 1691346821264,
+      "sizeInBytes": 903
     },
     "Consciousness/2023-08-05.md": {
       "isDirectory": false,
@@ -2132,13 +2205,13 @@
       "noteCount": 1,
       "wordCount": 14,
       "pageCount": 0.04666666666666667,
-      "characterCount": 110,
+      "characterCount": 109,
       "nonWhitespaceCharacterCount": 92,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1675093110586,
-      "modifiedDate": 1690961593987,
+      "modifiedDate": 1691306285610,
       "sizeInBytes": 164
     },
     "CAIE Bio/5 Mitotic Cell Cycle/Anaphase.md": {
@@ -2894,8 +2967,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1673498612778,
-      "modifiedDate": 1690979747209,
-      "sizeInBytes": 293
+      "modifiedDate": 1691306370164,
+      "sizeInBytes": 294
     },
     "CAIE Bio/1 Cells/Prokaryotic.md": {
       "isDirectory": false,
@@ -2944,13 +3017,13 @@
       "noteCount": 1,
       "wordCount": 28,
       "pageCount": 0.09333333333333334,
-      "characterCount": 170,
+      "characterCount": 169,
       "nonWhitespaceCharacterCount": 137,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1673357459385,
-      "modifiedDate": 1690961584037,
+      "modifiedDate": 1691306177936,
       "sizeInBytes": 224
     },
     "CAIE Bio/1 Cells/Parts of Cells/Ribosomes.md": {

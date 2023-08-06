@@ -65,5 +65,13 @@
       ],
       "key": "M"
     }
+  ],
+  "templater-obsidian:Templates/Time Stamp.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }

@@ -14,21 +14,21 @@ Taxonomical Studies have led to development of common ranks of categories (decen
 1. [[6 kingdoms of life]]
 2. [[Phylum]] or Division (for plants)
 	3. [[Chordata]] - Invertebrates
-3. Class
+3. [[Class]]
 	1. [[Mammalia]]
-4. Order
+4. [[Order]]
 	1. [[Polymoniales]]
 	2. [[Carnivora]]
 	3. [[Primata]]
-5. Family
+5. [[Family]]
 	1. [[Solanaceae]]
 	2. [[Felidae]]
 	3. [[Canidae]]
-6. Genus
+6. [[Genus]]
 	1. [[Solanum]]
 	2. [[Panthera]]
 	3. [[Felis]]
-7. Species
+7. [[Species]]
 	1. ![[Nomenclature#^61fa2b]]
 
 there are more sub categories but oh well 

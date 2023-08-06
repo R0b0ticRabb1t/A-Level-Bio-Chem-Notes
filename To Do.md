@@ -17,7 +17,7 @@
 	- [ ] Chemistry
 		- [ ] Solutions
 		- [x] [[Haloalkanes]] 
-		- [ ] Alcohols, Phenols and Ethers (7/34)
+		- [ ] Alcohols, Phenols and Ethers (9/34)
 		- [ ] Carboxylic Acids, Aldehydes and Ketones
 		- [ ] Amides 
 		- [ ] Electrochemistry
@@ -27,3 +27,13 @@
 		- [ ] 12th
 			- [x] Electric Charges (40/50)
 			- [ ] 
+
+- Stubs
+	- [[Bryophylum]]
+	- [[Asexual Reprouction]]
+	- dumb bio shit
+		- [[Spirilla]]
+		- [[Dinoflagellate]]
+		- [[bacilli]]
+		- [[Agaricus]]
+		- 

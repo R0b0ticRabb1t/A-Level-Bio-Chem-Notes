@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ca19274e755cbff5",
+        "id": "68a2c94219fec9a0",
         "type": "tabs",
         "children": [
           {
-            "id": "200a2a9b464d515c",
+            "id": "3f56177b1a53f9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Consciousness/2023-08-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e354475ceff6d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Time Stamp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 265.5
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -80,7 +93,7 @@
       {
         "id": "5ebb004b09754110",
         "type": "tabs",
-        "dimension": 28.35112692763938,
+        "dimension": 45.17958412098298,
         "children": [
           {
             "id": "5180e4c5a7cb8450",
@@ -99,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "Consciousness/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Consciousness/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,29 +147,9 @@
         "currentTab": 2
       },
       {
-        "id": "1584a006eb3ce096",
-        "type": "tabs",
-        "dimension": 37.2479240806643,
-        "children": [
-          {
-            "id": "553de7ed1c09cf14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consciousness/2023-08-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "373975aa931446b9",
         "type": "tabs",
-        "dimension": 34.400948991696325,
+        "dimension": 54.82041587901701,
         "children": [
           {
             "id": "6ad6932c0fc451b7",
@@ -172,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To Do.md",
+                "file": "Consciousness/2023-08-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,8 +224,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "200a2a9b464d515c",
+  "active": "3f56177b1a53f9c5",
   "lastOpenFiles": [
+    "Templates/Time Stamp.md",
+    "Consciousness/2023-08-07.md",
+    "Consciousness/2023-08-06.md",
+    "Templates/Daily Note Template.md",
+    "2023-08-06-Sunday.md",
+    "Nostoc.md",
+    "NEET Only Things/Plants/Pollination/Xenogamy.md",
+    "NEET Only Things/Plants/Seed.md",
+    "NEET Only Things/Plants/Microsporocytes.md",
+    "NEET Only Things/Taxonomy.md",
+    "To Do.md",
+    "Filamentous Algae.md",
+    "Images/Pasted image 20230806203724.png",
+    "Templates/Stub.md",
+    "People.md",
+    "Intersection??/Asexual Reprouction.md",
+    "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
+    "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
+    "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-ANATOMY-OF-FLOWERING-PLANTS-chapter-6.pdf",
+    "NEET Only Things/True Regeneration.md",
+    "2023-08-05-Saturday.md",
     "Inbox/11th CBSE/Fluid Connective Tissues.md",
     "CAIE Bio/1 Cells/Protoplast.md",
     "NEET Only Things/Plants/Embryo Sac.md",
@@ -242,23 +256,6 @@
     "Diseases.md",
     "CAIE Bio/1 Cells/Parts of Cells/Stomata.md",
     "NEET Only Things/Plants/Sporopollenin.md",
-    "NEET Only Things/Plants/Pollination/Cleistogamous flowers.md",
-    "NEET Only Things/Definitions/Infloroscence.md",
-    "NEET Only Things/Plants/Pollen-Pistil Interaction.md",
-    "NEET Only Things/Plants/Pistil.md",
-    "NEET Only Things/Plants/Seed.md",
-    "NEET Only Things/Plants/Microsporogenesis.md",
-    "NEET Only Things/Plants/Androecium.md",
-    "NEET Only Things/Plants/Sexual Reproduction In Flowering Plants.md",
-    "NEET Only Things/Plants/Pollination/Outbreeding Devices.md",
-    "NEET Only Things/Taxonomy.md",
-    "CAIE Bio/6 DNA/RNA.md",
-    "People.md",
-    "To Do.md",
-    "Consciousness/2023-08-06.md",
-    "Consciousness/2023-08-05.md",
-    "Templates/Daily Note Template.md",
-    "Templates/NEET NOTE.md",
     "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph207.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph206.pdf",
@@ -266,9 +263,6 @@
     "CBSE_Textbooks/NCERT Physics Textbook/keph204.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph203.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph202.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph201.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph2ps.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph2an.pdf",
     "Images/Pasted image 20230804220412.png",
     "Images/Pasted image 20230804163734.png",
     "Images/Pasted image 20230804163709.png",
@@ -278,7 +272,6 @@
     "Images/Pasted image 20230730140616.png",
     "Images/Pasted image 20230730140555.png",
     "Images/Pasted image 20230730140545.png",
-    "Images/Pasted image 20230730140503.png",
     "CAIE Bio/1 Cells/Untitled.canvas",
     "Dead/maps/Protein Synthesis.canvas",
     "Dead/maps/Cells.canvas",
