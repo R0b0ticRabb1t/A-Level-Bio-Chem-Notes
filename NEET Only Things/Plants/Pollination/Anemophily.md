@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 3
-sr-ease: 273
+sr-due: 2023-08-18
+sr-interval: 11
+sr-ease: 293
 ---
 ## Features of Anemophilic plants
 #biology/plants #NCERT/12 

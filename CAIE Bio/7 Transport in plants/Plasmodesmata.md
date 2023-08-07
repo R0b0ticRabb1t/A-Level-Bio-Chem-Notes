@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 4
-sr-ease: 292
+sr-due: 2023-08-23
+sr-interval: 16
+sr-ease: 312
 ---
 ## Plasmodesmata
 #biology/plants 

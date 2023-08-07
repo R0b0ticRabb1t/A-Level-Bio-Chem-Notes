@@ -7,7 +7,7 @@ sr-ease: 130
 #biology #NCERT/11 
 
 This is a species of frog that i need to learn for cbse,
-[[Class]]:[[Amphibia]], [[Phylum]]:[[Chordata]], Rana Tigrina.
+Class:[[Amphibia]], Phylum:[[Chordata]], Rana Tigrina.
 
 > [!note] Randomish Facts
 > - They are cold blooded animals, [[Poikilotherms]]

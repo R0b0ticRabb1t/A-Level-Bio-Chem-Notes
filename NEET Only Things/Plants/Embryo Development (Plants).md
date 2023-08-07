@@ -1,3 +1,8 @@
+---
+sr-due: 2023-08-10
+sr-interval: 3
+sr-ease: 272
+---
 # Embryo Development
 #biology/plants #NCERT/12 
 

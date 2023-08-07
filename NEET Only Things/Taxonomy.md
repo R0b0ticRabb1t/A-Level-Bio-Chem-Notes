@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 1
-sr-ease: 210
+sr-due: 2023-08-10
+sr-interval: 3
+sr-ease: 230
 ---
 # Taxonomy
 #biology #NCERT #MOC 
@@ -11,8 +11,8 @@ naming each thing is [[Nomenclature]]
 
 ### Common Categories
 Taxonomical Studies have led to development of common ranks of categories (decending order):
-1. [[6 kingdoms of life]]
-2. [[Phylum]] or Division (for plants)
+1. [[Kingdom]] ([[Five Kingdom Classification]])
+2. [[Phylum]] or [[Division]] (for plants)
 	3. [[Chordata]] - Invertebrates
 3. [[Class]]
 	1. [[Mammalia]]
@@ -33,7 +33,7 @@ Taxonomical Studies have led to development of common ranks of categories (decen
 
 there are more sub categories but oh well 
 
-All organisms have [[species]] as lowest category
+All organisms have [[Species]] as lowest category
 should be able to distinguish different species by morphological charecteristics
 
 ### AAA I hope i don't forget this table

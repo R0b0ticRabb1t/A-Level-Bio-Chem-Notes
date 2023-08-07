@@ -2,6 +2,8 @@
 sr-due: 2023-08-26
 sr-interval: 40
 sr-ease: 358
+aliases:
+  - photosynthetic
 ---
 # Photosynthesis 
 

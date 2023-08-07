@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 3
+sr-due: 2023-08-16
+sr-interval: 9
 sr-ease: 288
 ---
 # Gene Mutations

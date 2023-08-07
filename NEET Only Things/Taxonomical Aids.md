@@ -36,3 +36,31 @@ identification by simmilarities and differences,
 contrasting pair choices - **Couplet**
 each statement is caleld a **lead**
 analytical in nature
+
+# Suffixes
+used chat GPT to tell me what suffixes are common
+1. **Kingdom**: -a, -ae, -ia, -ota, -phyta, -mycota, -bacteria
+   Example: Animalia, Plantae, Fungi, Bacteria
+
+2. **Phylum (Animals)**: -a, -ata, -ida, -oda
+   Example: Chordata, Arthropoda, Mollusca
+
+3. **Division (Plants)**: -phyta
+   Example: Magnoliophyta (flowering plants)
+
+4. **Class**: -opsida, -ata, -ia, -ae
+   Example: Magnoliopsida, Insecta, Mammalia
+
+5. **Order**: -ales, -ida, -ales
+   Example: Rosales, Coleoptera, Primates
+
+6. **Family**: -aceae, -idae, -aceae
+   Example: Rosaceae, Felidae, Poaceae
+
+7. **Genus**: No consistent word endings. It varies for different genera.
+   Example: Panthera, Canis, Homo
+
+8. **Species**: No consistent word endings. Species names are unique for each organism.
+   Example: Panthera leo, Canis lupus, Homo sapiens
+
+Please note that these are general patterns, and there may be exceptions in some cases. Taxonomic nomenclature can be complex and varied, but these common endings can often provide useful clues about the taxonomic rank of an organism.

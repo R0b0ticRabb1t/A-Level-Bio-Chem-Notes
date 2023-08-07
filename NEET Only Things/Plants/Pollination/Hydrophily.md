@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 2
+sr-due: 2023-08-11
+sr-interval: 4
 sr-ease: 240
 ---
 ## Water Pollination - Hydrophily

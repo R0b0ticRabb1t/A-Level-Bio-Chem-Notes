@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a43df00a022986",
+        "id": "65f97a92b014c8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "0c05b18f72277482",
+            "id": "cfb5e53fcba3e3cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NEET Only Things/People.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NEET Only Things/People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NEET Only Things/People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +127,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c70f49c899b7c76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NEET Only Things/People.md"
               }
             }
           }
@@ -145,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NEET Only Things/People.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +193,7 @@
                   "repelStrength": 15.02079002079,
                   "linkStrength": 1,
                   "linkDistance": 49,
-                  "scale": 0.5174301179826247,
+                  "scale": 0.6100827956162944,
                   "close": true
                 }
               }
@@ -203,54 +221,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c05b18f72277482",
+  "active": "cfb5e53fcba3e3cf",
   "lastOpenFiles": [
-    "NEET Only Things/Plants/Pollen-Pistil Interaction.md",
+    "Inbox/Sexual Reproduction.md",
+    "NEET Only Things/Five Kingdom Classification/Protozoans.md",
+    "NEET Only Things/Five Kingdom Classification/Slime Molds.md",
+    "NEET Only Things/Five Kingdom Classification/Diatoms.md",
+    "NEET Only Things/Five Kingdom Classification/Chrysophyte.md",
+    "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
+    "NEET Only Things/Five Kingdom Classification/Dinoflagellate.md",
+    "Inbox/Flagellum.md",
+    "NEET Only Things/Five Kingdom Classification/Protista.md",
+    "Images/Pasted image 20230807211541.png",
+    "Images/Pasted image 20230807210116.png",
+    "NEET Only Things/Saprophytes.md",
+    "Images/Pasted image 20230807205426.png",
+    "NEET Only Things/Five Kingdom Classification/Monera.md",
+    "CAIE Bio/1 Cells/Bacteria.md",
+    "NEET Only Things/Five Kingdom Classification/ArchaeaBacteria.md",
+    "NEET Only Things/Five Kingdom Classification/EuBacteria.md",
     "Consciousness/2023-08-07.md",
-    "To Do.md",
-    "Short History Of Biological Classification.md",
-    "Images/Pasted image 20230807002714.png",
-    "People.md",
-    "Templates/Time Stamp.md",
-    "Templates/Daily Note Template.md",
-    "Consciousness/2023-08-06.md",
-    "2023-08-06-Sunday.md",
-    "Nostoc.md",
-    "NEET Only Things/Plants/Pollination/Xenogamy.md",
-    "NEET Only Things/Plants/Seed.md",
-    "NEET Only Things/Plants/Microsporocytes.md",
+    "Images/Pasted image 20230807191544.png",
+    "EuglenoPhyceae.md",
+    "NEET Only Things/Taxonomical Aids.md",
     "NEET Only Things/Taxonomy.md",
-    "Filamentous Algae.md",
-    "Images/Pasted image 20230806203724.png",
-    "Templates/Stub.md",
-    "Intersection??/Asexual Reprouction.md",
+    "NEET Only Things/Five Kingdom Classification/Order.md",
+    "NEET Only Things/Five Kingdom Classification/Class.md",
+    "NEET Only Things/Five Kingdom Classification/Phylum.md",
+    "Images/Pasted image 20230807185216.png",
+    "Images/Pasted image 20230807183756.png",
+    "Images/Pasted image 20230807183603.png",
+    "CAIE Bio/1 Cells/Eukaryotic.md",
+    "NEET Only Things/Five Kingdom Classification",
+    "CAIE Bio/photosynthesis.md",
+    "NEET Only Things/Five Kingdom Classification/Nostoc.md",
+    "NEET Only Things/Five Kingdom Classification/Heterocysts.md",
+    "Images/Pasted image 20230807154023.png",
+    "Images/Pasted image 20230807140648.png",
+    "Images/Pasted image 20230807002714.png",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-ANATOMY-OF-FLOWERING-PLANTS-chapter-6.pdf",
-    "NEET Only Things/True Regeneration.md",
-    "2023-08-05-Saturday.md",
-    "Inbox/11th CBSE/Fluid Connective Tissues.md",
-    "CAIE Bio/1 Cells/Protoplast.md",
-    "NEET Only Things/Plants/Embryo Sac.md",
-    "CAIE Bio/5 Mitotic Cell Cycle/Centromeres.md",
-    "Inbox/11th CBSE/Blood.md",
-    "NEET Only Things/Plants/Pollination/Pollination.md",
-    "Diseases.md",
     "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph207.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph206.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph205.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph204.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph203.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph202.pdf",
-    "Images/Pasted image 20230804220412.png",
-    "Images/Pasted image 20230804163734.png",
-    "Images/Pasted image 20230804163709.png",
-    "Images/Pasted image 20230802004853.png",
-    "Images/Seeds.png",
-    "Images/Pasted image 20230721192856.png",
-    "Images/Pasted image 20230730140616.png",
-    "Images/Pasted image 20230730140555.png",
     "CAIE Bio/1 Cells/Untitled.canvas",
     "Dead/maps/Protein Synthesis.canvas",
     "Dead/maps/Cells.canvas",

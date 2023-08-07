@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 3
+sr-due: 2023-08-15
+sr-interval: 8
 sr-ease: 250
 ---
 # Nomenclature
@@ -21,11 +21,11 @@ Table of ones that i need to know i think:
 
 | Name                 | Sciency Name        |
 | -------------------- | ------------------- |
-| [[Mango]]            | *Mangifera Indica*  |
-| [[Potato]]           | *Solanum Tuberosum* |
+| [[Mango]]            | *[[Mangifera]] Indica*  |
+| [[Potato]]           | *[[Solanum]] Tuberosum* |
 | [[Black Nightshade]] | *Solanum Nigrum*    |
 | [[Eggplant]]         | *Solanum Melongena* |
-| [[Lion]]             | *Panthera Leo*      |
+| [[Lion]]             | *[[Panthera]] Leo*      |
 | [[Tiger]]            | *Panthera Tigris*   |
 | [[Human]]            | *Homo Sapiens*                    |
 

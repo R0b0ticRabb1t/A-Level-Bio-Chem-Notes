@@ -15,3 +15,9 @@ Over time which organisms fit into these two has changed
 
 ### [[R.H. Whittaker]] (1969) - [[Five Kingdom Classification]]
 
+Fungi, monera and protista are now seperate from plants (before all was plants because all had cell wall)
+
+Overtime we try to make classification evolve to reflect [[Phylogenetic]]/evolutionary relationships
+
+
+### 3 domain system (1990) ([[6 kingdoms of life]])

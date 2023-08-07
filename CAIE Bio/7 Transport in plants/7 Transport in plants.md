@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-07
-sr-interval: 4
+sr-due: 2023-08-19
+sr-interval: 12
 sr-ease: 308
 ---
 # Transport In [[Plants]]
@@ -19,3 +19,5 @@ Water and minerals have to be transported from the soil and roots up to leaves, 
 - [[Plasmodesmata]]
 
 %% End Waypoint %%
+
+#Incomplete 

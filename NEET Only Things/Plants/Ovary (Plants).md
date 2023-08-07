@@ -1,8 +1,8 @@
 ---
 aliases:
   - Ovary
-sr-due: 2023-08-07
-sr-interval: 4
+sr-due: 2023-08-20
+sr-interval: 13
 sr-ease: 290
 ---
 # Ovary (Plants)
