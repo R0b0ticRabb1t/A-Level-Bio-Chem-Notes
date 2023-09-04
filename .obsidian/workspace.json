@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bee3a90b8b74cdb2",
+            "id": "30d122bc379d1106",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fungi.md",
+                "file": "NEET Only Things/Plants/Plants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c9c8973b7b3b04fa",
+            "id": "0259c185cc03b00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basidiomycetes.md",
+                "file": "Animalia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "e1bbf24b2e8de4c5",
+            "id": "0dd79d0118876b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ascomycetes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "349ab1dc20ca43f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deuteromycetes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c30bfafa6febc84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phycomycetes.md",
+                "file": "CAIE Bio/1 Cells/Viruses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -153,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fungi.md",
+                "file": "CAIE Bio/1 Cells/Viruses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fungi.md",
+                "file": "CAIE Bio/1 Cells/Viruses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fungi.md"
+                "file": "CAIE Bio/1 Cells/Viruses.md"
               }
             }
           },
@@ -200,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fungi.md"
+                "file": "CAIE Bio/1 Cells/Viruses.md"
               }
             }
           }
@@ -226,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fungi.md",
+                "file": "CAIE Bio/1 Cells/Viruses.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,13 +263,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bee3a90b8b74cdb2",
+  "active": "0dd79d0118876b95",
   "lastOpenFiles": [
-    "Deuteromycetes.md",
+    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
+    "Animalia.md",
+    "Holozoic.md",
+    "NEET Only Things/Plants/Plants.md",
     "Basidiomycetes.md",
     "Ascomycetes.md",
-    "Fungi.md",
+    "Deuteromycetes.md",
     "Phycomycetes.md",
+    "Fungi.md",
     "Images/Agaricus.png",
     "NEET Only Things/Plants/Meristematic Tissues.md",
     "Guide.md",
@@ -315,11 +294,7 @@
     "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
     "NEET Only Things/Five Kingdom Classification/Protozoans.md",
     "NEET Only Things/Five Kingdom Classification/Protista.md",
-    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
-    "CAIE Bio/4 Cell Surface Membrane/Active Transport.md",
-    "CAIE Bio/1 Cells/Parts of Cells/Cell Walls.md",
     "Images/Fungi.png",
-    "Inbox/Sexual Reproduction.md",
     "Images/Pasted image 20230807211541.png",
     "Images/Pasted image 20230807210116.png",
     "Images/Pasted image 20230807205426.png",

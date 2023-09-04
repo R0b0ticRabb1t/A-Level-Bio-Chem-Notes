@@ -18,6 +18,38 @@
     "excludeComments": false
   },
   "cachedCounts": {
+    "Holozoic.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 65,
+      "nonWhitespaceCharacterCount": 54,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693851842406,
+      "modifiedDate": 1693851872544,
+      "sizeInBytes": 65
+    },
+    "Animalia.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 232,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693851719831,
+      "modifiedDate": 1693852022946,
+      "sizeInBytes": 272
+    },
     "netlify.toml": {
       "isDirectory": false,
       "noteCount": 1,
@@ -615,18 +647,18 @@
     "NEET Only Things/Plants/Plants.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 195,
+      "wordCount": 249,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.65,
-      "characterCount": 1492,
-      "nonWhitespaceCharacterCount": 1277,
-      "linkCount": 60,
+      "pageCount": 0.83,
+      "characterCount": 1957,
+      "nonWhitespaceCharacterCount": 1684,
+      "linkCount": 73,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1673176735692,
-      "modifiedDate": 1693570277878,
-      "sizeInBytes": 1548
+      "modifiedDate": 1693851706404,
+      "sizeInBytes": 2013
     },
     "NEET Only Things/Plants/Plant Tissues.md": {
       "isDirectory": false,
@@ -1424,18 +1456,18 @@
     "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 105,
+      "wordCount": 115,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.35,
-      "characterCount": 921,
-      "nonWhitespaceCharacterCount": 651,
-      "linkCount": 17,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 1000,
+      "nonWhitespaceCharacterCount": 720,
+      "linkCount": 21,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1691394420380,
-      "modifiedDate": 1692622381575,
-      "sizeInBytes": 976
+      "modifiedDate": 1693852095688,
+      "sizeInBytes": 1055
     },
     "NEET Only Things/Five Kingdom Classification/Filamentous Algae.md": {
       "isDirectory": false,

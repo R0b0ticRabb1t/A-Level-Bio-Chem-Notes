@@ -15,3 +15,5 @@ Proposed by [[R.H. Whittaker]] in 1969, classifies all organisms into 5 [[Kingdo
 Monera & Protista are cellular, monera is the only [[Prokaryotic]] one 
 
 Kinda old system, replaced by [[3 domain system]] now -; but i have to study this for neet
+
+[[Viruses]], [[Viriods]], [[Prions]] & [[Lichens]] were not included back then

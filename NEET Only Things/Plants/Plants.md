@@ -3,15 +3,32 @@ sr-due: 2023-12-30
 sr-interval: 120
 sr-ease: 370
 ---
-# Plants
-Plants are one of the [[6 kingdoms of life]].
+# [[Kingdom]]: Plantae
+#biology #MOC #Incomplete 
 
-> [!tldr] Main Features of plants
->  [[incomplete]]
+Contains all [[Eukaryotic]] [[chlorophyll]]-containing organisms
+- [[Algae]]
+- [[Bryophytes]]
+- [[Pteridophytes]]
+- [[Gymnosperms]]
+- [[Angiosperms]] <- main
+
+Almost all rely solely on [[photosynthesis]], 
+but a few are *partially* [[Heterotrophic]]:
+- [[Insectivorous]] -  [[Venus Fly trap]], Bladderwort
+- [[Parasitic]] - *Cuscuta*
+
+Prominent chloroplast and [[Cell Walls]] mostly of [[Cellulose]]
 
 There are many different types of plants and ways to categorize them
 - [[Cotyledons]]
 - [[Dicotyledons]]
+
+Alternation of Generation,
+plants have 2 distint phases in their life cycle:
+- Diploid Sporophytic
+- Haploid Gametophytic
+alternate with each other
 
 Extra links: [[Fruits]], [[Plant Cells]], [[Plant Tissue Systems]]
 
@@ -71,5 +88,3 @@ Extra links: [[Fruits]], [[Plant Cells]], [[Plant Tissue Systems]]
 - [[Xylem]]
 
 %% End Waypoint %%
-
-#biology #MOC #Incomplete 
