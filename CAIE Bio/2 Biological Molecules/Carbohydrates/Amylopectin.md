@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-11
-sr-interval: 50
+sr-due: 2023-12-18
+sr-interval: 120
 sr-ease: 329
 ---
 ## Amylopectin

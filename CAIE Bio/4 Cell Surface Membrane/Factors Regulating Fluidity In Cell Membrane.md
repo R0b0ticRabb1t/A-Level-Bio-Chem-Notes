@@ -1,16 +1,14 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
+sr-due: 2024-01-13
+sr-interval: 132
 sr-ease: 318
 ---
 ## Factors Regulating Fluidity in Cell Membrane
 #biology 
-#### Temperature
+
 ↑ temp == ↑kinetic energy and movement
-#### Saturation of [[Fatty Acids]]/lipid tail in bilayer
-↑ saturation = ↑ surface area = ↓ fluidity
-#### Length of tail
-↑ length = ↑ surface area = ↓ fluidity
+↑ saturation of lipid tail = ↑ surface area/kinks = ↓ fluidity
+↑ length of lipid tail = ↑ surface area = ↓ fluidity
 #### [[Cholestrol]] - Mechanical Stability
 Cholestrol makes the cell membrane a lot more stable
 at low temps, cholestrol makes more fluid

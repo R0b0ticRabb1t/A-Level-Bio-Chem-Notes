@@ -1,7 +1,7 @@
 ---
 banner: "![[Gynoecium.png]]"
-sr-due: 2023-08-19
-sr-interval: 12
+sr-due: 2023-09-26
+sr-interval: 37
 sr-ease: 292
 ---
 # Gynoecium

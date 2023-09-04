@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-22
-sr-interval: 50
+sr-due: 2023-12-22
+sr-interval: 120
 sr-ease: 315
 ---
 ## Incipient plasmolysis

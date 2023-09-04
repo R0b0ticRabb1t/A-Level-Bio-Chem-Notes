@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
-sr-ease: 330
+sr-due: 2024-04-18
+sr-interval: 228
+sr-ease: 350
 ---
 # Triglycerides
 #biology/biomolecules  

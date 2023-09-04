@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-22
-sr-interval: 50
+sr-due: 2023-12-21
+sr-interval: 120
 sr-ease: 295
 ---
 # Cellulose

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-17
-sr-interval: 12
+sr-due: 2023-10-04
+sr-interval: 42
 sr-ease: 279
 ---
 # Mutations

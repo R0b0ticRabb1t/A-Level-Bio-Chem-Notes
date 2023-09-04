@@ -1,5 +1,5 @@
 # [[Phylum]]: Chrysophyceae
-#biology #NCERT 
+#biology #NCERT Kingdom: [[Protista]]
 
 - found in: [[Fresh Water]] & [[Marine]] env.
 - mostly [[photosynthesis|photosynthetic]]

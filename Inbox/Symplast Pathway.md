@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-09
-sr-interval: 4
-sr-ease: 279
+sr-due: 2023-10-07
+sr-interval: 47
+sr-ease: 299
 ---
 ### Symplast Pathway
 #biology/plants 

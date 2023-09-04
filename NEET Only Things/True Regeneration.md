@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-08
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-11-02
+sr-interval: 61
+sr-ease: 290
 ---
 ### True Regeneration
 #biology #NCERT/11 #keywords 

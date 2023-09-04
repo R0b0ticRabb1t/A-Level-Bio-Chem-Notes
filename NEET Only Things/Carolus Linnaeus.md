@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-09
-sr-interval: 2
-sr-ease: 248
+sr-due: 2023-09-28
+sr-interval: 27
+sr-ease: 228
 ---
 # Carolus Linnaeus
 #biology #NCERT 

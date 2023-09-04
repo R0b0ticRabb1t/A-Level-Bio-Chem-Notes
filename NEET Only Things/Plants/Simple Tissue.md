@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-28
-sr-interval: 40
+sr-due: 2023-12-30
+sr-interval: 120
 sr-ease: 359
 ---
 ## Simple Tissues

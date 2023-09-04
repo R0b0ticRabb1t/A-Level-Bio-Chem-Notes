@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-24
-sr-interval: 40
+sr-due: 2024-01-27
+sr-interval: 146
 sr-ease: 325
 ---
 ## Types of Bonds Which Hold tert Structure Of Proteins 

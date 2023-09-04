@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-11
-sr-interval: 4
+sr-due: 2023-09-13
+sr-interval: 24
 sr-ease: 277
 ---
 # [[Kingdom]] Monera

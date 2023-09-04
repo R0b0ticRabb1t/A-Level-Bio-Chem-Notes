@@ -1,7 +1,7 @@
 ---
 banner: "![[Pollen.png]]"
-sr-due: 2023-08-14
-sr-interval: 7
+sr-due: 2023-09-15
+sr-interval: 26
 sr-ease: 260
 ---
 # Pollen
@@ -24,7 +24,7 @@ usually spherical, variety of features.
 
 1. **Vegetative Cell**
 	- Large
-	- Uneven nucleus
+	- **Uneven nucleus**
 	- Lots of food reserve
 2. **Generative Cell**
 	- Small

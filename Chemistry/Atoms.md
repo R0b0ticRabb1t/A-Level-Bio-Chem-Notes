@@ -1,3 +1,7 @@
+---
+aliases:
+  - Atom
+---
 # Atoms
 
 Atoms are the the smallest part of a substance that can take part in a *chemical change*. They are very small, and have very little mass.

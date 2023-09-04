@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-09
-sr-interval: 4
+sr-due: 2023-09-29
+sr-interval: 36
 sr-ease: 270
 ---
 # Taxonomical Aids
@@ -26,7 +26,6 @@ Insects killed pinned & stored in insect boxes
 ### Zoological Parks
 wild animals, protected environment with conditions similar to natural habitats. 
 helps for studying food habits/behavior
-
 ### Extra
 Flora - account of habitat & distribution of plants in an area
 Manuals - information for identifying species in an area

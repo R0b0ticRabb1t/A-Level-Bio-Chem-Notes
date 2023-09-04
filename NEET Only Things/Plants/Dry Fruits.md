@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-23
-sr-interval: 35
-sr-ease: 299
+sr-due: 2023-12-21
+sr-interval: 120
+sr-ease: 319
 ---
 ## Dry Fruits
 #NCERT/11 #biology 

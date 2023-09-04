@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-10
-sr-interval: 3
+sr-due: 2023-09-14
+sr-interval: 24
 sr-ease: 278
 ---
 # Five Kingdom Classification

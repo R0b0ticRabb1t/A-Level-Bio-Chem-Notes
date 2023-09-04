@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-09
-sr-interval: 5
-sr-ease: 246
+sr-due: 2023-09-23
+sr-interval: 20
+sr-ease: 226
 ---
 # Typhoid
 #biology/disease #NCERT/12 

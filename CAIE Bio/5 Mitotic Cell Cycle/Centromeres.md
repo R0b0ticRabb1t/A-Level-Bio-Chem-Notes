@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-16
-sr-interval: 10
-sr-ease: 293
+sr-due: 2023-12-16
+sr-interval: 106
+sr-ease: 313
 ---
 ### Centromere
 #biology 

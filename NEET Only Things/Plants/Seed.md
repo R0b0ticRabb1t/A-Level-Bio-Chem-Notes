@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-08
-sr-interval: 1
-sr-ease: 174
+sr-due: 2023-09-14
+sr-interval: 11
+sr-ease: 134
 ---
 # Seeds
 #biology #NCERT/12 
@@ -20,8 +20,9 @@ Seeds are the fertilized [[Megasporangium|Ovule]]. formed inside [[Fruits]] (fer
 	4. [[castor]]
 
 ### Changing Structures
-Some seeds have a residue persistent [[Megasporangium#^6e8699|Nucellus]]--> Perisperm. eg: black pepper and beet
-Integuments harden --> sead coat
+Some seeds have a residue persistent [[Megasporangium#^6e8699|Nucellus]]--> [[Perisperm]]. 
+- eg: black pepper and beet
+Integuments harden --> seed coat
 Micropyle stays as a hole for water and oxygen for seed to [[Germinate]]
 Seed matures, water content decreases (10-15% moisture/mass left)
 
@@ -37,5 +38,5 @@ embryo could become dormant, or [[Germinate]]
 Variable Viability Period
 months --> hunreds of years
 > [!info] Ancient Seeds
-> *Lupinus arcticus* - 10,000 years dormant in Arctic Tundra
-> *Pheonix dactylifera* - 2,000 years palm tree
+> *[[Lupinus arcticus]]* - 10,000 years dormant in Arctic Tundra
+> *[[Pheonix dactylifera]]* - 2,000 years palm tree

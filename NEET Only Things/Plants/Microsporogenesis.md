@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-21
-sr-interval: 15
+sr-due: 2023-10-05
+sr-interval: 45
 sr-ease: 300
 ---
 # Microsporogenisis

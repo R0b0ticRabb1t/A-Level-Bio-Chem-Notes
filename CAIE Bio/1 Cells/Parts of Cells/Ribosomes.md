@@ -1,7 +1,7 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages-medium-large-5%2Fhuman-80s-ribosome-alfred-pasiekascience-photo-library.jpg&f=1&nofb=1&ipt=798a898e46a61b7a58db1ae6efcc5a9def3e372526fe7fc7dfc7090e0ae1f755&ipo=images"
-sr-due: 2023-08-29
-sr-interval: 27
+sr-due: 2023-11-11
+sr-interval: 71
 sr-ease: 250
 banner_y: 0.5
 ---

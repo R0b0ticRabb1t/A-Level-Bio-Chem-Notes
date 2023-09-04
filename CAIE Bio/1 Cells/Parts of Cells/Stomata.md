@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-22
-sr-interval: 16
-sr-ease: 311
+sr-due: 2023-11-15
+sr-interval: 82
+sr-ease: 331
 ---
 ## Stomata
 #biology #NCERT/11 

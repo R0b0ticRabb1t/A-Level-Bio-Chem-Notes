@@ -1,5 +1,5 @@
 # [[Class]] Euglanoids (or Euglenophyte)
-#biology #NCERT ([[Phylum]]:[[EuglenoZoa]])
+#biology #NCERT ([[Phylum]]:[[EuglenoZoa]], Kingdom:[[Protista]])
 
 Mostly found in fresh stagnant water![[Pasted image 20230807191544.png|right|300]]
 

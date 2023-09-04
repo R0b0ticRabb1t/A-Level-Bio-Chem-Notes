@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-15
-sr-interval: 8
+sr-due: 2023-09-18
+sr-interval: 28
 sr-ease: 250
 ---
 # Nomenclature

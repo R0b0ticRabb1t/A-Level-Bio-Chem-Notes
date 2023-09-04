@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
-sr-ease: 344
+sr-due: 2023-12-30
+sr-interval: 120
+sr-ease: 364
 ---
 ## Prosthetic Group
 #biology/biomolecules 

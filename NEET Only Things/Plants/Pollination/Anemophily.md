@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-18
-sr-interval: 11
+sr-due: 2023-09-27
+sr-interval: 37
 sr-ease: 293
 ---
 ## Features of Anemophilic plants

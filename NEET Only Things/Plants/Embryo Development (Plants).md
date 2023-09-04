@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-10
-sr-interval: 3
+sr-due: 2023-11-05
+sr-interval: 73
 sr-ease: 272
 ---
 # Embryo Development

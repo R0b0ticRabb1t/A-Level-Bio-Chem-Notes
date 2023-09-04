@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-02
-sr-interval: 40
-sr-ease: 357
+sr-due: 2024-03-16
+sr-interval: 196
+sr-ease: 377
 ---
 # Enzymes
 #biology #MOC 

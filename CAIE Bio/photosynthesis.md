@@ -4,6 +4,9 @@ sr-interval: 40
 sr-ease: 358
 aliases:
   - photosynthetic
+sr-due: 2023-12-30
+sr-interval: 120
+sr-ease: 378
 ---
 # Photosynthesis 
 

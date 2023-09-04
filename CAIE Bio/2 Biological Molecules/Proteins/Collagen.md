@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
+sr-due: 2024-01-01
+sr-interval: 121
 sr-ease: 292
 ---
 ## Collagen

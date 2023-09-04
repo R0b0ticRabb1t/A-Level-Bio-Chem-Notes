@@ -7,6 +7,7 @@ i need to catch up on it
 - [[Atomic Radius]]
 - [[Atoms]]
 - [[CarboCation]]
+- [[Coordination Compounds]]
 - **[[Electron Configuration]]**
 - [[Electrons]]
 - [[Hydrogen Bonds]]

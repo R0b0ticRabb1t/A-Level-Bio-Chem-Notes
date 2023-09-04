@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-10
-sr-interval: 8
+sr-due: 2023-09-30
+sr-interval: 38
 sr-ease: 268
 ---
 # Endosperm 
@@ -9,7 +9,7 @@ sr-ease: 268
 the primary endosperm cell is formed from [[Triple Fusion]]. 
 Endosperm development happens first before embryo development. Filled with reserve food and nutrients.
 
-In many plants, the triploid nuclei divides first forming *free-nuclear endosperm** and cell wall formation happens after.
+In many plants, the triploid nuclei divides first forming **free-nuclear endosperm** and cell wall formation happens after.
 
 > [!important] Endosperm Consumption
 > In peas, groundnut & beans, complete consumption

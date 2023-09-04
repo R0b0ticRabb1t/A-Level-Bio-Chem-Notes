@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-24
-sr-interval: 40
+sr-due: 2023-12-23
+sr-interval: 120
 sr-ease: 307
 ---
 # Stem Cells

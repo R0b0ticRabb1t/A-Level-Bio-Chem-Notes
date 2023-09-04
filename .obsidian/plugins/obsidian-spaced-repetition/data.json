@@ -39,14 +39,14 @@
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
     "easyBonus": 1.3,
-    "maximumInterval": 120,
+    "maximumInterval": 365,
     "maxLinkFactor": 1,
     "showDebugMessages": false,
     "showFileNameInFileLink": false,
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-08-07",
+  "buryDate": "2023-09-03",
   "buryList": [],
   "historyDeck": ""
 }

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-23
-sr-interval: 17
-sr-ease: 313
+sr-due: 2023-11-10
+sr-interval: 78
+sr-ease: 333
 ---
 ## Sporopollenin
 #biology #NCERT/12 

@@ -1,16 +1,17 @@
 ---
 banner: "![[Anther Young, old and enlarged.png]]"
-sr-due: 2023-08-08
-sr-interval: 3
-sr-ease: 252
+sr-due: 2023-10-24
+sr-interval: 60
+sr-ease: 272
 ---
 # Anther
 #biology/plants #NCERT/12 
 
 In typical [[Angiosperms]]: 
-- anther is **bilobed**.
+- anther is 
+	- **bilobed**.
 	- lobes are seperated by the **Line of dehiscence
-- Each lobe has two **[[theca]]** (**dithecous**)
+	- Each lobe has two **[[theca]]** (**dithecous**)
 
 The anther has a *tetragonal*(four sided) shape, With two **[[Microsporangium]]** in each lobe
 

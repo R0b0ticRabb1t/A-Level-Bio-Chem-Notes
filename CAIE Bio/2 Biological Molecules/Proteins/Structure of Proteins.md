@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 40
-sr-ease: 343
+sr-due: 2024-03-10
+sr-interval: 189
+sr-ease: 363
 ---
 # Structure of Proteins
 ### Primary Structure

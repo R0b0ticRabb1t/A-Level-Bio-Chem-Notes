@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-08
-sr-interval: 2
+sr-due: 2023-09-16
+sr-interval: 26
 sr-ease: 276
 ---
 # Embryo Sac (Ovule In Plants)

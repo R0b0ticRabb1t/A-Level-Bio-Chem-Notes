@@ -1,0 +1,272 @@
+{
+  "workspaces": {
+    "To Do": {
+      "main": {
+        "id": "f63e6f249fba70a1",
+        "type": "split",
+        "children": [
+          {
+            "id": "3fe1f2e5f59320e9",
+            "type": "tabs",
+            "dimension": 58.52864583333333,
+            "children": [
+              {
+                "id": "b6630ceb5013946e",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "To Do KanBan.md"
+                  }
+                }
+              },
+              {
+                "id": "138a5ce29b8673f1",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "To Do KanBan.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "c46a671019bf6c1d",
+            "type": "tabs",
+            "dimension": 41.471354166666664,
+            "children": [
+              {
+                "id": "59a833012c97df8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "To Do.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b59e58892abcff0e",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca9436167eeec21d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d38bedb8eb2abdf5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "3102e20a95e6edb1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "00f796319ae5c2b4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "004e0222d9d02910",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ebb004b09754110",
+            "type": "tabs",
+            "dimension": 45.17958412098298,
+            "children": [
+              {
+                "id": "5180e4c5a7cb8450",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f87e372e25a4bccc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "To Do KanBan.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a26bd552c5e895b7",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "58ff0b309510ea96",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "To Do KanBan.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9af7e3fd817f56e5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "To Do KanBan.md"
+                  }
+                }
+              },
+              {
+                "id": "5c70f49c899b7c76",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "To Do KanBan.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "373975aa931446b9",
+            "type": "tabs",
+            "dimension": 54.82041587901701,
+            "children": [
+              {
+                "id": "6ad6932c0fc451b7",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a6e0a5e65acd6694",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "To Do KanBan.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#MOC",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14048348
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 0.703586278586279,
+                      "lineSizeMultiplier": 0.886954261954262,
+                      "collapse-forces": false,
+                      "centerStrength": 0.809251559251559,
+                      "repelStrength": 15.02079002079,
+                      "linkStrength": 1,
+                      "linkDistance": 49,
+                      "scale": 0.6100827956162944,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "daily-notes:Open today's daily note": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "138a5ce29b8673f1"
+    }
+  },
+  "active": "To Do"
+}

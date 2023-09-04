@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-15
-sr-interval: 50
+sr-due: 2023-12-19
+sr-interval: 120
 sr-ease: 300
 ---
 # Cell Walls
@@ -17,3 +17,6 @@ Sometimes contain **lignin** for more strength.
 3. Orientations determine the shape of plant growth
 4. [[Apoplast]] and [[Plasmodesmata]]
 5. Waxy cuticle reduces water loss
+
+## In [[Fungi]]
+cell walls are made of [[Chitin]] and [[Polysaccharides]] ^db0a99

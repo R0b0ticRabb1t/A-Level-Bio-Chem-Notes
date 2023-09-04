@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-02
-sr-interval: 40
+sr-due: 2024-01-23
+sr-interval: 142
 sr-ease: 350
 ---
 # Plant Tissues

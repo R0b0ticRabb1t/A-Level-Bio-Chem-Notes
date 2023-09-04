@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-12
-sr-interval: 5
+sr-due: 2023-09-12
+sr-interval: 23
 sr-ease: 246
 ---
 # Transcription ([[6 DNA]] --> m[[RNA]])

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
-sr-ease: 295
+sr-due: 2024-02-21
+sr-interval: 172
+sr-ease: 315
 ---
 ## False Fruits
 

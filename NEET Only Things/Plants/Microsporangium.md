@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-14
-sr-interval: 9
-sr-ease: 280
+sr-due: 2023-10-18
+sr-interval: 59
+sr-ease: 300
 ---
 ## Structure of Microsporangium
 #biology/plants #NCERT/12 

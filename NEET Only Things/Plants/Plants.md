@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
-sr-ease: 350
+sr-due: 2023-12-30
+sr-interval: 120
+sr-ease: 370
 ---
 # Plants
 Plants are one of the [[6 kingdoms of life]].

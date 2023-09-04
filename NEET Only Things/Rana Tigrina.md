@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-27
-sr-interval: 25
+sr-due: 2023-10-09
+sr-interval: 37
 sr-ease: 130
 ---
 # Rana Tigrina (Frog)

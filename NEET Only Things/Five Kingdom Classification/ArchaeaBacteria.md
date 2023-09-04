@@ -1,3 +1,8 @@
+---
+sr-due: 2023-08-27
+sr-interval: 4
+sr-ease: 223
+---
 # ArchaeaBacteria
 #biology #NCERT/11 
 

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-17
-sr-interval: 11
+sr-due: 2023-09-25
+sr-interval: 35
 sr-ease: 280
 ---
 #biology #NCERT/12 #keywords  

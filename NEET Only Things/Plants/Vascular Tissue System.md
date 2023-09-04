@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-26
-sr-interval: 40
-sr-ease: 378
+sr-due: 2023-12-30
+sr-interval: 120
+sr-ease: 398
 ---
 ## Vascular Tissue System
 #biology/plants #NCERT/11 

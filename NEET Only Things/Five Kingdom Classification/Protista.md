@@ -1,3 +1,8 @@
+---
+sr-due: 2023-09-04
+sr-interval: 2
+sr-ease: 206
+---
 # [[Kingdom]] Protista ![[Pasted image 20230807183756.png|right|300]]
 #biology #NCERT 
 

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-17
-sr-interval: 10
-sr-ease: 291
+sr-due: 2023-11-01
+sr-interval: 69
+sr-ease: 311
 ---
 # Protein Synthesis 
 #biology 

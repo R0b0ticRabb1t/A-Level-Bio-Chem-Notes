@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-19
-sr-interval: 12
-sr-ease: 308
+sr-due: 2023-10-30
+sr-interval: 68
+sr-ease: 328
 ---
 # Transport In [[Plants]]
 #MOC #biology/plants 

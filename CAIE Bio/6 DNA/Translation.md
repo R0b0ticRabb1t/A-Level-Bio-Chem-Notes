@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-12
-sr-interval: 7
+sr-due: 2023-09-22
+sr-interval: 32
 sr-ease: 278
 ---
 # Translation (m[[RNA]] --> [[Protein]] )

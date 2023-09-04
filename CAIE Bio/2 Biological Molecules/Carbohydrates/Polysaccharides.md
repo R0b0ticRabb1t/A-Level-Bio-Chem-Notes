@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-13
-sr-interval: 8
+sr-due: 2023-09-24
+sr-interval: 34
 sr-ease: 283
 ---
 # Polysaccharides

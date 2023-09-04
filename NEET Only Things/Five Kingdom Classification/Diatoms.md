@@ -1,3 +1,8 @@
+---
+sr-due: 2023-09-05
+sr-interval: 15
+sr-ease: 235
+---
 # Diatoms
 #biology #NCERT 
 

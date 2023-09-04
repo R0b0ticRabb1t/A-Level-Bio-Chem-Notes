@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-09
-sr-interval: 4
-sr-ease: 270
+sr-due: 2023-10-23
+sr-interval: 60
+sr-ease: 310
 ---
 
 # Adenosine Triphosphate (ATP)

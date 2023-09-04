@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-21
-sr-interval: 14
+sr-due: 2023-10-01
+sr-interval: 41
 sr-ease: 291
 ---
 ## Stamen

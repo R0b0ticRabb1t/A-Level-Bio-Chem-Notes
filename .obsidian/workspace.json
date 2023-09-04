@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "65f97a92b014c8ad",
+        "id": "410bd05f11efac88",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb5e53fcba3e3cf",
+            "id": "bee3a90b8b74cdb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEET Only Things/People.md",
+                "file": "Fungi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c789bc4f26e17a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ascomycetes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb4f0da8673fe496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -50,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOC",
+                "query": "frag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +94,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -99,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NEET Only Things/People.md",
+                "file": "Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEET Only Things/People.md",
+                "file": "Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +160,22 @@
             }
           },
           {
+            "id": "9af7e3fd817f56e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Guide.md"
+              }
+            }
+          },
+          {
             "id": "5c70f49c899b7c76",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NEET Only Things/People.md"
+                "file": "Guide.md"
               }
             }
           }
@@ -162,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NEET Only Things/People.md",
+                "file": "Guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,49 +256,52 @@
       "random-note:Open random note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfb5e53fcba3e3cf",
+  "active": "eb4f0da8673fe496",
   "lastOpenFiles": [
-    "Inbox/Sexual Reproduction.md",
-    "NEET Only Things/Five Kingdom Classification/Protozoans.md",
-    "NEET Only Things/Five Kingdom Classification/Slime Molds.md",
-    "NEET Only Things/Five Kingdom Classification/Diatoms.md",
-    "NEET Only Things/Five Kingdom Classification/Chrysophyte.md",
-    "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
+    "Ascomycetes.md",
+    "Fungi.md",
+    "Phycomycetes.md",
+    "Images/Mucor.png",
+    "To Do.md",
     "NEET Only Things/Five Kingdom Classification/Dinoflagellate.md",
-    "Inbox/Flagellum.md",
+    "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
+    "NEET Only Things/Five Kingdom Classification/Protozoans.md",
     "NEET Only Things/Five Kingdom Classification/Protista.md",
+    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
+    "CAIE Bio/4 Cell Surface Membrane/Active Transport.md",
+    "CAIE Bio/1 Cells/Parts of Cells/Cell Walls.md",
+    "Intersection??/Asexual Reprouction.md",
+    "Images/Fungi.png",
+    "Inbox/Sexual Reproduction.md",
+    "NEET Only Things/True Regeneration.md",
+    "CAIE Bio/2 Biological Molecules/Lipids/Glycerol.md",
+    "NEET Only Things/Five Kingdom Classification/Monera.md",
+    "Consciousness/2023-09-04.md",
+    "To Do KanBan.md",
+    "Chemistry/Coordination Compounds.md",
+    "To DO Kanban.md",
+    "To DO Kan test.md",
+    "Untitled Kanban 1.md",
+    "CAIE Bio/2 Biological Molecules/Lipids/Triglycerides.md",
+    "CAIE Bio/6 DNA/RNA.md",
+    "CAIE Bio/2 Biological Molecules/Proteins/Structure of Proteins.md",
+    "CAIE Bio/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
     "Images/Pasted image 20230807211541.png",
     "Images/Pasted image 20230807210116.png",
-    "NEET Only Things/Saprophytes.md",
     "Images/Pasted image 20230807205426.png",
-    "NEET Only Things/Five Kingdom Classification/Monera.md",
-    "CAIE Bio/1 Cells/Bacteria.md",
-    "NEET Only Things/Five Kingdom Classification/ArchaeaBacteria.md",
-    "NEET Only Things/Five Kingdom Classification/EuBacteria.md",
-    "Consciousness/2023-08-07.md",
     "Images/Pasted image 20230807191544.png",
-    "EuglenoPhyceae.md",
-    "NEET Only Things/Taxonomical Aids.md",
-    "NEET Only Things/Taxonomy.md",
-    "NEET Only Things/Five Kingdom Classification/Order.md",
-    "NEET Only Things/Five Kingdom Classification/Class.md",
-    "NEET Only Things/Five Kingdom Classification/Phylum.md",
     "Images/Pasted image 20230807185216.png",
     "Images/Pasted image 20230807183756.png",
     "Images/Pasted image 20230807183603.png",
-    "CAIE Bio/1 Cells/Eukaryotic.md",
     "NEET Only Things/Five Kingdom Classification",
-    "CAIE Bio/photosynthesis.md",
-    "NEET Only Things/Five Kingdom Classification/Nostoc.md",
-    "NEET Only Things/Five Kingdom Classification/Heterocysts.md",
     "Images/Pasted image 20230807154023.png",
-    "Images/Pasted image 20230807140648.png",
-    "Images/Pasted image 20230807002714.png",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-ANATOMY-OF-FLOWERING-PLANTS-chapter-6.pdf",

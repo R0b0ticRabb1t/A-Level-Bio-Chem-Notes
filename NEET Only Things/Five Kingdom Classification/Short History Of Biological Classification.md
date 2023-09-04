@@ -1,3 +1,8 @@
+---
+sr-due: 2023-10-08
+sr-interval: 36
+sr-ease: 252
+---
 # Short History Of Biological Classification
 #biology #NCERT/11 
 
