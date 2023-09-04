@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0259c185cc03b00e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Animalia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd79d0118876b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -77,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -128,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md",
+                "file": "NEET Only Things/Plants/Plants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md",
+                "file": "NEET Only Things/Plants/Plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md"
+                "file": "NEET Only Things/Plants/Plants.md"
               }
             }
           },
@@ -175,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md"
+                "file": "NEET Only Things/Plants/Plants.md"
               }
             }
           }
@@ -201,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CAIE Bio/1 Cells/Viruses.md",
+                "file": "NEET Only Things/Plants/Plants.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,17 +234,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0dd79d0118876b95",
+  "active": "30d122bc379d1106",
   "lastOpenFiles": [
-    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
-    "Animalia.md",
-    "Holozoic.md",
+    "NEET Only Things/Five Kingdom Classification/Animalia.md",
     "NEET Only Things/Plants/Plants.md",
-    "Basidiomycetes.md",
-    "Ascomycetes.md",
-    "Deuteromycetes.md",
-    "Phycomycetes.md",
-    "Fungi.md",
+    "NEET Only Things/Five Kingdom Classification/Holozoic.md",
+    "NEET Only Things/Five Kingdom Classification/Basidiomycetes.md",
+    "NEET Only Things/Five Kingdom Classification/Ascomycetes.md",
+    "NEET Only Things/Five Kingdom Classification/Deuteromycetes.md",
+    "NEET Only Things/Five Kingdom Classification/Fungi.md",
+    "NEET Only Things/Five Kingdom Classification/Phycomycetes.md",
+    "README.md",
+    "CAIE Bio/1 Cells/Viruses.md",
+    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
     "Images/Agaricus.png",
     "NEET Only Things/Plants/Meristematic Tissues.md",
     "Guide.md",
@@ -292,8 +265,6 @@
     "To Do.md",
     "NEET Only Things/Five Kingdom Classification/Dinoflagellate.md",
     "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
-    "NEET Only Things/Five Kingdom Classification/Protozoans.md",
-    "NEET Only Things/Five Kingdom Classification/Protista.md",
     "Images/Fungi.png",
     "Images/Pasted image 20230807211541.png",
     "Images/Pasted image 20230807210116.png",
