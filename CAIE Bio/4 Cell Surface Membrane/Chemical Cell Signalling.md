@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-26
-sr-interval: 40
-sr-ease: 212
+sr-due: 2024-01-30
+sr-interval: 148
+sr-ease: 232
 ---
 # Cell Signalling (with chemicals) 
 #biology 
@@ -22,4 +22,4 @@ Signal is converted from one method of transmission to another
 	- Acts as switch, turns on another enzyme and releases many secondary messengers
 	- signal is amplified
 	- signalling cascade
-	- final response activates some [[3 Enzymes]]:
+	- final response activates some [[3 Enzymes|Enzyme]]:

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 40
-sr-ease: 330
+sr-due: 2024-03-09
+sr-interval: 187
+sr-ease: 350
 ---
 ## Colorimeters
 #biology 

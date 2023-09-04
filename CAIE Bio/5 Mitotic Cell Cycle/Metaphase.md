@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
+sr-due: 2024-02-19
+sr-interval: 168
 sr-ease: 332
 ---
 ## Metaphase

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
-sr-ease: 282
+sr-due: 2024-03-22
+sr-interval: 200
+sr-ease: 302
 ---
 ## Epidermal Tissue System
 #biology #NCERT/11 

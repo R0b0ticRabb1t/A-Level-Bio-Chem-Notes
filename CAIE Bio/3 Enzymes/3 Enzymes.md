@@ -2,6 +2,8 @@
 sr-due: 2024-03-16
 sr-interval: 196
 sr-ease: 377
+aliases:
+  - Enzyme
 ---
 # Enzymes
 #biology #MOC 

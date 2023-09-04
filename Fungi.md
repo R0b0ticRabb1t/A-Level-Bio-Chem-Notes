@@ -14,7 +14,7 @@ Morphology of **mycelium** and type of **reproduction** is the basis for classif
 1. [[Phycomycetes]]
 2. [[Ascomycetes]]
 3. [[Basidiomycetes]]
-4. [[Deutoromycetes]]
+4. [[Deuteromycetes]]
 ### Structure
 Fungi are usually filamentous (except [[Yeast]]). Consists of threadlike **Hyphae**.
 Hyphae Network-> **Mycelium**

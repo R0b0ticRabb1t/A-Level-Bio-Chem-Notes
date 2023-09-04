@@ -14,6 +14,8 @@ also for anyone doing AS and A levels, you can delete or ignore the notes tagged
 ### Like a basic philosophy 
 Try to make every note a reasonable size of ~50-100 words long
 so its easy to review
+but a lot go to 100-150 words
+if its less than like 30 words i usually tag it as a stub note
 
 When making notes from textbook, the ratio should be about:
 for 3 words in the textbook, 1 word in the note (including tags and shit)

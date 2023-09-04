@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-04
-sr-interval: 34
+sr-due: 2023-11-13
+sr-interval: 70
 sr-ease: 203
 ---
 # [[6 DNA]] replication
@@ -14,4 +14,4 @@ Complicated process happens in the [[S Phase]]
 	- So the leading strand is synthesized over a 3' to 5' template strand 
 	- The other strand is **wound back** so that DNA Polymerase can synthesize in 5'-3' by going backwards on the 5'-3' lagging strand template
 	- This causes the formation of [[Okazaki Fragments]]
-3. Finally DNA [[Ligase]] binds strands together with [[Phosphodiester Bonds]]
+3. Finally DNA [[Ligase]] binds strands together with [[Phosphodiester Bonds]] and attaches everything
