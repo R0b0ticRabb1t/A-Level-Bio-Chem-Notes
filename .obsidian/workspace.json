@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3c789bc4f26e17a9",
+            "id": "c30bfafa6febc84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ascomycetes.md",
+                "file": "Phycomycetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "eb4f0da8673fe496",
+            "id": "3c789bc4f26e17a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide.md",
+                "file": "Ascomycetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide.md",
+                "file": "Ascomycetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide.md",
+                "file": "Ascomycetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Guide.md"
+                "file": "Ascomycetes.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide.md"
+                "file": "Ascomycetes.md"
               }
             }
           }
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Guide.md",
+                "file": "Ascomycetes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,11 +263,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb4f0da8673fe496",
+  "active": "3c789bc4f26e17a9",
   "lastOpenFiles": [
-    "Ascomycetes.md",
-    "Fungi.md",
     "Phycomycetes.md",
+    "Fungi.md",
+    "Ascomycetes.md",
+    "Images/Aspergillus.png",
+    "Guide.md",
+    "Intersection??/Asexual Reprouction.md",
     "Images/Mucor.png",
     "To Do.md",
     "NEET Only Things/Five Kingdom Classification/Dinoflagellate.md",
@@ -277,7 +280,6 @@
     "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
     "CAIE Bio/4 Cell Surface Membrane/Active Transport.md",
     "CAIE Bio/1 Cells/Parts of Cells/Cell Walls.md",
-    "Intersection??/Asexual Reprouction.md",
     "Images/Fungi.png",
     "Inbox/Sexual Reproduction.md",
     "NEET Only Things/True Regeneration.md",
@@ -291,8 +293,6 @@
     "Untitled Kanban 1.md",
     "CAIE Bio/2 Biological Molecules/Lipids/Triglycerides.md",
     "CAIE Bio/6 DNA/RNA.md",
-    "CAIE Bio/2 Biological Molecules/Proteins/Structure of Proteins.md",
-    "CAIE Bio/5 Mitotic Cell Cycle/5 Mitotic Cell Cycle.md",
     "Images/Pasted image 20230807211541.png",
     "Images/Pasted image 20230807210116.png",
     "Images/Pasted image 20230807205426.png",
@@ -301,7 +301,6 @@
     "Images/Pasted image 20230807183756.png",
     "Images/Pasted image 20230807183603.png",
     "NEET Only Things/Five Kingdom Classification",
-    "Images/Pasted image 20230807154023.png",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-ANATOMY-OF-FLOWERING-PLANTS-chapter-6.pdf",

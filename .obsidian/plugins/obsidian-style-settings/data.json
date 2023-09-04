@@ -113,5 +113,7 @@
   "anuppuccin-theme-settings@@anp-kanban-card-spacing": 8,
   "minimal-style@@bold-color@@light": "#2AA198",
   "minimal-style@@image-radius": 0,
-  "minimal-style@@callouts-style": "callouts-default"
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@heading-spacing": "1.25em",
+  "minimal-style@@p-spacing": "1.25em"
 }
