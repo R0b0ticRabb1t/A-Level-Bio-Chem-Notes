@@ -4968,18 +4968,18 @@
     "Guide.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 207,
+      "wordCount": 447,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.69,
-      "characterCount": 1042,
-      "nonWhitespaceCharacterCount": 698,
-      "linkCount": 0,
+      "pageCount": 1.49,
+      "characterCount": 2264,
+      "nonWhitespaceCharacterCount": 1677,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1673357459389,
-      "modifiedDate": 1693840298728,
-      "sizeInBytes": 1054
+      "modifiedDate": 1693840908820,
+      "sizeInBytes": 2276
     },
     "Excalidraw/Simple Tissues.md": {
       "isDirectory": false,
