@@ -1,12 +1,11 @@
 ---
 banner: "https://images.unsplash.com/photo-1638258581353-0ab658542e73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1615&q=80"
 banner_y: 0.5
-sr-due: 2023-09-08
-sr-interval: 40
+sr-due: 2024-02-23
+sr-interval: 168
 sr-ease: 419
 ---
 # Bio 
-I hate bio
 lots to remember
 
 [[Biology Textbook]]

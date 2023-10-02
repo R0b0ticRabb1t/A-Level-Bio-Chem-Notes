@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-17
-sr-interval: 24
+sr-due: 2023-11-19
+sr-interval: 63
 sr-ease: 261
 ---
 # Cyanobacteria (blue-green [[Algae]])

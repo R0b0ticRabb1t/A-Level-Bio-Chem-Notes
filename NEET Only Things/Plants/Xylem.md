@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 228
+sr-due: 2023-10-19
+sr-interval: 22
+sr-ease: 208
 ---
 ## Xylem Vessels
 #biology/plants 

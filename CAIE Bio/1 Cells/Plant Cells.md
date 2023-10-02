@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 288
+sr-due: 2024-02-18
+sr-interval: 160
+sr-ease: 308
 ---
 
 # Plants Cells

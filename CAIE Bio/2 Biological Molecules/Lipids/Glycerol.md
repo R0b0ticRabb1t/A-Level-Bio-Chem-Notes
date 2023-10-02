@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
-sr-ease: 311
+sr-due: 2024-03-17
+sr-interval: 194
+sr-ease: 331
 ---
 ## Glycerol
 #biology/biomolecules 

@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "translucency": false,
   "interfaceFontFamily": "Liberation Mono,Roboto,DejaVu Sans Mono",
-  "baseFontSize": 16.5,
+  "baseFontSize": 17.5,
   "enabledCssSnippets": [
     "Image left align",
     "imageleftalign"

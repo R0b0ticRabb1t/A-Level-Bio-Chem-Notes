@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
+sr-due: 2024-01-10
+sr-interval: 124
 sr-ease: 308
 ---
-
 # Sugar
 #biology #biology/biomolecules 
 

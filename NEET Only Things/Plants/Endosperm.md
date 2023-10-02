@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-30
-sr-interval: 38
+sr-due: 2024-01-10
+sr-interval: 102
 sr-ease: 268
 ---
 # Endosperm 

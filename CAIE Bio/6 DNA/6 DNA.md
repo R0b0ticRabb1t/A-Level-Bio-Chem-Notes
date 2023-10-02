@@ -2,6 +2,8 @@
 sr-due: 2023-12-25
 sr-interval: 114
 sr-ease: 265
+aliases:
+  - DNA
 ---
 # DeoxyRibo-Nucleic-[[Acid]] (Deoxy[[RNA]])
 #biology #MOC 

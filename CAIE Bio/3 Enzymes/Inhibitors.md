@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
-sr-ease: 303
+sr-due: 2024-04-26
+sr-interval: 231
+sr-ease: 323
 ---
 # Inhibitors
 #biology 

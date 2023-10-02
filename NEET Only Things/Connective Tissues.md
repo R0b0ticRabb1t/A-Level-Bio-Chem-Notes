@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-28
-sr-interval: 40
-sr-ease: 342
+sr-due: 2024-05-05
+sr-interval: 240
+sr-ease: 362
 ---
 ## Connective Tissues
 #biology #NCERT/11 

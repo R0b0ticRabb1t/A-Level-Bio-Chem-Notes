@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-08
-sr-interval: 40
-sr-ease: 336
+sr-due: 2024-03-19
+sr-interval: 192
+sr-ease: 356
 ---
 # Plant Tissue Systems
 #biology/plants #NCERT/11 

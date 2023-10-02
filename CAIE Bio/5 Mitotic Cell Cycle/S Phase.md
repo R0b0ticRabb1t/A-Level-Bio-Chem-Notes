@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-28
-sr-interval: 40
-sr-ease: 347
+sr-due: 2024-04-21
+sr-interval: 229
+sr-ease: 367
 ---
 ## S phase
 #biology 

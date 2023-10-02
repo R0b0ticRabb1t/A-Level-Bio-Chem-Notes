@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-18
-sr-interval: 28
+sr-due: 2023-12-02
+sr-interval: 73
 sr-ease: 250
 ---
 # Nomenclature
@@ -33,7 +33,7 @@ Table of ones that i need to know i think:
 
 #### Extra Rules
 - Usually Latin, typed in italics
-- First word always capitalized genus
-- Second word not capitalized specific epithet
-- seperately underlined when handwritten
-Name of author (first describer) is written abreviatted after 
+- First word always Capitalized Genus
+- second word not capitalized specific epithet
+- seperately **underlined** when handwritten
+Name of author (first describer) is written abreviated after 

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-26
-sr-interval: 40
+sr-due: 2024-01-05
+sr-interval: 118
 sr-ease: 250
 ---
 ## Fatty Acids
@@ -22,4 +22,5 @@ They are defined as:
 	- **Polyunsaturated** - more double bonds
 - This means they **melt easier**
 	- because less [[Hydrogen Bonds]] are formed between molecules.
-- Common in [[NEET Only Things/Plants/Plants]] 
+	- and less surface area
+- Common in [[Plants]]

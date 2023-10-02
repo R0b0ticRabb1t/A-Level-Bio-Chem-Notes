@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-08
-sr-interval: 40
-sr-ease: 318
+sr-due: 2024-03-02
+sr-interval: 176
+sr-ease: 338
 ---
 # Condensation reactions
 

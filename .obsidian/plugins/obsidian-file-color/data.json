@@ -1,0 +1,68 @@
+{
+  "palette": [
+    {
+      "id": "e8zFS5rnp-wV3IktDpojf",
+      "name": "Green",
+      "value": "#859900"
+    },
+    {
+      "id": "q2Wax7cfX07j5FluoBlPP",
+      "name": "Orange",
+      "value": "#cb4b16"
+    },
+    {
+      "id": "xUY3JmCvZ9cBts0jygETl",
+      "name": "Dark",
+      "value": "#002b36"
+    },
+    {
+      "id": "HBm9qO5egVdjzRJZAPkGb",
+      "name": "Magenta",
+      "value": "#d33682"
+    },
+    {
+      "id": "tm-_Ha7Z14va0GsDXDWrJ",
+      "name": "NCERT",
+      "value": "#d6ad5d"
+    },
+    {
+      "id": "NNU7W5tN0O2m98eV14gaJ",
+      "name": "hide",
+      "value": "#eee8d5"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "CAIE Bio",
+      "color": "e8zFS5rnp-wV3IktDpojf"
+    },
+    {
+      "path": "NEET Only Things",
+      "color": "tm-_Ha7Z14va0GsDXDWrJ"
+    },
+    {
+      "path": "To Do.md",
+      "color": "q2Wax7cfX07j5FluoBlPP"
+    },
+    {
+      "path": "Chemistry",
+      "color": "HBm9qO5egVdjzRJZAPkGb"
+    },
+    {
+      "path": "Consciousness",
+      "color": "q2Wax7cfX07j5FluoBlPP"
+    },
+    {
+      "path": "English A level",
+      "color": "HBm9qO5egVdjzRJZAPkGb"
+    },
+    {
+      "path": "Inbox",
+      "color": "q2Wax7cfX07j5FluoBlPP"
+    },
+    {
+      "path": "To Do KanBan.md",
+      "color": "q2Wax7cfX07j5FluoBlPP"
+    }
+  ]
+}

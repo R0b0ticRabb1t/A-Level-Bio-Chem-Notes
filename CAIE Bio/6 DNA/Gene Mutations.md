@@ -1,11 +1,10 @@
 ---
-sr-due: 2023-09-21
-sr-interval: 32
+sr-due: 2024-01-06
+sr-interval: 101
 sr-ease: 288
 ---
 # Gene Mutations
 #biology 
-
 ### Causes
 - Errors during [[DNA replication]]
 - Damage from [[Radiation]] or [[Carcinogens]] // **Mutagens** (things that cause things)

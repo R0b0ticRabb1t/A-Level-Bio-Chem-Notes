@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 334
+sr-due: 2024-09-26
+sr-interval: 365
+sr-ease: 354
 ---
 ## Interphase
 #biology 

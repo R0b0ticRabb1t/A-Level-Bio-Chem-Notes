@@ -1,9 +1,10 @@
 ---
-sr-due: 2023-09-05
-sr-interval: 15
+sr-due: 2023-12-03
+sr-interval: 66
 sr-ease: 166
 ---
 # Centrioles
+**2,9x3,500x200,-9**
 
 Two centrioles are found next to the nucleus, close by and at 90° angles to each other, in the [[Centrosome]].
 Identical structures are found within [[Cillia]] and flagellum, called **basal bodies**.

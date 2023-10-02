@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 289
+sr-due: 2024-08-02
+sr-interval: 315
+sr-ease: 309
 ---
 ## Carrier Proteins
 #biology 

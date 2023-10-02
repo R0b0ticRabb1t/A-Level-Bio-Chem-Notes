@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "410bd05f11efac88",
+        "id": "e154e5aa79ef3cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "30d122bc379d1106",
+            "id": "3175feca565ba3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e16c29149eec543e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 237.5
   },
   "right": {
     "id": "004e0222d9d02910",
@@ -80,7 +88,7 @@
       {
         "id": "5ebb004b09754110",
         "type": "tabs",
-        "dimension": 45.17958412098298,
+        "dimension": 57.30198019801981,
         "children": [
           {
             "id": "5180e4c5a7cb8450",
@@ -94,18 +102,6 @@
             }
           },
           {
-            "id": "f87e372e25a4bccc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a26bd552c5e895b7",
             "type": "leaf",
             "state": {
@@ -114,12 +110,22 @@
             }
           },
           {
-            "id": "58ff0b309510ea96",
+            "id": "15b2922674d1db15",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "6637122ad25f6384",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,32 +137,44 @@
             }
           },
           {
-            "id": "9af7e3fd817f56e5",
+            "id": "d5e86c636697f9bf",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outgoing-link",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md"
+                "file": "To Do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5c70f49c899b7c76",
+            "id": "44467d2a36e30484",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md"
+                "file": "To Do.md"
+              }
+            }
+          },
+          {
+            "id": "e206ecc346e2c12e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "To Do.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "373975aa931446b9",
         "type": "tabs",
-        "dimension": 54.82041587901701,
+        "dimension": 42.69801980198019,
         "children": [
           {
             "id": "6ad6932c0fc451b7",
@@ -167,12 +185,12 @@
             }
           },
           {
-            "id": "a6e0a5e65acd6694",
+            "id": "80c5034e8805d640",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NEET Only Things/Plants/Plants.md",
+                "file": "To Do.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,39 +201,29 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#MOC",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.703586278586279,
-                  "lineSizeMultiplier": 0.886954261954262,
-                  "collapse-forces": false,
-                  "centerStrength": 0.809251559251559,
-                  "repelStrength": 15.02079002079,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 49,
-                  "scale": 0.6100827956162944,
+                  "linkDistance": 250,
+                  "scale": 0.5374774642744019,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,57 +239,61 @@
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "wikipedia-search:Open Article": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false
     }
   },
-  "active": "30d122bc379d1106",
+  "active": "3175feca565ba3b4",
   "lastOpenFiles": [
-    "NEET Only Things/Five Kingdom Classification/Animalia.md",
-    "NEET Only Things/Plants/Plants.md",
-    "NEET Only Things/Five Kingdom Classification/Holozoic.md",
-    "NEET Only Things/Five Kingdom Classification/Basidiomycetes.md",
-    "NEET Only Things/Five Kingdom Classification/Ascomycetes.md",
-    "NEET Only Things/Five Kingdom Classification/Deuteromycetes.md",
-    "NEET Only Things/Five Kingdom Classification/Fungi.md",
-    "NEET Only Things/Five Kingdom Classification/Phycomycetes.md",
-    "README.md",
-    "CAIE Bio/1 Cells/Viruses.md",
-    "NEET Only Things/Five Kingdom Classification/Five Kingdom Classification.md",
-    "Images/Agaricus.png",
-    "NEET Only Things/Plants/Meristematic Tissues.md",
-    "Guide.md",
-    "CAIE Bio/3 Enzymes/Factors Affecting Enzyme Activity.md",
-    "NEET Only Things/Plants/Double Fertilization.md",
-    "CAIE Bio/2 Biological Molecules/2 Biological Molecules.md",
-    "CAIE Bio/6 DNA/DNA replication.md",
-    "NEET Only Things/Plants/Epidermal Tissue System.md",
-    "NEET Only Things/Five Kingdom Classification/ArchaeaBacteria.md",
-    "CAIE Bio/General Things/Colorimeter.md",
-    "CAIE Bio/4 Cell Surface Membrane/Chemical Cell Signalling.md",
-    "CAIE Bio/5 Mitotic Cell Cycle/Metaphase.md",
-    "Images/Aspergillus.png",
-    "Intersection??/Asexual Reprouction.md",
-    "Images/Mucor.png",
-    "To Do.md",
-    "NEET Only Things/Five Kingdom Classification/Dinoflagellate.md",
+    "Inbox/Aerobic Respiration.md",
+    "Inbox/11th CBSE/Fluid Connective Tissues.md",
+    "Inbox/Circulatory System.md",
+    "NEET Only Things/Epithelial Tissues.md",
+    "Templates/NEET NOTE.md",
+    "NEET Only Things/Plants/Megasporangium.md",
     "NEET Only Things/Five Kingdom Classification/Euglanoids.md",
+    "Consciousness/2023-10-02.md",
+    "To Do.md",
+    "Inbox/11th CBSE/Hormones.md",
+    "NEET Only Things/Animal Tissues.md",
+    "NEET Only Things/Infectious Disease/Infectious Disease.md",
+    "NEET Only Things/Five Kingdom Classification/Animalia.md",
+    "NEET Only Things/Five Kingdom Classification/Chrysophyte.md",
+    "NEET Only Things/Five Kingdom Classification/EuBacteria.md",
+    "NEET Only Things/Five Kingdom Classification/Lichens.md",
+    "NEET Only Things/Plants/stamens.md",
+    "NEET Only Things/Plants/Seed.md",
+    "Consciousness/2023-10-01.md",
+    "Consciousness/2023-09-30.md",
+    "NEET Only Things/Plants/Endosperm.md",
+    "NEET Only Things/Five Kingdom Classification/Ascomycetes.md",
+    "Consciousness/2023-09-29.md",
+    "CAIE Bio/8 Transport in mammals/8 Transport in mammals.md",
+    "Inbox/Cholera.md",
+    "NEET Only Things/Carolus Linnaeus.md",
+    "NEET Only Things/Five Kingdom Classification/CBSE Chapter 2 Map.canvas",
+    "Images/Pasted image 20230925193302.png",
+    "Images/Pasted image 20230925193250.png",
+    "Consciousness/2023-09-22.encrypted",
+    "Images/Pasted image 20230920183616.png",
+    "English A level/Child Language Acquisition",
+    "English A level",
+    "English",
+    "Images/Agaricus.png",
+    "Images/Aspergillus.png",
+    "Images/Mucor.png",
     "Images/Fungi.png",
     "Images/Pasted image 20230807211541.png",
     "Images/Pasted image 20230807210116.png",
     "Images/Pasted image 20230807205426.png",
-    "Images/Pasted image 20230807191544.png",
-    "Images/Pasted image 20230807185216.png",
-    "Images/Pasted image 20230807183756.png",
     "NEET Only Things/Five Kingdom Classification",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-DIVERSITY-IN-THE-LIVING-WORLD-chapter-1.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-STRUCTURE-AND-FUNCTIONS-chapter-8.pdf",
     "CBSE_Textbooks/bio/11th/CBSE-class-11-NCERT-Book-Biology-ANATOMY-OF-FLOWERING-PLANTS-chapter-6.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph101.pdf",
     "CBSE_Textbooks/NCERT Physics Textbook/keph207.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph206.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph205.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph204.pdf",
-    "CBSE_Textbooks/NCERT Physics Textbook/keph203.pdf",
     "CAIE Bio/1 Cells/Untitled.canvas",
     "Dead/maps/Protein Synthesis.canvas",
     "Dead/maps/Cells.canvas",

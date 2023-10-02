@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-01
-sr-interval: 31
-sr-ease: 317
+sr-due: 2024-09-07
+sr-interval: 365
+sr-ease: 357
 ---
 ## Meristematic Tissues
 #biology #NCERT/11 

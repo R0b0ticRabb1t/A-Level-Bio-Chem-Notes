@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-10-01
-sr-interval: 41
-sr-ease: 291
+sr-due: 2024-06-12
+sr-interval: 255
+sr-ease: 311
 ---
 ## Stamen
 #biology/plants #NCERT/12 

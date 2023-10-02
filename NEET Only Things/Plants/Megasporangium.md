@@ -1,8 +1,8 @@
 ---
 aliases:
   - Ovule
-sr-due: 2023-10-02
-sr-interval: 39
+sr-due: 2024-01-20
+sr-interval: 110
 sr-ease: 280
 ---
 # Megasporangium/Ovule

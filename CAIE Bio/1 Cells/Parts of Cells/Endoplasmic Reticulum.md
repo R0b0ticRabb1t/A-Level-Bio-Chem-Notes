@@ -1,7 +1,7 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmachleitkari.weebly.com%2Fuploads%2F2%2F3%2F8%2F8%2F23888123%2F9090552_orig.jpg&f=1&nofb=1&ipt=05f30e2a9ed7fe8d7171b50765236e78f1b2cbc6684e62c2654531c9f22b7f7d&ipo=images"
-sr-due: 2023-09-07
-sr-interval: 40
+sr-due: 2024-01-07
+sr-interval: 119
 sr-ease: 287
 ---
 # Endoplasmic Reticulum
@@ -20,4 +20,4 @@ These are rough because they have many [[Ribosomes]] covering them that show up 
 Are smoother and have a different purpose. 
 - Makes [[Lipids]] and steroids
 - Stores calcium
-	- so is used more in muscel cells
+	- so is used more in muscle cells

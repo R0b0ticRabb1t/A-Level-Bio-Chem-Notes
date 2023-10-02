@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
-sr-ease: 267
+sr-due: 2024-03-18
+sr-interval: 195
+sr-ease: 287
 ---
 ### Nucleolus
 

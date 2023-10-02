@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 40
-sr-ease: 290
+sr-due: 2024-03-23
+sr-interval: 195
+sr-ease: 310
 ---
 ## Sickle Cell Anaemia
 #biology 

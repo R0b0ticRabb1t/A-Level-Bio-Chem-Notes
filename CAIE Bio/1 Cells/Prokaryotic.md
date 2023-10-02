@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 362
+sr-due: 2024-09-23
+sr-interval: 365
+sr-ease: 382
 ---
 Prokaryotic organisms have cells that do not contain nuclei or membrane bound [[Organelles]]. 
 Ex. [[Bacteria]]

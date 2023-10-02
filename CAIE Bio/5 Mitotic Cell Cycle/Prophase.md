@@ -1,11 +1,10 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
+sr-due: 2024-01-21
+sr-interval: 135
 sr-ease: 335
 ---
-## Phrophase
+## Prophase
 #biology 
-
 First part of [[Mitosis]].
 
 - [[Chromosomes]] become more visible as  [[Chromatin]] coils up.

@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
-sr-ease: 337
+sr-due: 2024-03-11
+sr-interval: 183
+sr-ease: 357
 ---
 ## G₂ Phase
 #biology 

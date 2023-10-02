@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
-sr-ease: 297
+sr-due: 2024-02-24
+sr-interval: 169
+sr-ease: 317
 ---
 # Water $\ce{H2O}$
 #biology/biomolecules

@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
+sr-due: 2024-02-15
+sr-interval: 148
 sr-ease: 329
 ---
 # Disaccharides

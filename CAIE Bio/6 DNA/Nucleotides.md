@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
-sr-ease: 230
+sr-due: 2024-01-19
+sr-interval: 133
+sr-ease: 250
 ---
 ## Nucleotides
 #biology 

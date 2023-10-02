@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-06
-sr-interval: 16
-sr-ease: 210
+sr-due: 2023-11-03
+sr-interval: 55
+sr-ease: 230
 ---
 # Blood
 #biology 

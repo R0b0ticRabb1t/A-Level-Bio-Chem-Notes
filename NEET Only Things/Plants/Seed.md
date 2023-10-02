@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-14
-sr-interval: 11
-sr-ease: 134
+sr-due: 2023-10-05
+sr-interval: 4
+sr-ease: 130
 ---
 # Seeds
 #biology #NCERT/12 
@@ -21,7 +21,7 @@ Seeds are the fertilized [[Megasporangium|Ovule]]. formed inside [[Fruits]] (fer
 
 ### Changing Structures
 Some seeds have a residue persistent [[Megasporangium#^6e8699|Nucellus]]--> [[Perisperm]]. 
-- eg: black pepper and beet
+- eg: **black pepper** and **beet**
 Integuments harden --> seed coat
 Micropyle stays as a hole for water and oxygen for seed to [[Germinate]]
 Seed matures, water content decreases (10-15% moisture/mass left)

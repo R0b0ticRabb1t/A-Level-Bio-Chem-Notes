@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-08-31
-sr-interval: 40
+sr-due: 2024-01-31
+sr-interval: 145
 sr-ease: 330
 ---
 ## Non-Competitive Inhibitors

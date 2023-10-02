@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-08
-sr-interval: 4
+sr-due: 2023-10-28
+sr-interval: 34
 sr-ease: 275
 ---
 # [[Phylum]] Deuteromycetes

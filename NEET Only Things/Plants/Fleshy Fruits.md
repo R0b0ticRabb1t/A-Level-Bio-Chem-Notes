@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
-sr-ease: 330
+sr-due: 2024-03-12
+sr-interval: 186
+sr-ease: 350
 ---
 ## Fleshy Fruits
 

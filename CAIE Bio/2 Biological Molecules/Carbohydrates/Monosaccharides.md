@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-07
-sr-interval: 40
+sr-due: 2024-01-06
+sr-interval: 118
 sr-ease: 294
 ---
 # Monosaccharides

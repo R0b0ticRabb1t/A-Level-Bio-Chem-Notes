@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 348
+sr-due: 2024-03-28
+sr-interval: 199
+sr-ease: 368
 ---
 # Amylose
 

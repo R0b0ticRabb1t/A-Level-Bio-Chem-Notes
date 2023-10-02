@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-02
-sr-interval: 40
+sr-due: 2024-01-15
+sr-interval: 132
 sr-ease: 319
 ---
 # Fruits

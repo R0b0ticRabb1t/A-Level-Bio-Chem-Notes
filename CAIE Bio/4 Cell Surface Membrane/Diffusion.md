@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 320
+sr-due: 2024-06-17
+sr-interval: 279
+sr-ease: 340
 ---
 # Diffusion
 #biology 

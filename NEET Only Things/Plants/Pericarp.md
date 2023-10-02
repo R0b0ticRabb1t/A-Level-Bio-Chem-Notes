@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
-sr-ease: 292
+sr-due: 2024-06-15
+sr-interval: 275
+sr-ease: 312
 ---
 ## Pericarp
 The pericarp is the main part of every [[Fruits|fruit]]. It develops from the ovary wall in [[NEET Only Things/Plants/Plants]]. It mainly helps in seed dispersal.

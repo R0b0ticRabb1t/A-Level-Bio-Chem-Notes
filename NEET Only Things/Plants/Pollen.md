@@ -1,7 +1,7 @@
 ---
 banner: "![[Pollen.png]]"
-sr-due: 2023-09-15
-sr-interval: 26
+sr-due: 2023-12-12
+sr-interval: 79
 sr-ease: 260
 ---
 # Pollen
@@ -21,7 +21,6 @@ usually spherical, variety of features.
 	- continous
 
 #### Mature pollen grains have 2 cells (60% released at this stage):
-
 1. **Vegetative Cell**
 	- Large
 	- **Uneven nucleus**

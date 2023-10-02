@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-08
-sr-interval: 40
-sr-ease: 395
+sr-due: 2024-04-16
+sr-interval: 220
+sr-ease: 415
 ---
 ## Fundamental Tissue System
 #biology/plants #NCERT/11 

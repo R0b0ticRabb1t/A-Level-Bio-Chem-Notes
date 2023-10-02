@@ -1,9 +1,8 @@
 ---
-sr-due: 2023-09-06
-sr-interval: 35
-sr-ease: 213
+sr-due: 2023-12-29
+sr-interval: 112
+sr-ease: 233
 ---
-
 # Glucose
 
 Glucose is a [[Carbohydrates]], one of the [[Monosaccharides]]

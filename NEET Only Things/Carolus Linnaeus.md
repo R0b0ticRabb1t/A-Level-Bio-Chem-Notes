@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-28
-sr-interval: 27
+sr-due: 2023-11-30
+sr-interval: 62
 sr-ease: 228
 ---
 # Carolus Linnaeus

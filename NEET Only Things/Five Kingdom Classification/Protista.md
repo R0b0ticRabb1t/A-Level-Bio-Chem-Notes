@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-04
-sr-interval: 2
-sr-ease: 206
+sr-due: 2023-12-27
+sr-interval: 90
+sr-ease: 226
 ---
 # [[Kingdom]] Protista ![[Pasted image 20230807183756.png|right|300]]
 #biology #NCERT 
@@ -25,7 +25,7 @@ kinda vague not perfect or standardized
  - [[Protozoans]]
 	 - [[Protozoans#Amoeboid]]
 	 - [[Protozoans#Flagellated]]
-	 - [[Protozoans#Cilliated! Pasted image 20230807211541.png right 200|Cillated Protozoans]]
+	 - [[Protozoans#Cilliated]]
 	 - [[Protozoans#Sporozoans]]
 
 

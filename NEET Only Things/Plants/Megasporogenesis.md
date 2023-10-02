@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-29
-sr-interval: 35
+sr-due: 2024-01-02
+sr-interval: 95
 sr-ease: 270
 ---
 # Megasporogenesis

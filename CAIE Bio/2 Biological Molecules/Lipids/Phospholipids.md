@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
-sr-ease: 310
+sr-due: 2024-08-08
+sr-interval: 323
+sr-ease: 330
 ---
 ### Phospholipids
 #biology/biomolecules  

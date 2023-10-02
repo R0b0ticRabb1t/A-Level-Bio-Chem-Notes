@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-08
-sr-interval: 40
+sr-due: 2024-01-09
+sr-interval: 123
 sr-ease: 309
 ---
 ## Telophase

@@ -1,3 +1,9 @@
+---
+sr-due: 2023-10-04
+sr-interval: 3
+sr-ease: 252
+---
+
 # EuBacteria (true bacteria)
 #biology #NCERT/11 
 
@@ -6,11 +12,9 @@ thousands of different types, main features being rigid [[Cell Wall]] and if mot
 ## Types ? ig
 ### Photosynthetic Autotrophs
 [[Cyanobacteria]]
-
 ### Chemosynthetic Autotrophs
 oxidize inorganic substances (nitrates/nitrites & ammonia) to release energy. 
 role in recycling nitrogen, phosphorus iron and sulphur
-
 ### Heterotrophic 
 most abundant
 most important [[Decomposers]]

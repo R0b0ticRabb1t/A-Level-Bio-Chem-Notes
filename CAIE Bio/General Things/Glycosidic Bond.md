@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
-sr-ease: 359
+sr-due: 2024-03-24
+sr-interval: 196
+sr-ease: 379
 ---
 ## Glycosodic Bonds
 

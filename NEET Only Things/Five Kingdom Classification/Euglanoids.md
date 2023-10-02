@@ -1,3 +1,8 @@
+---
+sr-due: 2023-10-04
+sr-interval: 2
+sr-ease: 238
+---
 # [[Class]] Euglanoids (or Euglenophyte)
 #biology #NCERT ([[Phylum]]:[[EuglenoZoa]], Kingdom:[[Protista]])
 

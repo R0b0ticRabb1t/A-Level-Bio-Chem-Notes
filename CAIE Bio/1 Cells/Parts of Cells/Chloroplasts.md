@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
+sr-due: 2023-12-24
+sr-interval: 105
 sr-ease: 263
 ---
 # Chloroplasts

@@ -1,7 +1,7 @@
 ---
 banner: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages-medium-large-5%2F1-microtubules-kateryna-konscience-photo-library.jpg&f=1&nofb=1&ipt=be9f6c6b143723cc60dada8b442f324238d0a2269219256d05ff77729304eee5&ipo=images"
-sr-due: 2023-09-05
-sr-interval: 34
+sr-due: 2023-12-01
+sr-interval: 83
 sr-ease: 230
 ---
 # Microtubules

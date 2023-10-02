@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-27
-sr-interval: 37
+sr-due: 2024-01-13
+sr-interval: 108
 sr-ease: 293
 ---
 ## Features of Anemophilic plants
@@ -13,5 +13,5 @@ Wind pollination is very random/luck based and to compensate
 - Many pollen grains 
 - [[Pollen]] is light and *not* sticky
 - Well exposed [[stamens]] and feathery [[Stigma]]
-- Many flowers in a compact inflorescence
+- Many flowers in a compact [[Infloroscence]]
 - usually **one ovule per ovary**

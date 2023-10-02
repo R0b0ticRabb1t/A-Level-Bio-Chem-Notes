@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-10
-sr-interval: 40
-sr-ease: 351
+sr-due: 2024-03-20
+sr-interval: 192
+sr-ease: 371
 ---
 # Starch
 

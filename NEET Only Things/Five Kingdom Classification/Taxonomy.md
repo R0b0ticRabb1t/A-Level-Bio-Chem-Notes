@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-06
-sr-interval: 17
-sr-ease: 230
+sr-due: 2023-11-09
+sr-interval: 62
+sr-ease: 250
 ---
 # Taxonomy
 #biology #NCERT #MOC 

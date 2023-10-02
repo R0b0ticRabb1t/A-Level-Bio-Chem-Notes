@@ -8,4 +8,4 @@ Only type that gives genetic variation so is preffered
 
 Only method for plants which are completely monosexual like *[[Papaya]]*
 
-#biology/plants 
+#biology/plants #NCERT/12  

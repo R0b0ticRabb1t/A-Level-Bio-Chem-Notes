@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-23
-sr-interval: 20
+sr-due: 2023-11-14
+sr-interval: 50
 sr-ease: 226
 ---
 # Typhoid

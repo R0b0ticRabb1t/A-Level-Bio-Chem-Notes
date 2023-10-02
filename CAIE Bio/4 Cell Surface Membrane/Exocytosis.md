@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
+sr-due: 2024-02-26
+sr-interval: 159
 sr-ease: 358
 ---
 ## Exocytosis

@@ -1,7 +1,7 @@
 ---
 banner: "https://www.mrgscience.com/uploads/2/0/7/9/20796234/membr1-med-hr_orig.jpeg"
-sr-due: 2023-09-03
-sr-interval: 40
+sr-due: 2024-01-12
+sr-interval: 126
 sr-ease: 294
 banner_x: 0.57359
 ---
@@ -48,7 +48,7 @@ Most proteins and phospholipids in the membrane have short [[Carbohydrates|carb]
 - [[Signalling receptors]]
 - [[Cell to Cell recognition]]
 - [[Cell Signalling]]
-### Other things [[Protein]] do
+### Other things [[Protein]]s do
 - Attach to [[Cytoskeleton]] maintain shape
 - Enzymes
 - [[Transport Proteins]]

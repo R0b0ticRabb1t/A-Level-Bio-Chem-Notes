@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-08-23
-sr-interval: 2
-sr-ease: 209
+sr-due: 2023-10-13
+sr-interval: 15
+sr-ease: 169
 ---
 # Slime Molds
 #biology #NCERT 

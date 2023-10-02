@@ -1,8 +1,8 @@
 ---
 banner: "![[Gynoecium.png]]"
-sr-due: 2023-09-26
-sr-interval: 37
-sr-ease: 292
+sr-due: 2024-05-21
+sr-interval: 237
+sr-ease: 312
 ---
 # Gynoecium
 #biology/plants #NCERT/12 

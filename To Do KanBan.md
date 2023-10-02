@@ -4,19 +4,26 @@ kanban-plugin: basic
 
 ---
 
+## Half Complete/Backlog
+
+- [ ] ![[To Do#^socfvt9b5]]
+- [ ] Alcohols Phenols and Ethers
+- [ ] CBSE GRADE 11
+
+
 ## I NEED to do
 
 - [ ] Solutions
-- [ ] Bio Al C1
 - [ ] Electrostatic Potential & Capacitance
 
 
 ## I'm DOING rn
 
-- [ ] ![[To Do#^swss6uzm5]]
-- [ ] ![[To Do#^socfvt9b5]]
+- [ ] Circular Motion AL
 - [ ] Chemical Kinetics
-- [ ] Alcohols Phenols and Ethers
+- [ ] Alternating Current
+- [ ] ![[To Do#^94bnzpo83]]
+- [ ] Chem Al C1
 
 
 ## To REVISE
@@ -25,8 +32,16 @@ kanban-plugin: basic
 - [x] Physical World
 - [x] Electric Charges
 - [x] Haloalkanes
-- [x] [[Sexual Reproduction In Flowering Plants]]
 - [x] Biomoleculues
+- [x] Bio Al C1
+
+
+## Notes Complete YAY
+
+**Complete**
+- [ ] ![[To Do#^swss6uzm5]]
+- [ ] ![[To Do#^thhleci4f]]
+- [ ] [[Sexual Reproduction In Flowering Plants]]
 
 
 

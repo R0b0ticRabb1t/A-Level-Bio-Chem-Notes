@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-03
-sr-interval: 50
-sr-ease: 330
+sr-due: 2024-05-15
+sr-interval: 250
+sr-ease: 350
 ---
 ### Telomeres
 #biology 

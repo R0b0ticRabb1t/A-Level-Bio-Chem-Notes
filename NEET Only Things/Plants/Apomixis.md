@@ -1,7 +1,7 @@
 ---
-sr-due: 2023-09-05
-sr-interval: 3
-sr-ease: 213
+sr-due: 2023-11-06
+sr-interval: 59
+sr-ease: 253
 ---
 # Apomixis
 #biology/plants #NCERT/12 

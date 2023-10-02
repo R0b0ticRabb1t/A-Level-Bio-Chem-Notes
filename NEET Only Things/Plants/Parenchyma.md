@@ -1,6 +1,6 @@
 ---
-sr-due: 2023-09-11
-sr-interval: 40
+sr-due: 2024-01-04
+sr-interval: 112
 sr-ease: 279
 ---
 ## Parenchyma
